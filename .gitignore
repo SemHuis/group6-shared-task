@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+lora_env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs (NO subir modelos grandes)
+checkpoints/
+models/
+logs/
+wandb/
+
+# Data (si es grande, mejor no subir)
+# data/
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+*.swp
+*.swo
+
+# Results (opcional - puedes comentar si quieres subir resultados)
+# results/
+
