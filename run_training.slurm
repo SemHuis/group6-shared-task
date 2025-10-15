@@ -29,7 +29,6 @@ nvidia-smi
 echo ""
 
 # Variables de entorno para WandB
-export WANDB_API_KEY="API-KEY"
 export CUDA_VISIBLE_DEVICES=0
 
 # Ejecutar script de entrenamiento

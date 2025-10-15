@@ -32,3 +32,12 @@ wandb/
 # Results (opcional - puedes comentar si quieres subir resultados)
 # results/
 
+# API Keys y Secrets
+.env
+*.key
+*.secret
+wandb/
+
+# SLURM scripts with keys (si tienes)
+# slurm_with_keys.sh
+
