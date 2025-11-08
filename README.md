@@ -216,6 +216,39 @@ source lora_env/bin/activate.csh
 
 python scripts/train_lora_fewshot.py
 
+## Habrok Evaluation Example
+**Login to Habrok:**
+
+    ssh snumber@login1.hb.hpc.rug.nl
+
+**Start an Interactive GPU Job:**
+
+    srun --nodes=1 --ntasks=1 --partition=gpushort --mem=120G --time=04:00:00 --gres=gpu:a100:1 --pty bash
+
+**Load Modules:**
+
+    module load Python/3.11.5-GCCcore-13.2.0 CUDA/12.1.1
+
+**Create & Activate Virtual Environment:**
+
+Create (only once)
+
+    python3 -m venv .env
+Activate
+
+    source .env/bin/activate
+
+**Install Dependencies:**
+
+    pip install torch transformers peft pandas tqdm numpy accelerate
+
+**Run generate_predictions.py and evaluation_script.py (with command line arguments):**
+
+    python generate_predictions.py 
+    python evaluation_script.py
+
+
+
 
 ## License
 Apache-2.0. Adapters inherit compatibility with the base model license.
