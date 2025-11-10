@@ -105,6 +105,22 @@ Validation results (few-shot inference for both):
 | Zero-shot trained + few-shot infer.   | 80.8%    | 15.91          | 21.12         |
 | Few-shot trained + few-shot infer.    | 80.4%    | 6.77           | 26.36         |
 
+### Chinese
+
+| Model                                 | Accuracy | Total Bias | Combined Score |
+|---------------------------------------|----------|----------------|---------------|
+| LLaMAX3-8B (few-shot only, no LoRA)   | 56.3%    | 22.35          | 13.55         |
+| Zero-shot trained + few-shot infer.   | 69.2%    | 18.86          | 17.34         |
+| Few-shot trained + few-shot infer.    | 65.8%    | 26.16          | 15.30         |
+
+### Spanish
+
+| Model                                 | Accuracy | Total Bias | Combined Score |
+|---------------------------------------|----------|----------------|---------------|
+| LLaMAX3-8B (few-shot only, no LoRA)   | 52.9%    | 36.64          | 11.43         |
+| Zero-shot trained + few-shot infer.   | 82.5%    | 8.19           | 25.64         |
+| Few-shot trained + few-shot infer.    | 80.0%    | 8.53           | 24.58         |
+
 Interpretation:
 - Zero-shot trained + few-shot inference yields the highest accuracy.
 - Few-shot trained + few-shot inference yields the best ranking score and slightly lower content effect.
