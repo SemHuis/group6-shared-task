@@ -279,7 +279,7 @@ def analyze_model_performance(model_name: str, ground_truth: List[Dict[str, Any]
     }
 
 
-# --- 3. EXECUTION (MODIFIED FOR ARGPARSE) ---
+# --- 3. EXECUTION ---
 
 if __name__ == "__main__":
     
