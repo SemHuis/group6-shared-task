@@ -102,8 +102,8 @@ Validation results (few-shot inference for both):
 | Model                                 | Accuracy | Total Bias | Combined Score |
 |---------------------------------------|----------|----------------|---------------|
 | LLaMAX3-8B (few-shot only, no LoRA)   | 50.4%    | 44.18          | 10.48         |
-| Zero-shot trained + few-shot infer.   | 80.8%    | 15.91          | 21.12         |
-| Few-shot trained + few-shot infer.    | 80.4%    | 6.77           | 26.36         |
+| Zero-shot trained + few-shot infer.   | 85.0%    | 15.95          | 22.19         |
+| Few-shot trained + few-shot infer.    | 85.0     | 9.41           | 25.43         |
 
 ### Chinese
 
