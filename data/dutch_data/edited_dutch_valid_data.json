@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "68b29c80-27f6-4121-8408-295bd8de466c",
+    "syllogism": "Anything that is a bird is a vertebrate. It is also the case that every single bat is a vertebrate. Consequently, nothing that is a bat is a bird.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een vogel is, is een gewerveld dier. Het is ook zo dat elke vleermuis een gewerveld dier is. Niets wat een vleermuis is, is dus een vogel."
+  },
+  {
+    "id": "b289a588-133e-40b7-a1ba-014af94a8522",
+    "syllogism": "A few of the buildings are houses. There are no houses that are cars. As a result, some cars are buildings.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Een paar van de gebouwen zijn huizen. Er zijn geen huizen die auto's zijn. Als gevolg hiervan zijn sommige auto's gebouwen."
+  },
+  {
+    "id": "8fad6fdb-f462-4147-9b0f-28b1343200b8",
+    "syllogism": "Anything that is a planet is considered a celestial body. It is impossible for a bridge to be a celestial body. Some bridges can be found that are not planets.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een planeet is, wordt als een hemellichaam beschouwd. Het is onmogelijk dat een brug een hemellichaam is. Er zijn enkele bruggen te vinden die geen planeten zijn."
+  },
+  {
+    "id": "43ae00ee-0cf2-4a62-beab-56f90d170347",
+    "syllogism": "There are no squares which are round. There are no circles which are squares. It follows, then, that some circles are square.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen vierkanten die rond zijn. Er zijn geen cirkels die vierkanten zijn. Hieruit volgt dus dat sommige cirkels vierkant zijn."
+  },
+  {
+    "id": "b3a91f20-41e0-45b3-a152-92f28e8999c1",
+    "syllogism": "It is not true that any insect is a creature with eight legs. Every insect is a spider. It follows that every spider is a creature with eight legs.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is niet waar dat elk insect een wezen is met acht poten. Elk insect is een spin. Hieruit volgt dat elke spin een wezen is met acht poten."
+  },
+  {
+    "id": "29250e54-2aae-4cb6-a6d3-f2b461c30e62",
+    "syllogism": "Every single item that is money is not currency. A subset of items that are dollars are currency. It follows that some dollars are not money.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk item dat geld is, is geen valuta. Een subset van items die dollars zijn, zijn valuta. Hieruit volgt dat sommige dollars geen geld zijn."
+  },
+  {
+    "id": "67c048fb-e79b-4267-b6cc-5605a1b92810",
+    "syllogism": "Every single book is a planet. Every single book is furniture. Therefore, there are pieces of furniture that are planets.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk boek is een planeet. Elk boek is een meubelstuk. Daarom zijn er meubelstukken die planeten zijn."
+  },
+  {
+    "id": "0b639393-0cbf-4162-90a6-80cd8a7dc982",
+    "syllogism": "Anything which is a mammal is cold-blooded. All things that are whales are mammals. There exists at least one whale that is cold-blooded.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een zoogdier is, is koelbloedig. Alle dingen die walvissen zijn, zijn zoogdieren. Er bestaat minstens één walvis die koelbloedig is."
+  },
+  {
+    "id": "d8954215-16e1-4b1a-ab2f-bb98b633712d",
+    "syllogism": "There are some ideas that are made of cheese. Every single idea is an emotion. Consequently, some emotions are made of cheese.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn enkele ideeën die van kaas zijn gemaakt. Elk idee is een emotie. Dus zijn sommige emoties gemaakt van kaas."
+  },
+  {
+    "id": "0a6a2c61-1d0e-47a6-8faa-5a5086a59dc9",
+    "syllogism": "Every single tree is a plant. There exist no stones which are also plants. There is at least one stone which is not a tree.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elke boom is een plant. Er bestaan ​geen stenen die ook planten zijn. Er is minstens één steen die geen boom is."
+  },
+  {
+    "id": "ff711f53-e1ce-448e-958b-c702260df860",
+    "syllogism": "There are no humans who are insects. A few humans are astronauts. It is the case that a portion of all astronauts are insects.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen mensen die insecten zijn. Een paar mensen zijn astronauten. Het is zo dat een deel van alle astronauten insecten zijn."
+  },
+  {
+    "id": "3302e35f-aa7e-421a-8724-7186ac4bf418",
+    "syllogism": "There's no small rodent that is a bear. Every single squirrel is a small rodent. Consequently, no squirrel is a bear.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er is geen klein knaagdier dat een beer is. Elke eekhoorn is een klein knaagdier. Dus is geen enkele eekhoorn een beer."
+  },
+  {
+    "id": "91cc9185-2d04-4140-a98c-61c8b582afe2",
+    "syllogism": "Anything which is a human is capable of walking. It is the case that no rock is a human. At least some rocks can walk.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een mens is, kan lopen. Het is zo dat geen enkele steen een mens is. Ten minste sommige rotsen kunnen lopen."
+  },
+  {
+    "id": "c88bec75-1d67-4660-8898-d3f8d060d626",
+    "syllogism": "No vegetable is a type of meat. It is true that every single meat is a food. This proves that some vegetables are food.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Geen enkele groente is een soort vlees. Het is waar dat elk vlees een voedingsmiddel is. Dit bewijst dat sommige groenten voedsel zijn."
+  },
+  {
+    "id": "8e7c3181-8819-4648-a6f9-33b1009c59c3",
+    "syllogism": "Everything that is a tree is a plant. Not a single stone is a plant. All stones are trees.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een boom is, is een plant. Geen enkele steen is een plant. Alle stenen zijn bomen."
+  },
+  {
+    "id": "54cf0041-6930-4de3-aac5-4810959586d0",
+    "syllogism": "It is a fact that all birds can fly. There are some animals which are birds. Therefore, every single animal can fly.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is een feit dat alle vogels kunnen vliegen. Er zijn enkele dieren die vogels zijn. Daarom kan elk dier vliegen."
+  },
+  {
+    "id": "ee8e00e2-7bf8-41a3-8009-40d328cb1d60",
+    "syllogism": "It is true that no mammals are insects. There are no butterflies that are mammals. Therefore, it follows that some butterflies are insects.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is waar dat geen enkel zoogdier een insect is. Er zijn geen vlinders die zoogdieren zijn. Daaruit volgt dat sommige vlinders insecten zijn."
+  },
+  {
+    "id": "619eeec3-c9e1-404d-8ca6-5375df3777bb",
+    "syllogism": "Furniture are things that are in no way items for sitting. All items that are chairs were designed for sitting. Chairs are not furniture.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Meubels zijn dingen die op geen enkele manier bedoeld zijn om op te zitten. Alle items die stoelen zijn, zijn ontworpen om op te zitten. Stoelen zijn geen meubels."
+  },
+  {
+    "id": "4d7aa5d5-4fdc-49d1-b879-1d6fca829c8e",
+    "syllogism": "Every single square is a polygon. There are no polygons which are circles. Thus, it can be concluded that some circles are not squares.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elk vierkant is een veelhoek. Er zijn geen veelhoeken die cirkels zijn. Er kan dus worden geconcludeerd dat sommige cirkels geen vierkanten zijn."
+  },
+  {
+    "id": "1638fd0c-b370-4d7a-8036-97f0468e886d",
+    "syllogism": "There are no shirts that are also pants. It is true that no jacket is a pair of pants. Therefore, we can conclude that a few jackets are shirts.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen shirts die ook een broek zijn. Het is waar dat geen enkele jas een broek is. Daarom kunnen we concluderen dat een paar jassen shirts zijn."
+  },
+  {
+    "id": "475ce940-a63d-4940-9254-be1e35243cfa",
+    "syllogism": "There are some dogs that are cats. There are no cats that are reptiles. As a result, some reptiles are dogs.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn honden die katten zijn. Er zijn geen katten die reptielen zijn. Als gevolg hiervan zijn sommige reptielen honden."
+  },
+  {
+    "id": "dc79b4b7-8f59-43b5-8414-6c5cb46e94c7",
+    "syllogism": "Every single liquid is wet. All solids are also wet. Therefore, nothing that is a solid is not a liquid.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke vloeistof is nat. Alle vaste stoffen zijn ook nat. Daarom is niets dat een vaste stof is geen vloeistof."
+  },
+  {
+    "id": "80ba297a-c9c9-4925-851e-72eb42dafd61",
+    "syllogism": "Every person who is a politician is a mortal. All mortals are humans. Consequently, every single human is a politician.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Iedere politicus is een sterveling. Alle stervelingen zijn mensen. Dus is ieder mens een politicus."
+  },
+  {
+    "id": "312d903d-c5fc-4ac8-beb2-3ec72f6b25b9",
+    "syllogism": "There are no plants that are fish. Some objects classified as a rose is a plant. Therefore, no roses are fish.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen planten die vissen zijn. Sommige objecten die als roos zijn geclassificeerd, zijn een plant. Daarom zijn rozen geen vissen."
+  },
+  {
+    "id": "6f8772d9-64c8-4296-85fb-898046c33a6e",
+    "syllogism": "Dogs are in no way cats. There are no cats which are fish. There exist no dogs that are fish.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Honden zijn absoluut geen katten. Er zijn geen katten die vissen zijn. Er bestaan ​​geen honden die vissen zijn."
+  },
+  {
+    "id": "9deb885f-2862-4ceb-86b7-c0fbc19e2691",
+    "syllogism": "Not a single rock is an animal. Every single item which is a dog is a rock. This implies that some dogs are animals.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Geen enkele steen is een dier. Elk item dat een hond is, is een steen. Dit impliceert dat sommige honden dieren zijn."
+  },
+  {
+    "id": "d1a8eb77-d4f7-4b1c-be1a-6e501f5b910e",
+    "syllogism": "Every single thing that is a bird is an animal. Anything that is a pigeon is, without exception, a bird. This means that all pigeons are animals.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een vogel is, is een dier. Alles wat een duif is, is zonder uitzondering een vogel. Dit betekent dat alle duiven dieren zijn."
+  },
+  {
+    "id": "371da820-c909-468d-a7d8-333db7019688",
+    "syllogism": "It is the case that no two-wheeled item is a vehicle. A certain number of bicycles can be found among two-wheeled items. Therefore, a number of bicycles do not belong to the category of vehicles.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is zo dat geen enkel tweewielig voorwerp een voertuig is. Onder de tweewielige artikelen zijn een bepaald aantal fietsen te vinden. Een aantal fietsen behoort daarom niet tot de categorie voertuigen."
+  },
+  {
+    "id": "a3fc4115-5212-451a-888d-d044c14c1678",
+    "syllogism": "Any creature that is a cat is not an animal. There are cats which are also dogs. From this, we know that there are certain dogs that are not animals.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk wezen dat een kat is, is geen dier. Er zijn katten die ook honden zijn. Hieruit weten we dat er bepaalde honden zijn die geen dieren zijn."
+  },
+  {
+    "id": "481ceb04-c39f-4f7a-b645-18dc5aa717b2",
+    "syllogism": "There are no dogs who are cats. A few dogs are pets. This implies that some pets are cats.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen honden die katten zijn. Een paar honden zijn huisdieren. Dit impliceert dat sommige huisdieren katten zijn."
+  },
+  {
+    "id": "c6a92b4e-ca9a-475c-9fec-967fbec7ab36",
+    "syllogism": "It is true that no fish live in the sea. There are fish, and some of them are salmons. Based on this, it must be the case that a certain amount of salmons do not live in the sea.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat er geen vissen in de zee leven. Er zijn vissen, en sommige daarvan zijn zalmen. Op grond hiervan moet het zo zijn dat een bepaalde hoeveelheid zalmen niet in zee leeft."
+  },
+  {
+    "id": "0c41f657-b5c7-49f0-ba40-93192828326c",
+    "syllogism": "Every single bird is a mammal. It is the case that no lion is a bird. It is the case that no lion is a mammal.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke vogel is een zoogdier. Het is zo dat geen enkele leeuw een vogel is. Het is zo dat geen enkele leeuw een zoogdier is."
+  },
+  {
+    "id": "dfd5eb0f-1457-4e71-b1d9-60dd75ce5ebb",
+    "syllogism": "It is true that every single vehicle is a cloud. No clouds are cars. Based on this information, it is logically necessary that some cars are not vehicles.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat elk voertuig een wolk is. Geen enkele wolk is een auto. Op basis van deze informatie is het logischerwijs noodzakelijk dat sommige auto's geen voertuigen zijn."
+  },
+  {
+    "id": "65aaed4e-522b-422d-b4e4-cd5dfced222e",
+    "syllogism": "Anything that is a mammal is a human. Every dog is a mammal. Not a single dog is a human.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een zoogdier is, is een mens. Iedere hond is een zoogdier. Geen enkele hond is een mens."
+  },
+  {
+    "id": "ec3d4144-b083-43d2-a400-20da589c8627",
+    "syllogism": "It is true that everything which is a bird is a winged creature. There are no insects which are birds. A conclusion that can be drawn from this is that there are no insects which are winged creatures.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat alles wat een vogel is, een gevleugeld wezen is. Er zijn geen insecten die vogels zijn. Een conclusie die hieruit getrokken kan worden is dat er geen insecten zijn die gevleugelde wezens zijn."
+  },
+  {
+    "id": "f82be88d-5ec5-48f2-98ed-84893e692052",
+    "syllogism": "Nothing that is a vehicle is a building. All buildings in existence are cars. A certain portion of cars are not vehicles.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Niets dat een voertuig is, is een gebouw. Alle bestaande gebouwen zijn auto's. Een bepaald deel van de auto's is geen voertuig."
+  },
+  {
+    "id": "38d07379-8307-4a7f-a73d-731ed989dc84",
+    "syllogism": "The group of birds is a subset of the group of creatures with feathers. At least one insect is not a creature with feathers. Not every insect is a bird.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "De groep vogels is een onderdeel van de groep wezens met veren. Ten minste één insect is geen wezen met veren. Niet elk insect is een vogel."
+  },
+  {
+    "id": "c0895494-c8b9-49b8-ae50-85e05a9c2bad",
+    "syllogism": "Cats are in no way mammals. Every single cat is a feline. It is the case that some felines fail to be mammals.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Katten zijn in geen enkel opzicht zoogdieren. Elke kat is een katachtige. Het is zo dat sommige katachtigen geen zoogdieren zijn."
+  },
+  {
+    "id": "fafcc44f-e5ec-4fe9-8bed-96eb1ad1ab3d",
+    "syllogism": "Any object that is a building is also a structure. There is not a single structure that is a cloud. It follows that no cloud is a building.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elk object dat een gebouw is, is ook een structuur. Er is geen enkele structuur die een wolk is. Hieruit volgt dat geen enkele wolk een gebouw is."
+  },
+  {
+    "id": "45d94787-3541-406f-af22-4fd535dee8a8",
+    "syllogism": "Every vehicle has wheels. At least one car does not have wheels. Not all cars are vehicles.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elk voertuig heeft wielen. Minstens één auto heeft geen wielen. Niet alle auto's zijn voertuigen."
+  },
+  {
+    "id": "712feadb-84db-4b6d-9ef4-3a4d670f0d66",
+    "syllogism": "It is the case that no ghost is immortal. There is not a single human that is a ghost. It follows that no human is immortal.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is zo dat geen enkele geest onsterfelijk is. Er is geen enkele mens die een geest is. Hieruit volgt dat geen mens onsterfelijk is."
+  },
+  {
+    "id": "febb0646-5f5b-4cee-bc66-a3444c562560",
+    "syllogism": "There is no person who is both a musician and a non-artistic person. It is known that some human beings are among the non-artistic people. The consequence is that there exist human beings who are not musicians.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er is geen persoon die zowel muzikant als niet-artistiek persoon is. Het is bekend dat sommige mensen tot de niet-artistieke mensen behoren. Het gevolg is dat er mensen bestaan ​​die geen muzikanten zijn."
+  },
+  {
+    "id": "ec09b245-cd39-4bf3-95b5-29f73ac156ab",
+    "syllogism": "Every single snake is a reptile. It is the case that all lizards are reptiles. It follows that some lizards are snakes.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke slang is een reptiel. Het is zo dat alle hagedissen reptielen zijn. Hieruit volgt dat sommige hagedissen slangen zijn."
+  },
+  {
+    "id": "95637ce9-5489-45cb-aa6c-73934ab7e489",
+    "syllogism": "Every single dog is an animal. Everything that is an animal is a mammal. It must therefore be true that every mammal is an animal.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke hond is een dier. Alles wat een dier is, is een zoogdier. Het moet dus waar zijn dat ieder zoogdier een dier is."
+  },
+  {
+    "id": "a907b7ac-65e7-4dbf-83db-21957c0c2a8f",
+    "syllogism": "Every sport requires physical activity. There is no such thing as soccer that isn't a sport. At least some soccer is a thing that requires physical activity.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elke sport vereist fysieke activiteit. Er bestaat niet zoiets als voetbal dat geen sport is. Voetbal is in ieder geval iets wat fysieke activiteit vereist."
+  },
+  {
+    "id": "06689352-cd51-48f4-8767-0864666d0941",
+    "syllogism": "Anything that is a novel is a book. All books are publications. From these facts, it is clear that a few publications are novels.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een roman is, is een boek. Alle boeken zijn publicaties. Uit deze feiten blijkt duidelijk dat enkele publicaties romans zijn."
+  },
+  {
+    "id": "ee91ca83-4f5e-48ac-ae52-93ad7842c9fb",
+    "syllogism": "All houses are structures. There are no bridges that are houses. Therefore, no bridge is a structure.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alle huizen zijn constructies. Er zijn geen bruggen die huizen zijn. Daarom is geen enkele brug een constructie."
+  },
+  {
+    "id": "c9a543c7-82de-4734-a9e2-e059894c58b4",
+    "syllogism": "It is not true that any input device is used for typing. Each and every keyboard is an input device. It is therefore a fact that no keyboard is used for typing.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is niet waar dat elk invoerapparaat wordt gebruikt om te typen. Elk toetsenbord is een invoerapparaat. Het is dus een feit dat er geen toetsenbord wordt gebruikt om te typen."
+  },
+  {
+    "id": "077078f3-93b5-4e7d-8376-66acd052c2c0",
+    "syllogism": "Every doctor is a professional. The set of children does not contain professionals. At least one child is not a doctor.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Iedere arts is een professional. De set kinderen bevat geen professionals. Minstens één kind is geen arts."
+  },
+  {
+    "id": "8cd07a48-a1a5-408d-97ab-6827a4176f99",
+    "syllogism": "Nothing that is a canine is a cat. A certain number of dogs are canines. Thus, some dogs are cats.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Niets dat een hondachtige is, is een kat. Een bepaald aantal honden zijn hondachtigen. Sommige honden zijn dus katten."
+  },
+  {
+    "id": "5a021fdb-c72e-4a97-b112-a4a4011dee86",
+    "syllogism": "No pet is a canine. It is known that a portion of dogs are pets. Therefore, some dogs do not belong to the group of canines.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkel huisdier is een hondachtige. Het is bekend dat een deel van de honden huisdieren zijn. Daarom behoren sommige honden niet tot de groep hondachtigen."
+  },
+  {
+    "id": "6cb41e5e-32e3-4eeb-b3b2-700c7e3a692f",
+    "syllogism": "Anything that is a dog is an animal. Everything that is a cat is an animal. It is the case that some cats are not canines.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een hond is, is een dier. Alles wat een kat is, is een dier. Het is zo dat sommige katten geen hondachtigen zijn."
+  },
+  {
+    "id": "4a21a53f-3e8b-46ca-b904-9e8eaf8a638f",
+    "syllogism": "Anything that is a mammal is an animal. Every single dog is an animal. This means that all dogs are mammals.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een zoogdier is, is een dier. Elke hond is een dier. Dit betekent dat alle honden zoogdieren zijn."
+  },
+  {
+    "id": "4c8d8de7-6547-4766-8f98-7f28dd8b4b9a",
+    "syllogism": "There are some individuals who find pleasure in reading who are librarians. Every single person who is a librarian is a student. It is the case that some of the people who are students are people who enjoy reading.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn enkele mensen die plezier beleven aan lezen en die bibliothecarissen zijn. Elke persoon die bibliothecaris is, is een student. Het is zo dat een deel van de studenten mensen zijn die graag lezen."
+  },
+  {
+    "id": "975254d3-6a2c-4878-8eb4-4f5bd70a0394",
+    "syllogism": "It is not the case that every novel has pages. Every single thing which is a novel is a book. One can therefore conclude that some books do not have pages.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is niet zo dat elke roman pagina's heeft. Alles wat een roman is, is een boek. Je kunt daarom concluderen dat sommige boeken geen pagina's hebben."
+  },
+  {
+    "id": "25f8f3fc-d38a-4b43-9a7a-4324cbc869bc",
+    "syllogism": "Nothing that is a pet animal is also a feline. Some cats happen to be pet animals. This leads to the conclusion that a certain number of cats are not felines.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Niets dat een huisdier is, is ook een katachtige. Sommige katten zijn huisdieren. Dit leidt tot de conclusie dat een bepaald aantal katten geen katachtigen zijn."
+  },
+  {
+    "id": "e8b5e46d-d26f-4c48-bba0-4a109e59574f",
+    "syllogism": "Anything which is a dog is a living creature. It is the case that some living creatures are not mammals. Therefore, it follows that some mammals are not dogs.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een hond is, is een levend wezen. Het is zo dat sommige levende wezens geen zoogdieren zijn. Daarom volgt hieruit dat sommige zoogdieren geen honden zijn."
+  },
+  {
+    "id": "b0448c8e-5688-4643-bc13-9379ddc605cd",
+    "syllogism": "There are no animals that are rocks. It is also true that no dogs are rocks. Therefore, it is argued that there are no dogs which are animals.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen dieren die rotsen zijn. Het is ook waar dat geen enkele hond een steen is. Daarom wordt beweerd dat er geen honden zijn die dieren zijn."
+  },
+  {
+    "id": "675842ed-60c4-40ab-9f9b-cf0c90280d88",
+    "syllogism": "Every single human is not a fish. There are a few fish that are also creatures that live in water. It is the case that not all creatures that live in water are humans.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Ieder mens is niet een vis. Er zijn een paar vissen die ook wezens zijn die in water leven. Het is zo dat niet alle wezens die in het water leven mensen zijn."
+  },
+  {
+    "id": "c061e039-e726-41ad-a8a6-e782b7bf417b",
+    "syllogism": "The class of insects and the class of creatures with eight legs do not overlap. All creatures with eight legs are spiders. A subset of insects are spiders.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "De klasse insecten en de klasse wezens met acht poten overlappen elkaar niet. Alle wezens met acht poten zijn spinnen. Een subgroep van insecten zijn spinnen."
+  },
+  {
+    "id": "b9cd6b85-d8d8-4cf0-98e0-5a436b58820a",
+    "syllogism": "All people from New York need to pay taxes. Every New Yorker is a citizen of the US. Therefore, all citizens of the US need to pay taxes.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alle inwoners van New York moeten belasting betalen. Elke New Yorker is een burger van de VS. Daarom moeten alle burgers van de VS belasting betalen."
+  },
+  {
+    "id": "a33f2989-2d8f-40f2-9680-351c1fa406ef",
+    "syllogism": "Every single four-sided-shape is a rectangle. All four-sided-shapes are squares. It follows from this that some squares are not rectangles.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke vierzijdige vorm is een rechthoek. Alle vierzijdige vormen zijn vierkanten. Hieruit volgt dat sommige vierkanten geen rechthoeken zijn."
+  },
+  {
+    "id": "80d2725e-50ab-4668-81c2-5d009dab1bec",
+    "syllogism": "Liquids are in no way substances. Anything that is a liquid is a fluid. It's the case that some fluids are not substances.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Vloeistoffen zijn geenszins substanties. Alles wat een vloeistof is, is vloeibaar. Het is zo dat sommige vloeibare stoffen geen substanties zijn."
+  },
+  {
+    "id": "4bd9a4a6-1764-45fc-8172-86c65200f855",
+    "syllogism": "Not a single thing that is a reptile is a mammal. Among the items that are reptiles, some are snakes. This proves that a number of snakes are mammals.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Niets wat een reptiel is, is een zoogdier. Onder de reptielen bevinden zich ook slangen. Dit bewijst dat een aantal slangen zoogdieren zijn."
+  },
+  {
+    "id": "7f48e605-47b8-4f1d-914c-d0f3c42593a3",
+    "syllogism": "It is not true that any mammal is a fish. There are a few fish that are also humans. There are some humans that are not mammals.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is niet waar dat elk zoogdier een vis is. Er zijn een paar vissen die ook mensen zijn. Er zijn mensen die geen zoogdieren zijn."
+  },
+  {
+    "id": "6f498eff-ed8a-4128-b751-ea02b9d28bc7",
+    "syllogism": "Every mammal is made of glass. It is the case that some cats are not made of glass. Therefore, it is true that some cats are not mammals.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk zoogdier is gemaakt van glas. Het is zo dat sommige katten niet van glas zijn. Daarom is het waar dat sommige katten geen zoogdieren zijn."
+  },
+  {
+    "id": "f96c05f3-3cc5-465b-a17d-3b7d30e5607e",
+    "syllogism": "Every single building is made of candy. There are no houses that are not buildings. A certain number of houses are made of candy.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk gebouw is gemaakt van snoep. Er zijn geen huizen die geen gebouwen zijn. Een bepaald aantal huizen is gemaakt van snoep."
+  },
+  {
+    "id": "9c06e896-d5b8-47ed-875e-43c6fc526c44",
+    "syllogism": "Anything that is a animal is an idea. There are no ideas that are dogs. This necessarily suggests that some dogs are not animals.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een dier is, is een idee. Er zijn geen ideeën die honden zijn. Dit suggereert noodzakelijkerwijs dat sommige honden geen dieren zijn."
+  },
+  {
+    "id": "b97a902a-7e57-4ae9-aaaf-edd77e73fbf6",
+    "syllogism": "Every single plant is food. Everything that is a fruit is food. It follows that every fruit is a plant.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke plant is voedsel. Alles wat een vrucht is, is voedsel. Hieruit volgt dat elke vrucht een plant is."
+  },
+  {
+    "id": "0700415b-1bd2-4bf2-baba-848f70b38c7d",
+    "syllogism": "Some trains are not celestial bodies. It is the case that every single train is a planet. Consequently, some planets cannot be considered celestial bodies.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Sommige treinen zijn geen hemellichamen. Het is zo dat elke trein een planeet is. Dus kunnen sommige planeten niet als hemellichamen worden beschouwd."
+  },
+  {
+    "id": "4d476b7d-8af6-4690-8a19-2dc753c37d8a",
+    "syllogism": "Anything that is a plant with thorns is not a flower. A certain number of roses are considered plants with thorns. This demonstrates that some roses are not flowers.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een plant met doornen is, is geen bloem. Een bepaald aantal rozen wordt beschouwd als planten met doornen. Dit toont aan dat sommige rozen geen bloemen zijn."
+  },
+  {
+    "id": "0820d34a-6e2d-4f52-a975-d6f640f2ffe7",
+    "syllogism": "It is completely false that any creature which is a bird is a fish. There exists a group of birds who are also penguins. A valid inference is that some penguins are fish.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is volkomen onjuist dat elk wezen dat een vogel is, een vis is. Er bestaat een groep vogels die ook pinguïns zijn. Een geldige conclusie is dat sommige pinguïns vissen zijn."
+  },
+  {
+    "id": "5e7507ca-56d4-4de4-907f-8f0b1e17ac18",
+    "syllogism": "Anything that is a bird is a mammal. No parrots are included in the category of mammals. It is the case that some parrots are not birds.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een vogel is, is een zoogdier. In de categorie zoogdieren zijn geen papegaaien opgenomen. Het is zo dat sommige papegaaien geen vogels zijn."
+  },
+  {
+    "id": "af093ce5-5c2e-4190-8421-5cbf7e6fef3d",
+    "syllogism": "Any fruit is a food. It is the case that no apple is a food. This means that no apple is a fruit.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elke vrucht is voedsel. Het is zo dat geen enkele appel voedsel is. Dit betekent dat geen enkele appel een vrucht is."
+  },
+  {
+    "id": "31e903dc-43a9-4fb6-8841-5a724bdf53ca",
+    "syllogism": "Every single animal is a living thing. Anything that is a bird is an animal. All birds are living things.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Ieder dier is een levend wezen. Alles wat een vogel is, is een dier. Alle vogels zijn levende wezens."
+  },
+  {
+    "id": "4a6f96f2-f3fb-414b-88b2-ec007c595e9b",
+    "syllogism": "No car is a boat. Some vehicles are not cars. Therefore, all vehicles are boats.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkele auto is een boot. Sommige voertuigen zijn geen auto's. Daarom zijn alle voertuigen boten."
+  },
+  {
+    "id": "a9e0e8bb-07cb-4153-bfc7-cb4428463fc7",
+    "syllogism": "Gold is always classified as a metal. Nothing that is a plastic is a metal. Therefore, no plastic is gold.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Goud wordt altijd geclassificeerd als een metaal. Niets dat plastic is, is een metaal. Daarom is geen enkel plastic goud."
+  },
+  {
+    "id": "172f9030-2726-49a1-8acf-40c8d9661aab",
+    "syllogism": "Any object that is a shape is an animal. There are no circles that are also animals. A portion of shapes are not circles.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk object dat een vorm heeft, is een dier. Er zijn geen cirkels die ook dieren zijn. Een deel van de vormen is geen cirkel."
+  },
+  {
+    "id": "331bc8f9-e5c1-40f3-ace4-77fbe5ad4719",
+    "syllogism": "Lions are not gazelles. All African lions are things that are lions. It follows that there are some African lions that are not gazelles.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Leeuwen zijn geen gazellen. Alle Afrikaanse leeuwen zijn dingen die leeuwen zijn. Hieruit volgt dat er enkele Afrikaanse leeuwen zijn die geen gazellen zijn."
+  },
+  {
+    "id": "264785f1-ad8f-422d-ba64-9b9f60adffcc",
+    "syllogism": "Everything that is a living thing is a creature. It is impossible for something to be an organism and a creature at the same time. It is the case that a portion of organisms are not living things.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een levend wezen is, is een schepsel. Het is onmogelijk dat iets tegelijkertijd een organisme en een schepsel is. Het is zo dat een deel van de organismen geen levende wezens zijn."
+  },
+  {
+    "id": "82fcecfd-04c6-4a02-a513-0b7ed47b9e1d",
+    "syllogism": "It is the case that no bird is a fish. Some aquatic animals are things that are birds. Thus, some aquatic animals are things that are fish.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is zo dat geen enkele vogel een vis is. Sommige waterdieren zijn dingen die vogels zijn. Sommige waterdieren zijn dus vissen."
+  },
+  {
+    "id": "92375de2-c1c8-4b7c-abc6-793165b6b3ea",
+    "syllogism": "It is true that any dog is an animal. All pets are animals too. Therefore, some pets are not dogs.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is waar dat elke hond een dier is. Alle huisdieren zijn ook dieren. Daarom zijn sommige huisdieren geen honden."
+  },
+  {
+    "id": "5b7d32a6-8a3c-41a1-ab3f-03143d574cbd",
+    "syllogism": "Every human is an animal that is a primate. No animals that are primates are also fish. Therefore, it is the case that some fish are not humans.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Ieder mens is een dier dat een primaat is. Geen enkel dier dat primaat is, is ook vis. Daarom is het zo dat sommige vissen geen mensen zijn."
+  },
+  {
+    "id": "6b013055-b913-4742-94ab-a9dc40d1881f",
+    "syllogism": "Nothing that is a stone is a meat. It is also the case that no fruit is a meat. Therefore, no fruit is a stone.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Niets dat een steen is, is vlees. Het is ook zo dat geen enkele vrucht vlees is. Daarom is geen enkele vrucht een steen."
+  },
+  {
+    "id": "54c5b3f8-ba16-4eaf-86a1-71d78b771192",
+    "syllogism": "All things which are numbers are animals. All things which are numbers are plants. It follows that some plants are animals.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alle dingen die getallen zijn, zijn dieren. Alle dingen die getallen zijn, zijn planten. Hieruit volgt dat sommige planten dieren zijn."
+  },
+  {
+    "id": "33d55b15-c886-478b-91bb-8af9b5b7fe31",
+    "syllogism": "All successful people are those who can be rich. Every single person who is successful works hard. This proves that everyone who works hard can be rich.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alle succesvolle mensen zijn degenen die rijk kunnen zijn. Iedereen die succesvol is, werkt hard. Dit bewijst dat iedereen die hard werkt rijk kan worden."
+  },
+  {
+    "id": "3f5f67b4-3d96-44d3-b94e-e4422a21ac05",
+    "syllogism": "There is no mammal that is a shark. Some of the sharks are fish. Therefore, some fish are not mammals.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er is geen zoogdier dat een haai is. Sommige haaien zijn vissen. Daarom zijn sommige vissen geen zoogdieren."
+  },
+  {
+    "id": "e630eecd-f2e5-40b2-8417-3d88982377a5",
+    "syllogism": "None of the items that are carrots are bell peppers. There are vegetables that are bell peppers. It is correct to infer that some vegetables are not carrots.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Geen van de items die wortelen zijn, zijn paprika's. Er zijn groenten die paprika zijn. Het is juist om te concluderen dat sommige groenten geen wortels zijn."
+  },
+  {
+    "id": "7d017cf6-f94b-41d9-a6d6-a7bb8767f430",
+    "syllogism": "Some of the bees that exist are insects. Every single bee is an arthropod. Thus, some arthropods are insects.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Sommige van de bijen die er zijn, zijn insecten. Elke bij is een geleedpotige. Sommige geleedpotigen zijn dus insecten."
+  },
+  {
+    "id": "ef813b31-ae4f-4041-b9cc-b1d3378ba884",
+    "syllogism": "Every single fruit contains seeds. Anything that is an apple is a fruit. A number of apples contain seeds.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elke vrucht bevat zaden. Alles wat een appel is, is een vrucht. Een aantal appels bevatten zaden."
+  },
+  {
+    "id": "8b839892-71f7-4ea5-9c5b-7aa33246451f",
+    "syllogism": "Every single thing that is a number is a letter. The set of all integers contains no letters. It is the case that there are certain integers which are not numbers.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een cijfer is, is een letter. De verzameling van alle gehele getallen bevat geen letters. Het is zo dat er bepaalde gehele getallen zijn die geen getallen zijn."
+  },
+  {
+    "id": "10c004f6-6468-4756-a2bb-cf97b0f34a89",
+    "syllogism": "Every single dog is an animal. Anything that is a cat is an animal. It follows that a few cats are dogs.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke hond is een dier. Alles wat een kat is, is een dier. Hieruit volgt dat een paar katten honden zijn."
+  },
+  {
+    "id": "82567966-505e-45fe-a4b0-c34de685c0a7",
+    "syllogism": "Every single dog is a mammal. A small number of mammals are animals. Some animals are not dogs.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke hond is een zoogdier. Een klein aantal zoogdieren zijn dieren. Sommige dieren zijn geen honden."
+  },
+  {
+    "id": "95d56d9f-c7ed-4537-b582-7076beccbd92",
+    "syllogism": "There is no celestial body that is a thing in the sky. All planets are things in the sky. The implication is that a number of planets are not celestial bodies.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er is geen hemellichaam dat iets in de lucht is. Alle planeten zijn dingen in de lucht. De implicatie is dat een aantal planeten geen hemellichamen zijn."
+  },
+  {
+    "id": "74642dd5-9eb6-4a00-a493-4b25f3aac128",
+    "syllogism": "There are no creatures that are both humans and organisms. Among the creatures that are babies, some are organisms. From this, we can logically derive that some babies are not humans.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen wezens die zowel mensen als organismen zijn. Onder de wezens die baby's zijn, zijn er ook organismen. Hieruit kunnen we logischerwijs afleiden dat sommige baby's geen mensen zijn."
+  },
+  {
+    "id": "b849ab87-08a8-4ad7-9535-633e79d73ca5",
+    "syllogism": "A celestial body is never a piece of furniture. Each of the planets is, in fact, a celestial body. For this reason, no planet is an item of furniture.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Een hemellichaam is nooit een meubelstuk. Elk van de planeten is in feite een hemellichaam. Om deze reden is geen enkele planeet een meubelstuk."
+  },
+  {
+    "id": "fba06d33-39b6-4e03-ae12-ac3e4f2cb1e0",
+    "syllogism": "There are no numbers which are both even and odd. A few numbers that are odd are also divisible by two. Not all numbers that are divisible by two are even.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen getallen die zowel even als oneven zijn. Een paar oneven getallen zijn ook deelbaar door twee. Niet alle getallen die deelbaar zijn door twee zijn even."
+  },
+  {
+    "id": "ddbd0598-37ce-41d2-89c6-73109dcf196c",
+    "syllogism": "Everything that is a salamander is a planet. A few salamanders are amphibians. It must follow that a certain number of amphibians are planets.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een salamander is, is een planeet. Een paar salamanders zijn amfibieën. Hieruit moet volgen dat een bepaald aantal amfibieën planeten zijn."
+  },
+  {
+    "id": "42f67665-07b1-4466-b825-8ec4367d126e",
+    "syllogism": "There are no items that are not plants that are plants. A number of items that are not plants are trees. Therefore, a portion of trees are plants.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen items die geen planten zijn die wel planten zijn. Een aantal items die geen planten zijn, zijn bomen. Daarom zijn een deel van de bomen planten."
+  },
+  {
+    "id": "f365e4e6-b827-4b74-b09a-e386043f0e89",
+    "syllogism": "It is true that everything that is a dog is an animal. It is also true that no mammals are dogs. Thus, it is concluded that no mammals are animals.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat alles wat een hond is, een dier is. Het is ook waar dat geen enkele zoogdier een hond is. Er wordt dus geconcludeerd dat geen enkele zoogdier een dier is."
+  },
+  {
+    "id": "70b2849f-72c6-4f1f-9fff-8c159405b8c8",
+    "syllogism": "All of the things that are robins are birds. There are no birds whatsoever that are fish. It logically follows that no fish are robins.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alle dingen die roodborstjes zijn, zijn vogels. Er zijn geen vogels die vissen zijn. Hieruit volgt logischerwijs dat geen enkele vis een roodborstje is."
+  },
+  {
+    "id": "d93e9241-f9bc-43f7-b482-b395b21e086b",
+    "syllogism": "It is true that no birds are fish. It is also true that no fish are plants. Therefore, no plants are birds.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat geen enkele vogel vis is. Het is ook waar dat geen enkele vis een plant is. Daarom zijn geen enkele planten vogels."
+  },
+  {
+    "id": "fe7ee440-ef75-481a-b562-4bd665bb11c9",
+    "syllogism": "Anything that is a table is not a tree. There are tables, and some of them can be identified as furniture. Based on this, a portion of furniture pieces must not be trees.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een tafel is, is geen boom. Er zijn tafels, en sommige ervan kunnen als meubilair worden geïdentificeerd. Op basis hiervan mag een deel van de meubelstukken geen bomen zijn."
+  },
+  {
+    "id": "e6449020-f9d5-4bc0-b0a2-561fa0d15d30",
+    "syllogism": "The group of professionals is a subset of the group of people. Everything that is a doctor is a professional. Therefore, there are some people who are not doctors.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "De groep professionals is een onderdeel van de groep mensen. Alles wat een dokter is, is een professional. Daarom zijn er mensen die geen dokter zijn."
+  },
+  {
+    "id": "6b02110b-77c6-4547-a4ad-f874027d9bba",
+    "syllogism": "It is true that all newspapers are animals. There are some magazines that are not animals. Therefore, it is the case that some magazines are not newspapers.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat alle kranten dieren zijn. Er zijn tijdschriften die geen dieren zijn. Daarom is het zo dat sommige tijdschriften geen kranten zijn."
+  },
+  {
+    "id": "f11aecef-3e59-473a-b84d-c2cc26525774",
+    "syllogism": "Every single person is a human. Anything that is a human is a husband. Consequently, it follows that all husbands are people.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke persoon is een mens. Alles wat een mens is, is een echtgenoot. Hieruit volgt dat alle echtgenoten mensen zijn."
+  },
+  {
+    "id": "2b535ac3-2104-4754-b57a-dd89319e6a16",
+    "syllogism": "There are no cars that can be called boats. It is also true that every car is a type of vehicle. This has led to the conclusion that a portion of vehicles are cars.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen auto's die boten kunnen worden genoemd. Het is ook waar dat elke auto een type voertuig is. Dit heeft geleid tot de conclusie dat een deel van de voertuigen auto's zijn."
+  },
+  {
+    "id": "02a6d9c3-9704-4290-905b-f427482c06c8",
+    "syllogism": "It is true that every pen is an object. Some things are not pens. From this, it can be claimed that some things are not objects.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is waar dat elke pen een object is. Sommige dingen zijn geen pennen. Hieruit kan worden beweerd dat sommige dingen geen objecten zijn."
+  },
+  {
+    "id": "d391cce1-9ad3-4ef0-8549-6f19e2d96d90",
+    "syllogism": "It is the case that every single book weighs a ton. A portion of novels are books. Consequently, some novels weigh a ton.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is zo dat elk boek een ton weegt. Een deel van de romans zijn boeken. Dus wegen sommige romans een ton."
+  },
+  {
+    "id": "ffba71c8-04fc-496e-809f-6655735d3be8",
+    "syllogism": "Every feline is an animal. There is a subset of animals that is composed of mammals. A portion of mammals are not felines.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke kat is een dier. Er is een subgroep van dieren die bestaat uit zoogdieren. Een deel van de zoogdieren zijn geen katachtigen."
+  },
+  {
+    "id": "d109b3fe-c6b0-401b-b185-250fa2af3ef7",
+    "syllogism": "There is no item that is a vehicle which is also a car. The group of automobiles includes some that are cars. We must accept that some automobiles are not vehicles.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er is geen item dat een voertuig is dat ook een auto is. De groep automobielen omvat enkele auto's. We moeten accepteren dat sommige automobielen geen voertuigen zijn."
+  },
+  {
+    "id": "fca654b0-e91a-4199-9869-8892e450f591",
+    "syllogism": "Every triangle is a polygon. All shapes that are squares are polygons. Nothing that is a square is also a triangle.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke driehoek is een veelhoek. Alle vormen die vierkanten zijn, zijn veelhoeken. Niets dat een vierkant is, is ook een driehoek."
+  },
+  {
+    "id": "ea4ed2ab-8c5b-43f2-b726-218533f2939f",
+    "syllogism": "Every single vegetable is a planet. Anything that is a planet is a musical instrument. It is a logical necessity that some musical instruments are vegetables.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elke groente is een planeet. Alles wat een planeet is, is een muziekinstrument. Het is een logische noodzaak dat sommige muziekinstrumenten groenten zijn."
+  },
+  {
+    "id": "cc170ddf-ad97-48d0-aa6f-ec21373c1c9c",
+    "syllogism": "There are no things which are animals that are plants. Everything that is a tree is a plant. Consequently, there exist some trees which are not animals.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen dingen die dieren zijn die planten zijn. Alles wat een boom is, is een plant. Dus bestaan ​​er enkele bomen die geen dieren zijn."
+  },
+  {
+    "id": "9898c43c-c5d9-4c03-aa4f-46e30e136037",
+    "syllogism": "There are no fruits that are things that grow on trees. Every single apple is a thing that grows on a tree. Consequently, it can be said that some apples are not fruits.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen vruchten die aan bomen groeien. Elke appel is iets dat aan een boom groeit. Dus kan worden gezegd dat sommige appels geen fruit zijn."
+  },
+  {
+    "id": "99ba63a6-3b6a-4f63-a0f7-6cef1c11818f",
+    "syllogism": "Everything that is a hut is a vehicle. A few huts are houses. Thus, a number of houses are vehicles.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een hut is, is een voertuig. Een paar hutten zijn huizen. Een aantal huizen zijn dus voertuigen."
+  },
+  {
+    "id": "76f9b327-1308-4678-af38-44f61eafb137",
+    "syllogism": "There are no birds which are cats. There are no dogs that are birds. It follows, then, that some dogs are cats.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen vogels die katten zijn. Er zijn geen honden die vogels zijn. Hieruit volgt dus dat sommige honden katten zijn."
+  },
+  {
+    "id": "b0363392-5e97-4d9d-b9a5-6e3af4510d4e",
+    "syllogism": "Mountains cannot be oceans. Every mountain named Everest is a mountain. It must be that some mountains named Everest are not oceans.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Bergen kunnen geen oceanen zijn. Elke berg genaamd Everest is een berg. Het moet zo zijn dat sommige bergen met de naam Everest geen oceanen zijn."
+  },
+  {
+    "id": "8bf12840-1728-41eb-a389-01098b625ecf",
+    "syllogism": "Among those who are students, there are some who are athletes. Every single student is a person who spends time studying. It follows that, of the people who study, some of them are also athletes.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Onder degenen die studenten zijn, zijn er ook atleten. Elke student is een persoon die tijd besteedt aan studeren. Hieruit volgt dat sommigen van de mensen die studeren ook atleten zijn."
+  },
+  {
+    "id": "68affb76-c5fc-4423-9221-1784c4509086",
+    "syllogism": "Every novel is a book. Nothing that is a magazine is a book. Therefore, a magazine cannot be a novel.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elke roman is een boek. Niets dat een tijdschrift is, is een boek. Daarom kan een tijdschrift geen roman zijn."
+  },
+  {
+    "id": "f942476a-e905-4659-a4a0-b5aa00622fbc",
+    "syllogism": "The group of humans and the group of people have nothing in common. All of the things that are men are people. Men are not humans.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "De groep mensen en de groep personen hebben niets gemeen. Alle dingen die mannen zijn, zijn personen. Mannen zijn geen mensen."
+  },
+  {
+    "id": "b601c0d3-7033-4d4a-a8ab-59ac4fe4a4c8",
+    "syllogism": "Every object that is a living thing is an object with mass. All humans are objects with mass. Consequently, every single human is a living thing.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elk object dat een levend wezen is, is een object met massa. Alle mensen zijn objecten met massa. Dus is ieder mens een levend wezen."
+  },
+  {
+    "id": "dc5e8a17-f9ee-4f1c-a6e1-e55e3893609d",
+    "syllogism": "All things which are ghosts are scientific facts. All things which are ghosts are mythical beings. It follows that some mythical beings are scientific facts.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alle dingen die geesten zijn, zijn wetenschappelijke feiten. Alle dingen die geesten zijn, zijn mythische wezens. Hieruit volgt dat sommige mythische wezens wetenschappelijke feiten zijn."
+  },
+  {
+    "id": "08408587-3887-4246-9d6f-7a4492ad48c7",
+    "syllogism": "Anyone who is a rose is red. Some flowers are not red. From this, all flowers are roses.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Iedereen die een roos is, is rood. Sommige bloemen zijn niet rood. Hierdoor zijn alle bloemen rozen."
+  },
+  {
+    "id": "941ec598-d637-4f22-b558-367267161a64",
+    "syllogism": "Every single planet is a thing made of cheese. The Earth is a planet. A certain part of Earth is made of cheese.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elke planeet is een ding gemaakt van kaas. De aarde is een planeet. Een bepaald deel van de aarde is gemaakt van kaas."
+  },
+  {
+    "id": "1f4cfe1c-bd8f-4c54-8c08-a8ee3ad42904",
+    "syllogism": "There are no animals that are fish that have beaks. All birds are animals that have beaks. Consequently, it can be said that some birds are not fish.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen dieren die vissen zijn met een snavel. Alle vogels zijn dieren met snavels. Dus kan worden gezegd dat sommige vogels geen vissen zijn."
+  },
+  {
+    "id": "3b7c4fd5-632a-4a84-b2c2-482b84cf6f45",
+    "syllogism": "There is nothing that is a vegetable that is also a fruit. Every single thing that is a carrot is a vegetable. As a result, at least one thing that is a carrot is not a fruit.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er is niets dat een groente is dat ook een vrucht is. Alles wat een wortel is, is een groente. Als gevolg hiervan is ten minste één ding dat een wortel is, geen vrucht."
+  },
+  {
+    "id": "c5d0501c-c25b-40c1-91c0-603b613de0cf",
+    "syllogism": "Not one single doctor is a person who performs on stage. Every single musician is considered a person who performs on stage. Consequently, there exist some musicians who are not doctors.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Geen enkele arts is een persoon die op het podium optreedt. Elke muzikant wordt beschouwd als een persoon die op het podium optreedt. Dus bestaan ​​er enkele muzikanten die geen dokter zijn."
+  },
+  {
+    "id": "832f59aa-bfee-4e92-b247-d8719f1844ae",
+    "syllogism": "Every single dog belongs to the canine family. Anything that is a chihuahua is a dog. This means that every chihuahua is a canine.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elke hond behoort tot de hondachtigen. Alles wat een chihuahua is, is een hond. Dit betekent dat elke chihuahua een hondachtige is."
+  },
+  {
+    "id": "ec60f858-72d6-455b-976f-fe289c371eaf",
+    "syllogism": "Every dog is a mammal. No dog is a reptile. Therefore, no reptiles are mammals.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Iedere hond is een zoogdier. Geen enkele hond is een reptiel. Daarom zijn geen reptielen zoogdieren."
+  },
+  {
+    "id": "40b42a57-63c2-4f06-af7e-87b8bdfef9fd",
+    "syllogism": "Some liquids are cats. Every single thing that is a cat is a mammal. Therefore, some mammals are liquids.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Sommige vloeistoffen zijn katten. Alles wat een kat is, is een zoogdier. Daarom zijn sommige zoogdieren vloeistoffen."
+  },
+  {
+    "id": "8be74042-6920-42ad-8f7f-3c0e53ba5fe7",
+    "syllogism": "Plants are never stones. A few stones are, in fact, flowers. There exist flowers that are not plants.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Planten zijn nooit stenen. Een paar stenen zijn in feite bloemen. Er bestaan ​​bloemen die geen planten zijn."
+  },
+  {
+    "id": "f093ca09-2dbe-4258-a4f4-28823d3eaefb",
+    "syllogism": "Anything that is a bird is an animal. Everything that is a zebra is an animal. All birds are zebras.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een vogel is, is een dier. Alles wat een zebra is, is een dier. Alle vogels zijn zebra's."
+  },
+  {
+    "id": "bdb97c21-a08a-4fe1-b156-292e216a75ef",
+    "syllogism": "It is true that no comet is a moon. It is a fact that no planet is a moon. Therefore, some planets are comets.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat geen enkele komeet een maan is. Het is een feit dat geen enkele planeet een maan is. Daarom zijn sommige planeten kometen."
+  },
+  {
+    "id": "e8e7080d-1e0d-461c-ab4d-5b4718980ffa",
+    "syllogism": "The set of refrigerators and the set of pieces of furniture have nothing in common. All items that are sofas are pieces of furniture. Refrigerators are not sofas.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "De set koelkasten en de set meubelstukken hebben niets met elkaar gemeen. Alle items die banken zijn, zijn meubelstukken. Koelkasten zijn geen banken."
+  },
+  {
+    "id": "bdce56a3-a9d8-476a-a050-d6c653a79061",
+    "syllogism": "Not a single house is a stadium. Every single stadium is a building. It is therefore the case that some buildings are not houses.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Geen enkel huis is een stadion. Elk stadion is een gebouw. Het is dus zo dat sommige gebouwen geen woningen zijn."
+  },
+  {
+    "id": "5580c76a-7c97-4b7a-a43d-d12866c99ae2",
+    "syllogism": "Everything that is a planet is a celestial body. There are no things that are Earth that are not planets. Therefore, at least some Earth is a celestial body.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een planeet is, is een hemellichaam. Er zijn geen dingen op aarde die geen planeten zijn. Daarom is tenminste een deel van de aarde een hemellichaam."
+  },
+  {
+    "id": "d225ab47-ffe9-454b-bb41-4915c4214497",
+    "syllogism": "Anything that is a fish swims. It is the case that no dog is a fish. This implies that some dogs swim.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een vis is, zwemt. Het is zo dat geen enkele hond een vis is. Dit impliceert dat sommige honden zwemmen."
+  },
+  {
+    "id": "57cefbea-6a5e-4b24-b537-007d1837b288",
+    "syllogism": "A few large predators are insects. Every single insect is a tiny creature. It logically follows that some tiny creatures are large predators.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Een paar grote roofdieren zijn insecten. Elk insect is een klein wezentje. Hieruit volgt logischerwijs dat sommige kleine wezens grote roofdieren zijn."
+  },
+  {
+    "id": "eb04a408-b062-4c93-ba18-ffc28e0e8e4d",
+    "syllogism": "Not a single liquid is a solid. There are no gases which are also liquids. It follows that some gases are solids.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkele vloeistof is een vaste stof. Er zijn geen gassen die ook vloeistoffen zijn. Hieruit volgt dat sommige gassen vaste stoffen zijn."
+  },
+  {
+    "id": "7ff44cd7-5970-4c43-ac34-920d4f533b1f",
+    "syllogism": "All hammers are objects made by humans. All tools are also objects made by humans. Therefore, all tools are hammers.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alle hamers zijn door mensen gemaakte voorwerpen. Alle gereedschappen zijn ook door mensen gemaakte voorwerpen. Daarom zijn alle gereedschappen hamers."
+  },
+  {
+    "id": "1ddd8a6a-d17b-4723-b115-a245cd44028d",
+    "syllogism": "Anything that is a liquid is a fluid. Every single gas is a fluid. This means that all gases are liquids.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een vloeistof is, is een vloeibare stof. Elk afzonderlijk gas is een vloeibare stof. Dit betekent dat alle gassen vloeistoffen zijn."
+  },
+  {
+    "id": "906d3863-253f-4a03-9396-aa6ac915b954",
+    "syllogism": "There is not a single engineer who is a medical practitioner. Every single person who is a doctor is also a medical practitioner. Doctors and engineers are mutually exclusive occupations.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er is geen enkele ingenieur die arts is. Iedereen die dokter is, is ook een arts. Dokters en ingenieurs zijn elkaar uitsluitende beroepen."
+  },
+  {
+    "id": "013bbe5b-4863-4f9f-a0e7-fcec256129b3",
+    "syllogism": "There are some planets that are dogs. All things that are dogs are beings. Hence, it can be concluded that some beings are planets.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn enkele planeten die honden zijn. Alle dingen die honden zijn, zijn wezens. Daarom kan worden geconcludeerd dat sommige wezens planeten zijn."
+  },
+  {
+    "id": "06a0aa7f-5aaa-4a9a-af0e-7cfc8affd23a",
+    "syllogism": "Everything that is a bird is an animal. Every single eagle is an animal. It is the case that some eagles are birds.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een vogel is, is een dier. Elke adelaar is een dier. Het is zo dat sommige adelaars vogels zijn."
+  },
+  {
+    "id": "0cb166c1-cc61-4585-bf4b-baad5b3028a2",
+    "syllogism": "Every single liquid is a fluid. There are some water bodies which are liquid. Water is in no way a fluid.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke vloeistof is een vloeibare stof. Er zijn enkele waterlichamen die vloeibaar zijn. Water is op geen enkele manier een vloeibare stof."
+  },
+  {
+    "id": "ace56295-ca7c-490f-b69b-8f1293edeede",
+    "syllogism": "Everything that is a car is a sentient cloud. All sentient clouds are plants. This means that some plants are cars.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een auto is, is een bewuste wolk. Alle bewuste wolken zijn planten. Dit betekent dat sommige planten auto's zijn."
+  },
+  {
+    "id": "9f443de1-8727-4b33-9dcc-20936c3cdb7e",
+    "syllogism": "It is not true that any ocean is a continent. Every single thing that is an ocean named Pacific is an ocean. This means some oceans named Pacific are not continents.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Het is niet waar dat elke oceaan een continent is. Elk ding dat een oceaan is die de Stille Oceaan heet, is een oceaan. Dit betekent dat sommige oceanen met de naam Pacific geen continenten zijn."
+  },
+  {
+    "id": "d8e827ad-b91a-45a7-8d28-7527f8b59d1d",
+    "syllogism": "Nothing that is a plant is a mammal. A portion of trees are to be found among the plants. Thus, there are no trees that are also mammals.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Niets dat een plant is, is een zoogdier. Een deel van de bomen is tussen de planten te vinden. Er zijn dus geen bomen die ook zoogdieren zijn."
+  },
+  {
+    "id": "5938206b-fa51-46ed-8a8d-549d39ee4249",
+    "syllogism": "Not one cat is a pet. Everything that is a cat is a mammal. It follows that all pets are mammals.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkele kat is een huisdier. Alles wat een kat is, is een zoogdier. Hieruit volgt dat alle huisdieren zoogdieren zijn."
+  },
+  {
+    "id": "e11356eb-8b5e-43cf-9a95-539dd813e106",
+    "syllogism": "All items that are phones are electronic devices. None of the electronic devices are foods. Therefore, no food is a phone.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alle items die telefoons zijn, zijn elektronische apparaten. Geen van de elektronische apparaten is een voedingsmiddel. Daarom is geen enkel voedingsmiddel een telefoon."
+  },
+  {
+    "id": "7f71a082-108e-4c3c-a1ad-1af6c5bc3088",
+    "syllogism": "It is true that some people who are students are human. There are teenagers that are also students. This proves that a number of humans are not teenagers.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is waar dat sommige mensen die studenten zijn, mensen zijn. Er zijn tieners die ook studenten zijn. Dit bewijst dat een aantal mensen geen tieners zijn."
+  },
+  {
+    "id": "0092296f-5c8d-4c79-9641-8df244a2c6ba",
+    "syllogism": "Absolutely nothing that is an aquatic animal is a feline. It is the case that some cats are aquatic animals. Thus, not all cats are felines.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Absoluut niets dat een waterdier is, is een katachtige. Het is zo dat sommige katten waterdieren zijn. Niet alle katten zijn dus katachtigen."
+  },
+  {
+    "id": "4823d0a9-5eae-4386-af0f-54d04c9cd2cf",
+    "syllogism": "Anyone who is a doctor is trained in medicine. Every single pediatrician is a doctor. It is the case that some pediatricians are trained in medicine.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Iedereen die arts is, heeft een medische opleiding gevolgd. Elke kinderarts is een arts. Het is zo dat sommige kinderartsen een medische opleiding hebben gevolgd."
+  },
+  {
+    "id": "dd82fade-0432-4f9c-a72a-d2e6ba056b77",
+    "syllogism": "Any person who is a human is a robot. The set of people contains no robots. It is the case that some people are not humans.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Iedereen die een mens is, is een robot. De groep personen bevat geen robots. Het is zo dat sommige personen geen mensen zijn."
+  },
+  {
+    "id": "9bf9af39-9b60-43da-a871-23190a6d5e52",
+    "syllogism": "Not a single creature that is a retriever is a dog. Every single animal is a retriever. It must be the case that no animal is a dog.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkel wezen dat een retriever is, is een hond. Elk dier is een retriever. Het moet zo zijn dat geen enkel dier een hond is."
+  },
+  {
+    "id": "f9e0aef5-2abd-4515-8daf-6a4bf83c42ed",
+    "syllogism": "There are no books that are made of paper. There is not a single paperback that is a book. It follows, then, that some paperbacks are not made of paper.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen boeken die van papier zijn gemaakt. Er is geen enkele paperback die een boek is. Hieruit volgt dus dat sommige paperbacks niet van papier zijn gemaakt."
+  },
+  {
+    "id": "cc8ddde6-b7cf-408c-a0a0-92e200117c30",
+    "syllogism": "Nothing that is a car is a motorcycle. A few things called vehicles are identified as being cars. This proves that some vehicles are not motorcycles.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Niets dat een auto is, is een motorfiets. Een paar dingen die voertuigen worden genoemd, worden geïdentificeerd als auto's. Dit bewijst dat sommige voertuigen geen motorfietsen zijn."
+  },
+  {
+    "id": "7b01a111-ae3b-4cf5-85ea-31dfe1da204c",
+    "syllogism": "It is the case that every single stone is a cloud. Anything that is a cloud is an animal. Therefore, a few animals are stones.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is zo dat elke steen een wolk is. Alles wat een wolk is, is een dier. Daarom zijn een paar dieren stenen."
+  },
+  {
+    "id": "dd900a56-5956-4be4-aacd-69f465bf602f",
+    "syllogism": "Not a single man is a woman. It is also true that no adult is a man. It follows that no adult is a woman.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkele man is een vrouw. Het is ook waar dat geen enkele volwassene een man is. Hieruit volgt dat geen enkele volwassene een vrouw is."
+  },
+  {
+    "id": "349c7b91-ee3d-4f96-af31-4d00249e65cc",
+    "syllogism": "It is the case that no cats are dogs. It is also true that no birds are cats. Thus, it can be concluded that some birds are dogs.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is zo dat geen enkele kat een hond is. Het is ook waar dat geen enkele vogel een kat is. Er kan dus worden geconcludeerd dat sommige vogels honden zijn."
+  },
+  {
+    "id": "d10c848c-ce58-4a0c-b56b-3f75b2ca0bfc",
+    "syllogism": "Any object that is a body of water is a gas. Nothing that is an ocean is a gas. There exists at least one body of water which is not an ocean.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk object dat een watermassa is, is een gas. Niets dat een oceaan is, is een gas. Er bestaat minstens één watermassadat geen oceaan is."
+  },
+  {
+    "id": "c2029414-d28e-4fbd-acc8-12f855acf46c",
+    "syllogism": "Every fictional characters is a stone. There are fictional characters which are animals. Thus, a portion of animals are stones.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk fictieve personage is een steen. Er zijn fictieve personages die dieren zijn. Een deel van de dieren bestaat dus uit stenen."
+  },
+  {
+    "id": "778ba99e-1bed-4d97-b358-1ee48a6c9429",
+    "syllogism": "There are no universities which are plants. At least one tree is a plant. At least one tree is a university.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen universiteiten die planten zijn. Minstens één boom is een plant. Tenminste één boom is een universiteit."
+  },
+  {
+    "id": "a943b701-942e-4df8-bb91-4cee9349502a",
+    "syllogism": "Some plants are a type of vegetable. There are some carrots that are vegetables. This leads to the conclusion that some carrots are plants.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Sommige planten zijn een soort groente. Er zijn enkele wortels die groenten zijn. Dit leidt tot de conclusie dat sommige wortels planten zijn."
+  },
+  {
+    "id": "b0164134-d52b-4506-92ee-d71e2109d717",
+    "syllogism": "Every single thing that is a snake is a cold-blooded animal. A few snakes are a type of reptile. Thus, some reptiles are cold-blooded animals.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een slang is, is een koudbloedig dier. Een paar slangen zijn een soort reptiel. Sommige reptielen zijn dus koudbloedige dieren."
+  },
+  {
+    "id": "9b4f2ed1-786d-4b4f-a076-2c5dcfdc637b",
+    "syllogism": "Anything that is a flower is made of metal. Every single rose is a flower. At least one rose is made of metal.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een bloem is, is gemaakt van metaal. Elke roos is een bloem. Minstens één roos is gemaakt van metaal."
+  },
+  {
+    "id": "77d1fbe7-3450-4d5d-92c6-7bf4d02c20ae",
+    "syllogism": "Anything that is a vegetable is a plant. There is a subset of plants that are fruits. A number of vegetables are not fruits.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een groente is, is een plant. Er is een subgroep van planten die vruchten zijn. Een aantal groenten zijn geen fruit."
+  },
+  {
+    "id": "176e3ca1-2c5c-4500-8b42-792ce58d4098",
+    "syllogism": "Everything that is a fish is also an insect. Everything that is a fish is also made of fire. Hence, some things that are made of fire are insects.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een vis is, is ook een insect. Alles wat een vis is, is ook van vuur gemaakt. Sommige dingen die van vuur zijn gemaakt, zijn dus insecten."
+  },
+  {
+    "id": "adc52cf4-381b-4203-8745-cee844d750b1",
+    "syllogism": "There are no cars that are boats. There is not a single ferry that is a car. Consequently, some ferries are boats.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen auto's die boten zijn. Er is geen enkele veerboot die een auto is. Dus zijn sommige veerboten boten."
+  },
+  {
+    "id": "1567c398-05f8-425d-8d0f-3fc7c7327cf0",
+    "syllogism": "Every single shirt is a piece of clothing. No articles of clothing are ever beverages. This implies that some beverages are not shirts.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elk overhemd is een kledingstuk. Geen enkel kledingstuk is ooit een drank. Dit impliceert dat sommige dranken geen overhemden zijn."
+  },
+  {
+    "id": "eb34cdc4-fa19-4ddc-8cd2-6c8f13f1e7a5",
+    "syllogism": "Anything that is a scientist is a person who studies. Anything that is a scientist is a professional. Consequently, some professionals are people who study.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een wetenschapper is, is een persoon die studeert. Alles wat een wetenschapper is, is een professional. Sommige professionals zijn dus mensen die studeren."
+  },
+  {
+    "id": "0ed786f8-51d0-40c7-b692-441bc96ec29d",
+    "syllogism": "All people who are doctors are those who have medical training. There are no people with medical training who are teachers. This means that no one who is a teacher is a doctor.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Alle mensen die arts zijn, zijn degenen die een medische opleiding hebben gevolgd. Er zijn geen mensen met een medische opleiding die leraar zijn. Dit betekent dat niemand die leraar is, ook een dokter is."
+  },
+  {
+    "id": "a9a258b5-4403-491d-87a1-707fcb480564",
+    "syllogism": "There are no cats which are fish. There are no fish which are animals. It follows that some animals are cats.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen katten die vissen zijn. Er zijn geen vissen die dieren zijn. Hieruit volgt dat sommige dieren katten zijn."
+  },
+  {
+    "id": "c38a9bc0-efdd-49af-af59-17a6567d8817",
+    "syllogism": "Every item that is a mammal is an animal. Some lions are mammals. Therefore, all lions can be said to be animals.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elk item dat een zoogdier is, is een dier. Sommige leeuwen zijn zoogdieren. Daarom kunnen we zeggen dat alle leeuwen dieren zijn."
+  },
+  {
+    "id": "fd57b6c3-2eb7-4c4d-a7fd-7067584e69bc",
+    "syllogism": "There are no cars that are liquids. There are no cars that are oceans. Consequently, no oceans are liquids.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen auto's die vloeistoffen zijn. Er zijn geen auto's die oceanen zijn. Dus zijn geen oceanen vloeistoffen."
+  },
+  {
+    "id": "d55b879b-3633-419a-8b27-6a4704f0d118",
+    "syllogism": "It is true that there are some individuals who are musicians who are not pianists. Every musician is an artist. From these two facts, one can conclude that some artists are not pianists.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Het is waar dat er mensen zijn die muzikant zijn en geen pianist. Iedere muzikant is een kunstenaar. Uit deze twee feiten kan men concluderen dat sommige artiesten geen pianisten zijn."
+  },
+  {
+    "id": "11bab54e-dbbb-4b2e-9d4d-2fc9b2c69d9e",
+    "syllogism": "It is a certainty that every single teacher is a human being. It is also true that a few educated people are human beings. On this basis, it has been stated that a few educated people are teachers.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is een zekerheid dat elke leraar een mens is. Het is ook waar dat een paar goed opgeleide mensen menselijke wezens zijn. Op basis hiervan is gesteld dat een paar goed opgeleide mensen leraren zijn."
+  },
+  {
+    "id": "c85824aa-aa42-497f-8997-ed7e9aa3b2f2",
+    "syllogism": "Every single cat is a dog. There is not a single mammal that is a cat. It can be concluded that no mammal is a dog.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke kat is een hond. Er is geen enkel zoogdier dat een kat is. Er kan worden geconcludeerd dat geen enkel zoogdier een hond is."
+  },
+  {
+    "id": "a42796dd-7101-4b03-9025-ed548108bb4d",
+    "syllogism": "Not a single dog is a canine. Every single poodle is a canine. It follows from this that there are a number of poodles who are not dogs.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkele hond is een hondachtige. Elke poedel is een hondachtige. Hieruit volgt dat er een aantal poedels zijn die geen honden zijn."
+  },
+  {
+    "id": "9c6100d8-e495-4a1e-b797-a45b2e68b4d0",
+    "syllogism": "There are some scientists who are engineers. It is a known fact that some scientists are also doctors. From this, it is suggested that some doctors are engineers.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn enkele wetenschappers die ingenieurs zijn. Het is een bekend feit dat sommige wetenschappers ook artsen zijn. Hieruit wordt gesuggereerd dat sommige artsen ingenieurs zijn."
+  },
+  {
+    "id": "5f1077d7-b61a-47a2-82ba-edae062acd77",
+    "syllogism": "Anything which is a rock is heavy. It is the case that some heavy things are not clouds. Therefore, this implies that all clouds are rocks.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een steen is, is zwaar. Het is zo dat sommige zware dingen geen wolken zijn. Dit impliceert dus dat alle wolken rotsen zijn."
+  },
+  {
+    "id": "55f37da9-53b1-41bd-8f9c-59909de052fd",
+    "syllogism": "Every single chef is a culinary expert. No pilots are included in the category of culinary experts. A certain number of pilots are not chefs.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elke chef-kok is een culinair expert. In de categorie culinaire experts zijn geen piloten opgenomen. Een bepaald aantal piloten zijn geen chef-koks."
+  },
+  {
+    "id": "d8794f2a-f535-4be9-a29b-71a98af6bf08",
+    "syllogism": "Every sky is a blue thing. There is not a single car that is a sky. It can be concluded that no car is a blue thing.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke lucht is blauw. Er is geen enkele auto die een hemel is. Er kan worden geconcludeerd dat geen enkele auto een blauw ding is."
+  },
+  {
+    "id": "581cfd7a-fb09-42f9-8759-d28809d96a4c",
+    "syllogism": "Anything that is a plane is a vehicle. There is nothing that is an item of furniture which is a plane. Consequently, no piece of furniture is a vehicle.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een vliegtuig is, is een voertuig. Er is niets dat een meubelstuk is dat een vliegtuig is. Geen enkel meubelstuk is dus een voertuig."
+  },
+  {
+    "id": "f7af5fc9-8a51-4ef4-8d9a-67efc9ec9208",
+    "syllogism": "Everything that is a vehicle is something that can fly. Any and all birds are things that can fly. This implies that all birds are vehicles.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een voertuig is, is iets dat kan vliegen. Alle vogels zijn dingen die kunnen vliegen. Dit impliceert dat alle vogels voertuigen zijn."
+  },
+  {
+    "id": "b93c1c6a-958a-4cfb-975b-585432f3cd20",
+    "syllogism": "Kitchen items are never hammers. A few hammers are, in fact, tools. There exist tools that are not kitchen items.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Keukenartikelen zijn nooit hamers. Een paar hamers zijn in feite gereedschappen. Er bestaan ​​gereedschappen die geen keukenartikelen zijn."
+  },
+  {
+    "id": "6904b1e8-8a48-4ef1-b450-d8f54773bf96",
+    "syllogism": "It is not true that any flower is a plant. All things that are roses are flowers. Thus, some roses are not plants.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is niet waar dat elke bloem een ​​plant is. Alle dingen die rozen zijn, zijn bloemen. Sommige rozen zijn dus geen planten."
+  },
+  {
+    "id": "166f5a4c-b0e7-4f2b-b25d-1c0a08bd59bb",
+    "syllogism": "Every single human being is a mammal. It is also true that every lion is a mammal. This means that there are no lions that are humans.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Ieder mens is een zoogdier. Het is ook waar dat elke leeuw een zoogdier is. Dit betekent dat er geen leeuwen zijn die mensen zijn."
+  },
+  {
+    "id": "2390b1c3-032f-44a1-a8ad-6515fa87aaf5",
+    "syllogism": "There are no dogs that are felines. It is also true that no cats are canines. Therefore, it is argued that there are no cats which are dogs.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen honden die katachtigen zijn. Het is ook waar dat geen enkele kat hondachtige is. Daarom wordt beweerd dat er geen katten zijn die honden zijn."
+  },
+  {
+    "id": "0c88cde4-2b57-4056-8871-e3d64cad89da",
+    "syllogism": "Every plant is a living thing. Anything that is an animal is a living thing. It is therefore the case that all animals are plants.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke plant is een levend wezen. Alles wat een dier is, is een levend wezen. Het is dus zo dat alle dieren planten zijn."
+  },
+  {
+    "id": "17e81c6e-6a6e-453a-aabf-99a82ee26f26",
+    "syllogism": "There are no reptiles which are also mammals. Not a single amphibian is a reptile. It is the case that a portion of amphibians are not mammals.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen reptielen die ook zoogdieren zijn. Geen enkele amfibie is een reptiel. Het is zo dat een deel van de amfibieën geen zoogdieren zijn."
+  },
+  {
+    "id": "eda05d11-5c82-4cc0-a078-4896b726afc8",
+    "syllogism": "There are no lions which are herbivores. Every single lion is a predator. Therefore, we can conclude that some predators are not herbivores.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn geen leeuwen die herbivoren zijn. Elke leeuw is een roofdier. Daarom kunnen we concluderen dat sommige roofdieren geen herbivoren zijn."
+  },
+  {
+    "id": "3f047c98-7589-4e41-8055-1f023c4d9707",
+    "syllogism": "There are no footwear items that are clothing. Every shoe is a type of footwear. It can be concluded that no shoe is clothing.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen schoeisels die kleding zijn. Elke schoen is een soort schoeisel. Geconcludeerd kan worden dat geen enkele schoen kleding is."
+  },
+  {
+    "id": "2f97c41c-4b5a-407a-a57c-95fa1ea134f6",
+    "syllogism": "Not one single rectangle is a four-sided polygon. Everything that is a square is a four-sided polygon. The implication is that a portion of squares are not rectangles.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkele rechthoek is een vierhoek. Alles wat een vierkant is, is een vierhoek. De implicatie is dat een deel van de vierkanten geen rechthoeken zijn."
+  },
+  {
+    "id": "c18abe00-c1e3-419e-b081-30fb76b046de",
+    "syllogism": "It is a fact that every single dog is a mammal. Likewise, it is true that all poodles are mammals. Therefore, it has been asserted that every poodle is a dog.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is een feit dat elke hond een zoogdier is. Evenzo is het waar dat alle poedels zoogdieren zijn. Daarom wordt beweerd dat elke poedel een hond is."
+  },
+  {
+    "id": "4fd3411a-3f94-4ebb-91e8-9e50c856af27",
+    "syllogism": "There exist students that are adults. Every single person who is a student is a person. It follows that not a single person is an adult.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn studenten die volwassen zijn. Elke persoon die student is, is een persoon. Hieruit volgt dat geen enkele persoon een volwassene is."
+  },
+  {
+    "id": "d6df77ba-b9bf-45e1-8e5b-c73c5ca30f46",
+    "syllogism": "A triangle is never a square. It is also the case that no circle is a square. Consequently, no circle is a triangle.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Een driehoek is nooit een vierkant. Het is ook zo dat geen enkele cirkel een vierkant is. Dus is geen enkele cirkel een driehoek."
+  },
+  {
+    "id": "f2dd94c2-9171-442a-92c2-fdc929df2593",
+    "syllogism": "Every single building is alive. There is not a single living thing that is a house. This means that no house is a building.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Elk gebouw leeft. Er is geen enkel levend ding dat een huis is. Dit betekent dat geen enkel huis een gebouw is."
+  },
+  {
+    "id": "0403d922-4237-409b-9817-9ea3d0b266c1",
+    "syllogism": "It is completely false that any person who is a scientist is an artist. There exists a group of scientists who are also physicists. A valid inference is that some physicists are not artists.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Het is volkomen onjuist dat iedereen die een wetenschapper is, een kunstenaar is. Er bestaat een groep wetenschappers die ook natuurkundigen zijn. Een geldige conclusie is dat sommige natuurkundigen geen kunstenaars zijn."
+  },
+  {
+    "id": "321e05bd-2e8f-412d-beff-9ec29ac7ed43",
+    "syllogism": "It is not the case that every human is a male. Every single human is a creature with ten legs. From this, it follows that some creatures with ten legs are males.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is niet zo dat ieder mens een man is. Ieder mens is een wezen met tien poten. Hieruit volgt dat sommige wezens met tien poten mannen zijn."
+  },
+  {
+    "id": "99b78ff8-443d-4c05-86a9-b7bf99330fdd",
+    "syllogism": "Any person who is an author is a creative. There are no tables that are authors. Consequently, no table is a creative.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Iedereen die auteur is, is een creatieveling. Er zijn geen tabellen die auteurs zijn. Daarom is geen enkele tafel creatief."
+  },
+  {
+    "id": "be226ccb-e7b4-4f8c-b7d0-ef9640c705cb",
+    "syllogism": "Anything which is an animal is a flightless thing. Every single bird is an animal. There are no birds that are not flightless.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een dier is, is een ding dat niet kan vliegen. Elke vogel is een dier. Er zijn geen vogels die niet vliegen."
+  },
+  {
+    "id": "28bd236c-0c71-4d83-bf97-b09721850918",
+    "syllogism": "No animal that is a dog is a bird. Some of the animals known as beagles are dogs. As a result, some beagles are not birds.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Geen enkel dier dat een hond is, is een vogel. Sommige van de dieren die bekend staan ​​als beagles zijn honden. Als gevolg hiervan zijn sommige beagles geen vogels."
+  },
+  {
+    "id": "b8ce3ed1-0261-4bf8-b8c3-4022ae92ee7f",
+    "syllogism": "Nothing that is a bird is also a mammal. It is known that some pets are mammals. Consequently, some pets are birds.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Niets dat een vogel is, is ook een zoogdier. Het is bekend dat sommige huisdieren zoogdieren zijn. Daarom zijn sommige huisdieren vogels."
+  },
+  {
+    "id": "8158cb68-1891-4050-93f6-d7776e724658",
+    "syllogism": "Every single creature that is a canine is a mammal. A portion of canines are dogs. It is therefore the case that some dogs are mammals.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elk wezen dat een hondachtige is, is een zoogdier. Een deel van de hondachtigen zijn honden. Het is dus zo dat sommige honden zoogdieren zijn."
+  },
+  {
+    "id": "43c15f64-aede-463a-89c8-2b4e89583f94",
+    "syllogism": "There are some objects that are metals that are not gold. All objects that are metals are elements. Consequently, some elements are not gold.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn enkele objecten die metalen zijn die geen goud zijn. Alle objecten die metalen zijn, zijn elementen. Dus zijn sommige elementen geen goud."
+  },
+  {
+    "id": "013da35a-1a78-4298-9660-495f8e0c9530",
+    "syllogism": "There exist some things which are water which are not liquids. All water can be poured. It follows that some things that can be poured are not liquids.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er bestaan ​​dingen die water zijn en geen vloeistoffen. Al het water kan worden gegoten. Hieruit volgt dat sommige dingen die kunnen worden gegoten, geen vloeistoffen zijn."
+  },
+  {
+    "id": "d542c648-c8d9-4c3d-bdc4-e42cfe604d37",
+    "syllogism": "Not a single person who is a parent is a human. Among the group of people who are parents, some are mothers. From this, we can logically conclude that there are some mothers who are not humans.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkele persoon die een ouder is, is een mens. Onder de groep mensen die ouders zijn, zijn sommigen moeders. Hieruit kunnen we logischerwijs concluderen dat er enkele moeders zijn die geen mensen zijn."
+  },
+  {
+    "id": "66f1c7d9-8f37-4f93-842e-4020d38b0e68",
+    "syllogism": "It is not true that any bird is a cat. No dog is a bird. This leads to the conclusion that no dog is a cat.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Het is niet waar dat elke vogel een kat is. Geen enkele hond is een vogel. Dit leidt tot de conclusie dat geen enkele hond een kat is."
+  },
+  {
+    "id": "d32207a5-ea82-4d7d-9a51-48f1b384dd8f",
+    "syllogism": "There is not a single sound that is a phenomenon that travels in waves. All of the things that are musical notes are sounds. Consequently, some musical notes are not phenomena that travel in waves.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er is geen enkel geluid dat een verschijnsel is dat zich in golven voortbeweegt. Alle dingen die muzieknoten zijn, zijn geluiden. Dus zijn sommige muzieknoten geen verschijnselen die zich in golven voortbewegen."
+  },
+  {
+    "id": "7bd2fd32-89de-4452-9e86-6a8dc57ef575",
+    "syllogism": "Every object that is a table is a type of furniture. There exist no pieces of furniture that are cars. From this, we must conclude that some cars are not tables.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elk object dat een tafel is, is een soort meubelstuk. Er bestaan ​​geen meubelstukken die auto's zijn. Hieruit moeten we concluderen dat sommige auto's geen tafels zijn."
+  },
+  {
+    "id": "de7fde47-808e-40d6-9096-51fc9478b3e6",
+    "syllogism": "There are some animals that are sparrows. All things that are sparrows are birds. Consequently, every single thing that is a bird is an animal.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn enkele dieren die mussen zijn. Alle dingen die mussen zijn, zijn vogels. Dus is elk ding dat een vogel is, een dier."
+  },
+  {
+    "id": "62b1e53b-5c4e-4af8-b02a-809222c5ecf0",
+    "syllogism": "All of the things that are lions are felines. All of the things that are cats are felines. It can be deduced that there are cats that are lions.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alle dingen die leeuwen zijn, zijn katachtigen. Alle dingen die katten zijn, zijn katachtigen. Hieruit kan worden afgeleid dat er katten zijn die leeuwen zijn."
+  },
+  {
+    "id": "732e20b3-c504-4115-914d-496d0c4ee6da",
+    "syllogism": "Every single mammal is a living thing. The set of animals contains no living things. Not a single mammal is an animal.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elk zoogdier is een levend wezen. De groep dieren bevat geen levende wezens. Geen enkel zoogdier is een dier."
+  },
+  {
+    "id": "c05e6536-84d3-44c5-a5f3-32d838d2134c",
+    "syllogism": "There are some elephants which are mammals. There are some fish which are mammals. This leads to the conclusion that some fish are elephants.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn enkele olifanten die zoogdieren zijn. Er zijn enkele vissen die zoogdieren zijn. Dit leidt tot de conclusie dat sommige vissen olifanten zijn."
+  },
+  {
+    "id": "199ec342-0add-469d-87ce-5c375b2f75d1",
+    "syllogism": "Every single liquid is a molecule. Every single gas is a molecule. As a result, all gases are liquids.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Elke vloeistof is een molecuul. Elk afzonderlijk gas is een molecuul. Als gevolg hiervan zijn alle gassen vloeistoffen."
+  },
+  {
+    "id": "74516312-5969-4166-b84e-a34afc2d12bf",
+    "syllogism": "All sedans are cars. Every sedan is a vehicle. Therefore, all vehicles must be cars.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alle sedans zijn auto's. Elke sedan is een voertuig. Daarom moeten alle voertuigen auto's zijn."
+  },
+  {
+    "id": "92c0d24f-2d6f-492e-b5c9-693b39835a52",
+    "syllogism": "It is not true that any insect is a bird. All airplains are, without exception, birds. This means that every airplain is an insect.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Het is niet waar dat elk insect een vogel is. Alle vliegtuigen zijn, zonder uitzondering, vogels. Dit betekent dat elk vliegtuig een insect is."
+  },
+  {
+    "id": "e213d351-2f05-43b4-b277-c9ecded9473b",
+    "syllogism": "Not a single item that is an instrument is a piano. There are keyboards which are also pianos. We must conclude that some keyboards are not instruments.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Geen enkel item dat een instrument is, is een piano. Er zijn toetsenborden die ook piano's zijn. We moeten concluderen dat sommige toetsenborden geen instrumenten zijn."
+  },
+  {
+    "id": "059182d4-4b95-4caa-9895-b79368d8c736",
+    "syllogism": "A number of chairs are people. Anything that is a person is an organism. Therefore, a portion of organisms are chairs.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Een aantal stoelen zijn mensen. Alles wat een persoon is, is een organisme. Daarom zijn een deel van de organismen stoelen."
+  },
+  {
+    "id": "b3396042-e3fe-4bcb-9cc3-0281c8e0a856",
+    "syllogism": "All things that are tigers are felines. All tigers are mammals. Therefore, some animals that are mammals are not felines.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alle dingen die tijgers zijn, zijn katachtigen. Alle tijgers zijn zoogdieren. Daarom zijn sommige zoogdierdieren geen katachtigen."
+  },
+  {
+    "id": "55542618-500d-49c5-95d5-a522bc938522",
+    "syllogism": "There are some vegetables which are apples. Everything that is an apple is an aquatic mammal. This necessitates that some aquatic mammals are vegetables.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn enkele groenten die appels zijn. Alles wat een appel is, is een waterzoogdier. Dit vereist dat sommige waterzoogdieren groenten zijn."
+  },
+  {
+    "id": "45d795eb-780a-4694-bf87-6819b272cd49",
+    "syllogism": "Anything that is a teacher is an educator. Every single person who is a student is also an educator. It logically follows that there are some students who are not teachers.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een leraar is, is een opvoeder. Iedereen die student is, is ook een opvoeder. Hieruit volgt logischerwijs dat er studenten zijn die geen leraar zijn."
+  },
+  {
+    "id": "123bf7d7-01dd-421d-bd85-5af87b2663dd",
+    "syllogism": "Anything that is a reptile is also an animal. A portion of animals are lizards. Therefore, some lizards are not reptiles.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Alles wat een reptiel is, is ook een dier. Een deel van de dieren zijn hagedissen. Daarom zijn sommige hagedissen geen reptielen."
+  },
+  {
+    "id": "dc67f615-0f81-4c0b-8870-1a0a7d995ab6",
+    "syllogism": "Anything that is a bird is a vertebrate. There are no insects which are birds. Therefore, it can be concluded that no insects are vertebrates.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een vogel is, is een gewerveld dier. Er zijn geen insecten die vogels zijn. Daarom kan worden geconcludeerd dat geen enkele insecten gewervelde dieren zijn."
+  },
+  {
+    "id": "f8530683-a0a0-4237-ade3-f1a3db5048d7",
+    "syllogism": "Plants are in no way living things. Everything that is a plant is an organism. It's the case that some organisms are not living things.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Planten zijn absoluut geen levende wezens. Alles wat een plant is, is een organisme. Het is zo dat sommige organismen geen levende wezens zijn."
+  },
+  {
+    "id": "362d75b6-69fd-409f-8b73-fd61a1b208cc",
+    "syllogism": "Any animal that is a lion is a carnivore. No gazelle is a carnivore. It is impossible for a gazelle to be a lion.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Elk dier dat een leeuw is, is een carnivoor. Geen enkele gazelle is een carnivoor. Het is onmogelijk dat een gazelle een leeuw is."
+  },
+  {
+    "id": "eff43e93-d2d9-4b07-877e-d63a8bdf260d",
+    "syllogism": "Every poodle is a dog. No cat is a poodle. Therefore, no cat is a dog.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke poedel is een hond. Geen enkele kat is een poedel. Daarom is geen enkele kat een hond."
+  },
+  {
+    "id": "0872ecdb-a56f-421d-8f30-e3be4d70c054",
+    "syllogism": "There are no liquids that are solids. Some of the things that are beverages are liquids. It follows that some beverages are solids.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen vloeistoffen die vaste stoffen zijn. Sommige dingen die dranken zijn, zijn vloeistoffen. Hieruit volgt dat sommige dranken vaste stoffen zijn."
+  },
+  {
+    "id": "a7d18367-6870-4eee-9a55-60a5dcc9dd70",
+    "syllogism": "Anything that is a dog is also a pet. There are some cats that are not pets. It must be true that no cat is a dog.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Alles wat een hond is, is ook een huisdier. Er zijn katten die geen huisdieren zijn. Het moet waar zijn dat geen enkele kat een hond is."
+  },
+  {
+    "id": "ea73e9d5-ebb1-403c-9ea4-f7458c313107",
+    "syllogism": "Not a single person who is a doctor is also an engineer. Among the group of people who are doctors, some are researchers. From this, we can logically conclude that there are some researchers who are not engineers.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Geen enkele persoon die arts is, is ook ingenieur. Onder de groep mensen die artsen zijn, zijn sommigen onderzoekers. Hieruit kunnen we logischerwijs concluderen dat er enkele onderzoekers zijn die geen ingenieurs zijn."
+  },
+  {
+    "id": "e3ef3dd1-8520-4e8f-b3e0-e12fde645d76",
+    "syllogism": "Every politician is a citizen. All senators are citizens. Consequently, every single senator is a politician.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Iedere politicus is een burger. Alle senatoren zijn burgers. Dus is elke senator een politicus."
+  },
+  {
+    "id": "14973340-3381-49f3-9dcd-3805c7a419bc",
+    "syllogism": "It is true that every single book is invisible. Anything that is invisible is also poisonous. This means that a few poisonous things are books.",
+    "validity": true,
+    "plausibility": false,
+    "translated_syllogism": "Het is waar dat elk boek onzichtbaar is. Alles wat onzichtbaar is, is ook giftig. Dit betekent dat een paar giftige dingen boeken zijn."
+  },
+  {
+    "id": "59598fb3-62fa-42dd-9498-8ae6fdc51cbc",
+    "syllogism": "Every mammal is an animal. Every fish is an animal. This suggests that some fish are mammals.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Ieder zoogdier is een dier. Elke vis is een dier. Dit suggereert dat sommige vissen zoogdieren zijn."
+  },
+  {
+    "id": "53ebb02d-437a-481d-a71f-b83ef47b5b61",
+    "syllogism": "There are some band members who are singers. All band members are considered musicians. It follows that some musicians are singers.",
+    "validity": true,
+    "plausibility": true,
+    "translated_syllogism": "Er zijn enkele bandleden die zangers zijn. Alle bandleden worden beschouwd als muzikanten. Hieruit volgt dat sommige muzikanten zangers zijn."
+  },
+  {
+    "id": "97bd1911-5aca-41a1-ba6f-835f2ba45abf",
+    "syllogism": "Every cat is a mammal. The set of dolphins contains no cats. Every single dolphin is a mammal.",
+    "validity": false,
+    "plausibility": true,
+    "translated_syllogism": "Elke kat is een zoogdier. De set dolfijnen bevat geen katten. Elke dolfijn is een zoogdier."
+  },
+  {
+    "id": "1230d4f7-42c5-4131-bbf3-5fe5387c93ea",
+    "syllogism": "There are no tables that are chairs. All zebras are, without exception, chairs. It is therefore suggested that some zebras are tables.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen tafels die stoelen zijn. Alle zebra's zijn zonder uitzondering stoelen. Er wordt daarom gesuggereerd dat sommige zebra's tafels zijn."
+  },
+  {
+    "id": "ab27dbac-d446-4199-a267-16d010b7588f",
+    "syllogism": "There are some mammals which live on land. It is the case that no fish lives on land. Consequently, all fish are mammals.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn enkele zoogdieren die op het land leven. Het is zo dat er geen vis op het land leeft. Dus zijn alle vissen zoogdieren."
+  },
+  {
+    "id": "c11d7833-78e3-45ba-af17-3fdb4217555b",
+    "syllogism": "There are no numbers that are tables. It is not true that any table is a couch. It is the case that some couches are numbers.",
+    "validity": false,
+    "plausibility": false,
+    "translated_syllogism": "Er zijn geen getallen die tabellen zijn. Het is niet waar dat elke tafel een bank is. Het is zo dat sommige banken nummers zijn."
+  }
+]
