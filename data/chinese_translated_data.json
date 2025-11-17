@@ -4,7 +4,7 @@
         "syllogism": "Anything that is a bird is a vertebrate. It is also the case that every single bat is a vertebrate. Consequently, nothing that is a bat is a bird.",
         "validity": false,
         "plausibility": true,
-        "Chinese": "任何鸟都是脊椎动物,每只蝙蝠都是脊椎动物。因此,没有一只蝙蝠是鸟。",
+        "Chinese": "任何鸟类都是脊椎动物。同样，每一只蝙蝠都是脊椎动物。因此，没有任何蝙蝠是鸟类。",
         "translated_syllogism": "Alles wat een vogel is, is een gewerveld dier. Het is ook zo dat elke vleermuis een gewerveld dier is. Niets wat een vleermuis is, is dus een vogel. "
     },
     {
@@ -28,7 +28,7 @@
         "syllogism": "There are no squares which are round. There are no circles which are squares. It follows, then, that some circles are square.",
         "validity": false,
         "plausibility": false,
-        "Chinese": "没有圆形的正方形,没有圆形的圆圈,因此,有些圆圈是正方形的。",
+        "Chinese": "没有圆形的正方形。没有方形圆圈。因此，某些圆形是方形的。",
         "translated_syllogism": "Er zijn geen vierkanten die rond zijn. Er zijn geen cirkels die vierkanten zijn. Hieruit volgt dus dat sommige cirkels vierkant zijn. "
     },
     {
@@ -60,7 +60,7 @@
         "syllogism": "Anything which is a mammal is cold-blooded. All things that are whales are mammals. There exists at least one whale that is cold-blooded.",
         "validity": true,
         "plausibility": false,
-        "Chinese": "任何哺乳动物都是冷血的,鲸鱼都是哺乳动物。至少有一种鲸鱼是冷血的。",
+        "Chinese": "任何哺乳动物都是冷血动物。所有鲸鱼都是哺乳动物。至少存在一条鲸鱼是冷血动物。",
         "translated_syllogism": "Alles wat een zoogdier is, is koelbloedig. Alle dingen die walvissen zijn, zijn zoogdieren. Er bestaat minstens één walvis die koelbloedig is. "
     },
     {
@@ -92,7 +92,7 @@
         "syllogism": "There's no small rodent that is a bear. Every single squirrel is a small rodent. Consequently, no squirrel is a bear.",
         "validity": true,
         "plausibility": true,
-        "Chinese": "没有小老鼠是熊每只松鼠都是小老鼠因此没有松鼠是熊。",
+        "Chinese": "没有小型啮齿动物是熊。每只松鼠都是小型啮齿动物。因此没有松鼠是熊。",
         "translated_syllogism": "Er is geen klein knaagdier dat een beer is. Elke eekhoorn is een klein knaagdier. Bijgevolg is geen enkele eekhoorn een beer. "
     },
     {
@@ -100,7 +100,7 @@
         "syllogism": "Anything which is a human is capable of walking. It is the case that no rock is a human. At least some rocks can walk.",
         "validity": false,
         "plausibility": false,
-        "Chinese": "任何人类都能行走的事物,都是没有岩石是人类的。至少有些岩石可以行走。",
+        "Chinese": "任何人都能行走。岩石不是人类。至少有一些岩石可以行走。",
         "translated_syllogism": "Alles wat een mens is, kan lopen. Het is zo dat geen enkele steen een mens is. Sommige rotsen kunnen tenminste lopen. "
     },
     {
@@ -108,7 +108,7 @@
         "syllogism": "No vegetable is a type of meat. It is true that every single meat is a food. This proves that some vegetables are food.",
         "validity": false,
         "plausibility": true,
-        "Chinese": "没有蔬菜是一种肉类,每只肉都是食物,这证明有些蔬菜是食物。",
+        "Chinese": "没有蔬菜是肉类。所有的肉都是食物。这证明有些蔬菜是食物。",
         "translated_syllogism": "Geen enkele groente is een soort vlees. Het is waar dat elk vlees een voedingsmiddel is. Dit bewijst dat sommige groenten voedsel zijn. "
     },
     {
@@ -116,7 +116,7 @@
         "syllogism": "Everything that is a tree is a plant. Not a single stone is a plant. All stones are trees.",
         "validity": false,
         "plausibility": false,
-        "Chinese": "每棵 树、都是 植物. 一块 石、一根 都是 植物. 一切的 石、都是 树。",
+        "Chinese": "每棵树都是植物。没有一块石头是植物。所有的石头都是树。",
         "translated_syllogism": "Alles wat een boom is, is een plant. Geen enkele steen is een plant. Alle stenen zijn bomen. "
     },
     {
