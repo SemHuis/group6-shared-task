@@ -1,0 +1,1442 @@
+[
+    {
+        "id": "68b29c80-27f6-4121-8408-295bd8de466c",
+        "syllogism": "Alles wat een vogel is, is een verticil. Het is ook zo dat elke enkele vleermuis een verticil is. Daarom is niets wat een vleermuis is, een vogel.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b289a588-133e-40b7-a1ba-014af94a8522",
+        "syllogism": "Enige gebouwen zijn huizen. Er zijn geen huizen die auto's zijn. Daarom zijn enige auto's gebouwen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8fad6fdb-f462-4147-9b0f-28b1343200b8",
+        "syllogism": "Alles wat een planeet is, wordt beschouwd als een hemellichaam. Het is onmogelijk dat een brug een hemellichaam is. Sommige bruggen zijn niet planeten.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "43ae00ee-0cf2-4a62-beab-56f90d170347",
+        "syllogism": "Er zijn geen vierkanten die rond zijn. Er zijn geen cirkels die vierkanten zijn. Het volgt dan dat enkele cirkels vierkant zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b3a91f20-41e0-45b3-a152-92f28e8999c1",
+        "syllogism": "Niet waar dat elk insect een kruisvleugelig is. Elke insect is een spinnen. Het volgt dat elke spinnen een kruisvleugelig is.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "29250e54-2aae-4cb6-a6d3-f2b461c30e62",
+        "syllogism": "Alleen items die geld zijn, zijn geen munt. Een deel van de items die dollars zijn, zijn munt. Het volgt dat sommige dollars geen geld zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "67c048fb-e79b-4267-b6cc-5605a1b92810",
+        "syllogism": "Alleen boeken zijn planeten. Alleen boeken zijn meubels. Daarom zijn er meubels die planeten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0b639393-0cbf-4162-90a6-80cd8a7dc982",
+        "syllogism": "Alles wat een mammal is, is koudbloedig. Alles wat een vinvis is, is een mammal. Er bestaat ten minste één vinvis dat koudbloedig is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d8954215-16e1-4b1a-ab2f-bb98b633712d",
+        "syllogism": "Er zijn enkele ideeën die van kaas zijn gemaakt. Elke enkele idee is een emotie. Gevolgelijk zijn enkele emoties van kaas gemaakt.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0a6a2c61-1d0e-47a6-8faa-5a5086a59dc9",
+        "syllogism": "Alleen de bomen zijn planten. Er zijn geen steen die ook planten zijn. Er is minstens één steen dat geen boom is.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ff711f53-e1ce-448e-958b-c702260df860",
+        "syllogism": "Geen mensen zijn insecten. Enkele mensen zijn astronauten. Het is waar dat een deel van alle astronauten insecten zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3302e35f-aa7e-421a-8724-7186ac4bf418",
+        "syllogism": "Er is geen klein zoogdier dat een beer is. Elke vos is een klein zoogdier. Gevolg daarvan is dat geen vos een beer is.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "91cc9185-2d04-4140-a98c-61c8b582afe2",
+        "syllogism": "Alles wat een mens is, kan lopen. Het is waar dat geen rots een mens is. Ten minste enkele rotsen kunnen lopen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c88bec75-1d67-4660-8898-d3f8d060d626",
+        "syllogism": "Geen groenten zijn een soort vlees. Het is waar dat elke enkele vlees een voedsel is. Dit bewijst dat sommige groenten voedsel zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8e7c3181-8819-4648-a6f9-33b1009c59c3",
+        "syllogism": "Alles wat een boom is, is een plant. Geen enkele steen is een plant. Alle stenen zijn bomen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "54cf0041-6930-4de3-aac5-4810959586d0",
+        "syllogism": "Alleen vogels kunnen vliegen. Er zijn enkele dieren die vogels zijn. Dus kunnen alle dieren vliegen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ee8e00e2-7bf8-41a3-8009-40d328cb1d60",
+        "syllogism": "Alleen de dieren die vlees eet zijn insecten. Er zijn geen vlinders die vlees eet. Daarom volgt dat sommige vlinders insecten zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "619eeec3-c9e1-404d-8ca6-5375df3777bb",
+        "syllogism": "De meubels zijn dingen die op geen enkele manier zittingen zijn. Alle items die stoelen zijn, zijn ontworpen voor zitting. Stoelen zijn geen meubels.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4d7aa5d5-4fdc-49d1-b879-1d6fca829c8e",
+        "syllogism": "Alleen vierkanten zijn veelhoeken. Er zijn geen veelhoeken die cirkels zijn. Dus kan worden geconcludeerd dat enkele cirkels geen vierkanten zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1638fd0c-b370-4d7a-8036-97f0468e886d",
+        "syllogism": "Er zijn geen jassen die ook broeken zijn. Het is waar dat geen jas een paar broeken is. Daarom kunnen we concluderen dat een paar jassen jassen zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "475ce940-a63d-4940-9254-be1e35243cfa",
+        "syllogism": "Er zijn enkele honden die katten zijn. Er zijn geen katten die reptielen zijn. Daarom zijn enkele reptielen honden.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "dc79b4b7-8f59-43b5-8414-6c5cb46e94c7",
+        "syllogism": "Alleen vloeistoffen zijn nat. Alle vaste stoffen zijn ook nat. Dus, niets wat een vast stof is, is niet een vloeistof.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "80ba297a-c9c9-4925-851e-72eb42dafd61",
+        "syllogism": "Alleen de politici zijn mens. Alle mens zijn dood. Daarom zijn alle mensen politici.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "312d903d-c5fc-4ac8-beb2-3ec72f6b25b9",
+        "syllogism": "Er zijn geen planten die vis zijn. Sommige objecten die als roos worden geclassificeerd zijn planten. Daarom zijn geen rozen vis.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6f8772d9-64c8-4296-85fb-898046c33a6e",
+        "syllogism": "Honden zijn op geen enkele manier katten. Er zijn geen katten die vis zijn. Er bestaan geen honden die vis zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9deb885f-2862-4ceb-86b7-c0fbc19e2691",
+        "syllogism": "Niet één rots is een dier. Elke ding dat een hond is, is een rots. Dit betekent dat enkele honden dieren zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d1a8eb77-d4f7-4b1c-be1a-6e501f5b910e",
+        "syllogism": "Alles wat een vogel is, is een dier. Iets dat een papegaai is, is zonder uitzondering een vogel. Dit betekent dat alle papegaaien dieren zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "371da820-c909-468d-a7d8-333db7019688",
+        "syllogism": "Alleen tweewieleren zijn geen voertuigen. Een aantal fietsen is onderdeel van de tweewieleren. Daarom behoren een aantal fietsen niet tot de categorie voertuigen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a3fc4115-5212-451a-888d-d044c14c1678",
+        "syllogism": "Alleen dieren die katten zijn, zijn geen dieren. Er zijn katten die ook honden zijn. Uit dit volgt dat er bepaalde honden zijn die geen dieren zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "481ceb04-c39f-4f7a-b645-18dc5aa717b2",
+        "syllogism": "Er zijn geen honden die katten zijn. Enkele honden zijn huisdieren. Dit betekent dat enkele huisdieren katten zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c6a92b4e-ca9a-475c-9fec-967fbec7ab36",
+        "syllogism": "Alleen vishabitanten leven in de zee. Er zijn vissen, en een aantal daarvan zijn zalm. Op basis hiervan moet het dus zijn dat een bepaald aantal zalm niet in de zee leeft.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0c41f657-b5c7-49f0-ba40-93192828326c",
+        "syllogism": "Alleen vogels zijn zoogdieren. Het is waar dat geen leeuw een vogel is. Het is waar dat geen leeuw een zoogdier is.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "dfd5eb0f-1457-4e71-b1d9-60dd75ce5ebb",
+        "syllogism": "Alleen maar waar dat elke enkele wagen een wolk is. Geen wolk is een auto. Op basis van deze informatie is het logisch noodzakelijk dat enkele auto's niet wagens zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "65aaed4e-522b-422d-b4e4-cd5dfced222e",
+        "syllogism": "Alles wat een mammal is, is een mens. Elke hond is een mammal. Geen enkele hond is een mens.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ec3d4144-b083-43d2-a400-20da589c8627",
+        "syllogism": "Alleen de vogels zijn vleugelbewegende dieren. Er zijn geen insecten die vogels zijn. Een conclusie die hieruit kan worden getrokken is dat er geen insecten zijn die vleugelbewegende dieren zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f82be88d-5ec5-48f2-98ed-84893e692052",
+        "syllogism": "Niets wat een voertuig is, is een gebouw. Alle gebouwen die bestaan, zijn auto's. Een bepaalde hoeveelheid auto's zijn geen voertuigen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "38d07379-8307-4a7f-a73d-731ed989dc84",
+        "syllogism": "De groep vogels is een deelverzameling van de groep wezens met veren. Ten minste één insect is geen wezen met veren. Niet elke insect is een vogel.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c0895494-c8b9-49b8-ae50-85e05a9c2bad",
+        "syllogism": "Alleen katten zijn geen zoogdieren. Elke enkele kat is een vleesetende. Het is waar dat sommige vleesetende niet zoogdieren zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fafcc44f-e5ec-4fe9-8bed-96eb1ad1ab3d",
+        "syllogism": "Alleen objecten die gebouwen zijn, zijn ook structuren. Er is geen enkele structuur die een wolk is. Het volgt dat geen wolk een gebouw is.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "45d94787-3541-406f-af22-4fd535dee8a8",
+        "syllogism": "Niet alle auto's zijn voertuigen. Alleen auto's met wielen zijn voertuigen. Minstens één auto heeft geen wielen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "712feadb-84db-4b6d-9ef4-3a4d670f0d66",
+        "syllogism": "Geen geest is onsterfelijk. Er is geen enkele mens die een geest is. Het volgt dat geen mens onsterfelijk is.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "febb0646-5f5b-4cee-bc66-a3444c562560",
+        "syllogism": "Geen persoon is zowel muzikant als niet-artistiek. Het is bekend dat enkele menswezens onder de niet-artistieke mensen vallen. De gevolgtrekking is dat er menswezens zijn die geen muzikant zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ec09b245-cd39-4bf3-95b5-29f73ac156ab",
+        "syllogism": "Alleen slangen zijn reptielen. Het is waar dat alle kikkers reptielen zijn. Het volgt dat enkele kikkers slangen zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "95637ce9-5489-45cb-aa6c-73934ab7e489",
+        "syllogism": "Alleen honden zijn dieren. Alles wat een dier is, is een zoogdier. Het moet dus waar zijn dat elk zoogdier een dier is.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a907b7ac-65e7-4dbf-83db-21957c0c2a8f",
+        "syllogism": "Alleen sport vereist lichaamsvet. Er bestaat geen voetbal dat geen sport is. Ten minste een beetje voetbal is iets dat lichaamsvet vereist.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "06689352-cd51-48f4-8767-0864666d0941",
+        "syllogism": "Alles wat een roman is, is een boek. Alle boeken zijn publicaties. Uit deze feiten is duidelijk dat een paar publicaties romans zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ee91ca83-4f5e-48ac-ae52-93ad7842c9fb",
+        "syllogism": "Alles wat een huis is, is een structuur. Er zijn geen bruggen die huizen zijn. Daarom is geen brug een structuur.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c9a543c7-82de-4734-a9e2-e059894c58b4",
+        "syllogism": "Niet waar dat elke invoerapparaat wordt gebruikt voor typen. Elke toetsenbord is een invoerapparaat. Het is dus een feit dat geen toetsenbord wordt gebruikt voor typen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "077078f3-93b5-4e7d-8376-66acd052c2c0",
+        "syllogism": "Alleen dokters zijn professionals. De verzameling kinderen bevat geen professionals. Ten minste één kind is geen dokter.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8cd07a48-a1a5-408d-97ab-6827a4176f99",
+        "syllogism": "Alleen wat een hond is, is een kat. Een aantal honden zijn canines. Dus, sommige honden zijn katten.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5a021fdb-c72e-4a97-b112-a4a4011dee86",
+        "syllogism": "Geen hond is een huisdier. Het is bekend dat een deel van honden huisdieren zijn. Daarom, sommige honden behoren niet tot de groep caniniërs.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6cb41e5e-32e3-4eeb-b3b2-700c7e3a692f",
+        "syllogism": "Alles wat een hond is, is een dier. Alles wat een kat is, is een dier. Het is waar dat enkele katten geen honden zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4a21a53f-3e8b-46ca-b904-9e8eaf8a638f",
+        "syllogism": "Alles wat een mammal is, is een dier. Elke hond is een dier. Dit betekent dat alle honden mammalen zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4c8d8de7-6547-4766-8f98-7f28dd8b4b9a",
+        "syllogism": "Niet alle bibliothecarissen zijn studenten. Alle bibliothecarissen zijn studenten. Enkele studenten zijn mensen die lezen genieten.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "975254d3-6a2c-4878-8eb4-4f5bd70a0394",
+        "syllogism": "Niet elk roman heeft bladzijden. Elke roman is een boek. Dus, sommige boeken hebben geen bladzijden.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "25f8f3fc-d38a-4b43-9a7a-4324cbc869bc",
+        "syllogism": "Alleen dingen die huisdieren zijn, zijn ook katten. Sommige katten zijn huisdieren. Dit leidt tot de conclusie dat een aantal katten geen katten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "e8b5e46d-d26f-4c48-bba0-4a109e59574f",
+        "syllogism": "Alleen honden zijn levende wezens. Sommige levende wezens zijn geen zoogdieren. Daarom volgt dat sommige zoogdieren geen honden zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b0448c8e-5688-4643-bc13-9379ddc605cd",
+        "syllogism": "Er zijn geen dieren die rotsen zijn. Het is ook waar dat geen honden rotsen zijn. Daarom wordt beweerd dat er geen honden zijn die dieren zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "675842ed-60c4-40ab-9f9b-cf0c90280d88",
+        "syllogism": "Alleen mensen zijn geen vis. Er zijn een paar vis die ook wezens zijn die in het water leven. Het is waar dat niet alle wezens die in het water leven mensen zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c061e039-e726-41ad-a8a6-e782b7bf417b",
+        "syllogism": "De klasse van insecten en de klasse van dieren met acht poten hebben geen overlap. Alle dieren met acht poten zijn spinnen. Een deel van de insecten zijn spinnen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b9cd6b85-d8d8-4cf0-98e0-5a436b58820a",
+        "syllogism": "Alleen mensen uit New York moeten belastingen betalen. Elke New Yorker is een burger van de VS. Dus, alle burgers van de VS moeten belastingen betalen.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a33f2989-2d8f-40f2-9680-351c1fa406ef",
+        "syllogism": "Alleen vierkanten zijn rechthoeken. Alle vierkanten zijn vierkanten. Het volgt daaruit dat enkele vierkanten niet rechthoeken zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "80d2725e-50ab-4668-81c2-5d009dab1bec",
+        "syllogism": "Alleen vloeistoffen zijn geen stoffen. Iedere vloeistof is een vloeibaar medium. Het is waar dat sommige vloeibare materialen geen stoffen zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4bd9a4a6-1764-45fc-8172-86c65200f855",
+        "syllogism": "Niet één ding dat een reptiel is, is een mammal. Van de dingen die reptielen zijn, zijn er enige slangen. Dit bewijst dat een aantal slangen mammale zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7f48e605-47b8-4f1d-914c-d0f3c42593a3",
+        "syllogism": "Geen enkele zoogdier is een vis. Er zijn een paar vissen die ook mensen zijn. Er zijn enkele mensen die geen zoogdieren zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6f498eff-ed8a-4128-b751-ea02b9d28bc7",
+        "syllogism": "Alleen dieren die van glas zijn gemaakt zijn mammalen. Sommige katten zijn niet van glas gemaakt. Daarom is het waar dat sommige katten geen mammalen zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f96c05f3-3cc5-465b-a17d-3b7d30e5607e",
+        "syllogism": "Alleen gebouwen zijn gemaakt van snoep. Er zijn geen huizen die geen gebouwen zijn. Een bepaald aantal huizen is gemaakt van snoep.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9c06e896-d5b8-47ed-875e-43c6fc526c44",
+        "syllogism": "Alles wat een dier is, is een idee. Er zijn geen ideeën die honden zijn. Dit impliceert noodzakelijkerwijs dat enkele honden geen dieren zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b97a902a-7e57-4ae9-aaaf-edd77e73fbf6",
+        "syllogism": "Alleen planten zijn voedsel. Alles wat een vrucht is, is voedsel. Het volgt dat elke vrucht een plant is.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0700415b-1bd2-4bf2-baba-848f70b38c7d",
+        "syllogism": "Niet alle treinen zijn hemellichamen. Het is waar dat elk trein een planeet is. Daarom zijn enkele planeten geen hemellichamen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4d476b7d-8af6-4690-8a19-2dc753c37d8a",
+        "syllogism": "Alleen planten met dornen zijn geen bloemen. Een aantal rozen wordt beschouwd als planten met dornen. Dit toont aan dat enkele rozen geen bloemen zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0820d34a-6e2d-4f52-a975-d6f640f2ffe7",
+        "syllogism": "Niet waar dat elke vogel een vis is. Er bestaat een groep vogels die ook pinguïns zijn. Een geldige afleiding is dat enkele pinguïns vissen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5e7507ca-56d4-4de4-907f-8f0b1e17ac18",
+        "syllogism": "Alles wat een vogel is, is een mammel. Geen parrots zijn opgenomen in de categorie van mammels. Het is waar dat enkele parrots geen vogels zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "af093ce5-5c2e-4190-8421-5cbf7e6fef3d",
+        "syllogism": "Alleen vrucht is voedsel. Het is het geval dat geen appel een voedsel is. Dit betekent dat geen appel een vrucht is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "31e903dc-43a9-4fb6-8841-5a724bdf53ca",
+        "syllogism": "Alleen dieren zijn levende wezens. Iedere vogel is een dier. Alle vogels zijn levende wezens.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4a6f96f2-f3fb-414b-88b2-ec007c595e9b",
+        "syllogism": "Geen auto is een boot. Sommige voertuigen zijn geen auto's. Daarom zijn alle voertuigen boten.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a9e0e8bb-07cb-4153-bfc7-cb4428463fc7",
+        "syllogism": "Alleen goud wordt altijd als een metaal geclassificeerd. Niets wat een plastic is, is een metaal. Daarom is geen plastic goud.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "172f9030-2726-49a1-8acf-40c8d9661aab",
+        "syllogism": "Alleen objecten die vormen zijn, zijn dieren. Er zijn geen cirkels die ook dieren zijn. Een deel van de vormen zijn geen cirkels.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "331bc8f9-e5c1-40f3-ace4-77fbe5ad4719",
+        "syllogism": "Alleen leeuwen zijn gazellen. Alle Afrikaanse leeuwen zijn dingen die leeuwen zijn. Het volgt dat er enige Afrikaanse leeuwen zijn die geen gazellen zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "264785f1-ad8f-422d-ba64-9b9f60adffcc",
+        "syllogism": "Alles wat een levend ding is, is een wezen. Het is onmogelijk dat iets tegelijk een organisme en een wezen is. Het is waar dat een deel van de organismen geen levend ding is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "82fcecfd-04c6-4a02-a513-0b7ed47b9e1d",
+        "syllogism": "Geen vogel is een vis. Sommige aquatische dieren zijn dingen die vogels zijn. Dus, sommige aquatische dieren zijn dingen die vis zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "92375de2-c1c8-4b7c-abc6-793165b6b3ea",
+        "syllogism": "Alleen honden zijn dieren. Alle huisdieren zijn dieren ook. Daarom zijn enkele huisdieren geen honden.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5b7d32a6-8a3c-41a1-ab3f-03143d574cbd",
+        "syllogism": "Alleen mensen zijn dieren die primaten zijn. Geen dieren die primaten zijn zijn ook vis. Daarom is het zo dat sommige vis niet mensen zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6b013055-b913-4742-94ab-a9dc40d1881f",
+        "syllogism": "Niets wat een steen is, is een vlees. Het is ook waar dat geen vrucht een vlees is. Dus, geen vrucht is een steen.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "54c5b3f8-ba16-4eaf-86a1-71d78b771192",
+        "syllogism": "Alles wat getallen zijn, zijn dieren. Alles wat getallen zijn, zijn planten. Het volgt dat enkele planten dieren zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "33d55b15-c886-478b-91bb-8af9b5b7fe31",
+        "syllogism": "Alleen de mensen die rijk kunnen worden, zijn de succesvolle mensen. Elke succesvolle persoon werkt hard. Dit bewijst dat iedereen die hard werkt, rijk kan worden.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3f5f67b4-3d96-44d3-b94e-e4422a21ac05",
+        "syllogism": "Er is geen zoogdier dat een haai is. Sommige haaien zijn vissen. Daarom zijn sommige vissen geen zoogdieren.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e630eecd-f2e5-40b2-8417-3d88982377a5",
+        "syllogism": "Geen van de artikelen die karotten zijn, zijn paprika's. Er zijn groenten die paprika's zijn. Het is correct om te infereren dat enkele groenten niet karotten zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7d017cf6-f94b-41d9-a6d6-a7bb8767f430",
+        "syllogism": "Natuurlijke Nederlandse vertaling: Natuurlijke Nederlandse vertaling: Enige van de bijen die bestaan zijn insecten. Elke bij is een arthropod. Dus, enige arthropoden zijn insecten.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ef813b31-ae4f-4041-b9cc-b1d3378ba884",
+        "syllogism": "Alleen vruchten bevatten zaden. Elke appel is een vrucht. Een aantal appels bevat zaden.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8b839892-71f7-4ea5-9c5b-7aa33246451f",
+        "syllogism": "Alles wat een getal is, is een letter. De verzameling van alle gehele getallen bevat geen letters. Het is waar dat er bepaalde gehele getallen zijn die geen getallen zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "10c004f6-6468-4756-a2bb-cf97b0f34a89",
+        "syllogism": "Alleen honden zijn dieren. Alles wat een kat is, is een dier. Het volgt dat een paar katten honden zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "82567966-505e-45fe-a4b0-c34de685c0a7",
+        "syllogism": "Alleen honden zijn zoogdieren. Een klein aantal zoogdieren zijn dieren. Sommige dieren zijn geen honden.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "95d56d9f-c7ed-4537-b582-7076beccbd92",
+        "syllogism": "Er is geen hemellichaam dat een ding in de lucht is. Alle planeten zijn dingen in de lucht. De implicatie is dat een aantal planeten geen hemellichaam zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "74642dd5-9eb6-4a00-a493-4b25f3aac128",
+        "syllogism": "Geen wezens zijn zowel mens als organisme. Van de wezens die baby's zijn, zijn er enige organisme. Uit dit kunnen we logisch afleiden dat enige baby's niet mens zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b849ab87-08a8-4ad7-9535-633e79d73ca5",
+        "syllogism": "Een hemellichaam is nooit meubilair. Elke planeet is inderdaad een hemellichaam. Daarom is geen planeet meubilair.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fba06d33-39b6-4e03-ae12-ac3e4f2cb1e0",
+        "syllogism": "Er zijn geen getallen die zowel even als oneven zijn. Enige getallen die oneven zijn, zijn ook deelbaar door twee. Niet alle getallen die deelbaar zijn door twee, zijn even.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ddbd0598-37ce-41d2-89c6-73109dcf196c",
+        "syllogism": "Alles wat een salamander is, is een planeet. Enkele salamanders zijn amfibieën. Het moet volgen dat een bepaald aantal amfibieën planeten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "42f67665-07b1-4466-b825-8ec4367d126e",
+        "syllogism": "Er zijn geen artikelen die geen planten zijn die planten zijn. Een aantal artikelen die geen planten zijn zijn bomen. Daarom zijn een deel van de bomen planten.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f365e4e6-b827-4b74-b09a-e386043f0e89",
+        "syllogism": "Alleen dieren zijn dieren. Geen zoogdieren zijn honden. Dus, geen zoogdieren zijn dieren.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "70b2849f-72c6-4f1f-9fff-8c159405b8c8",
+        "syllogism": "Alles wat robins is, is vogels. Er zijn geen vogels die vis zijn. Het volgt logisch dat geen vis robins zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d93e9241-f9bc-43f7-b482-b395b21e086b",
+        "syllogism": "Alleen zeevogels zijn vissen. Alleen vissen zijn planten. Daarom zijn geen planten vogels.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fe7ee440-ef75-481a-b562-4bd665bb11c9",
+        "syllogism": "Alles wat een tafel is, is geen boom. Er zijn tafels, en een aantal daarvan kan als meubel worden aangemerkt. Op basis hiervan moet een deel van de meubelstukken geen bomen zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e6449020-f9d5-4bc0-b0a2-561fa0d15d30",
+        "syllogism": "De groep professionals is een deelverzameling van de groep mensen. Alles wat een arts is, is een professional. Daarom zijn er mensen die geen arts zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6b02110b-77c6-4547-a4ad-f874027d9bba",
+        "syllogism": "Alleen de kranten zijn dieren. Sommige tijdschriften zijn geen dieren. Daarom zijn sommige tijdschriften geen kranten.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f11aecef-3e59-473a-b84d-c2cc26525774",
+        "syllogism": "Alleen mensen zijn mensen. Iets dat een mens is, is een echtgenoot. Daaruit volgt dat alle echtgenoten mensen zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2b535ac3-2104-4754-b57a-dd89319e6a16",
+        "syllogism": "Er zijn geen auto's die ook boten kunnen worden genoemd. Het is ook waar dat elke auto een type voertuig is. Dit heeft geleid tot de conclusie dat een deel van de voertuigen auto's zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "02a6d9c3-9704-4290-905b-f427482c06c8",
+        "syllogism": "Alleen waar is dat elke pen een object is. Sommige dingen zijn geen pen. Uit dit kan worden geconcludeerd dat sommige dingen geen object zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d391cce1-9ad3-4ef0-8549-6f19e2d96d90",
+        "syllogism": "Alleen de boeken wegen een ton. Een deel van de romans zijn boeken. Daarom wegen enkele romans een ton.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ffba71c8-04fc-496e-809f-6655735d3be8",
+        "syllogism": "Alleen katten zijn dieren. Er is een deel van dieren dat bestaat uit zoogdieren. Een deel van zoogdieren zijn niet katten.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d109b3fe-c6b0-401b-b185-250fa2af3ef7",
+        "syllogism": "Er is geen item dat een voertuig is dat ook een auto is. De groep automobielen bevat enkele die auto's zijn. We moeten accepteren dat enkele automobielen geen voertuigen zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fca654b0-e91a-4199-9869-8892e450f591",
+        "syllogism": "Alleen driehoeken zijn veelhoeken. Alle vormen die vierkanten zijn, zijn veelhoeken. Niets wat een vierkant is, is ook een driehoek.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ea4ed2ab-8c5b-43f2-b726-218533f2939f",
+        "syllogism": "Alleen de groenten zijn planeten. Iedere planeet is een muziekinstrument. Het is een logische noodzaak dat enkele muziekinstrumenten groenten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "cc170ddf-ad97-48d0-aa6f-ec21373c1c9c",
+        "syllogism": "Geen ding dat een dier is, is een plant. Alles wat een boom is, is een plant. Daarom zijn er enkele bomen die geen dieren zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9898c43c-c5d9-4c03-aa4f-46e30e136037",
+        "syllogism": "Er zijn geen vruchten die dingen zijn die op bomen groeien. Elke appel is een ding dat op een boom groeit. Daarom kan men zeggen dat enkele appels geen vruchten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "99ba63a6-3b6a-4f63-a0f7-6cef1c11818f",
+        "syllogism": "Alles wat een hut is, is een voertuig. Enkele huts zijn huizen. Dus, een aantal huizen zijn voertuigen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "76f9b327-1308-4678-af38-44f61eafb137",
+        "syllogism": "Er zijn geen vogels die katten zijn. Er zijn geen honden die vogels zijn. Het volgt dan dat enkele honden katten zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b0363392-5e97-4d9d-b9a5-6e3af4510d4e",
+        "syllogism": "Only mountains can be mountains. Elke berg genaamd Everest is een berg. Het moet zijn dat enkele bergen genaamd Everest niet zeeën zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8bf12840-1728-41eb-a389-01098b625ecf",
+        "syllogism": "Alleen onder de studenten zijn er enkele die sporters zijn. Elke student is een persoon die tijd besteedt aan het studeren. Het volgt dat, onder de mensen die studeren, er enkele ook sporters zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "68affb76-c5fc-4423-9221-1784c4509086",
+        "syllogism": "Alleen een roman is een boek. Niets wat een tijdschrift is, is een boek. Dus, een tijdschrift kan geen roman zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f942476a-e905-4659-a4a0-b5aa00622fbc",
+        "syllogism": "De groep van mensen en de groep van mensen hebben niets gemeen. Alles wat mannen zijn, zijn mensen. Mannen zijn geen mensen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b601c0d3-7033-4d4a-a8ab-59ac4fe4a4c8",
+        "syllogism": "Alleen objecten die levend zijn, zijn objecten met massa. Alle mensen zijn objecten met massa. Daarom is elke mens een levend ding.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "dc5e8a17-f9ee-4f1c-a6e1-e55e3893609d",
+        "syllogism": "Alles wat geesten zijn, zijn wetenschappelijke feiten. Alles wat geesten zijn, zijn mythologische wezens. Het volgt dat enkele mythologische wezens wetenschappelijke feiten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "08408587-3887-4246-9d6f-7a4492ad48c7",
+        "syllogism": "Alleen rozen zijn rood. Sommige bloemen zijn niet rood. Uit dit volgt dat alle bloemen rozen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "941ec598-d637-4f22-b558-367267161a64",
+        "syllogism": "Alles wat een planeet is, is een kaasgemaakte ding. Aarde is een planeet. Een bepaalde deel van Aarde is kaasgemaakt.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1f4cfe1c-bd8f-4c54-8c08-a8ee3ad42904",
+        "syllogism": "Er zijn geen dieren dat vis zijn dat snavel hebben. Alle vogels zijn dieren dat snavel hebben. Daarom kan men zeggen dat enkele vogels niet vis zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3b7c4fd5-632a-4a84-b2c2-482b84cf6f45",
+        "syllogism": "Alleen iets dat een groen is, is ook een vrucht. Elke enkele ding dat een wortel is, is een groen. Daarom is ten minste één ding dat een wortel is, geen vrucht.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c5d0501c-c25b-40c1-91c0-603b613de0cf",
+        "syllogism": "Geen enkele arts is een persoon die op het toneel speelt. Elke muzikant wordt beschouwd als een persoon die op het toneel speelt. Daarom zijn er enkele muzikanten die geen arts zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "832f59aa-bfee-4e92-b247-d8719f1844ae",
+        "syllogism": "Elke hond behoort tot de hondsfamilie. Iets dat een chihuahua is, is een hond. Dit betekent dat elke chihuahua een carnivore is.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ec60f858-72d6-455b-976f-fe289c371eaf",
+        "syllogism": "Alleen honden zijn zoogdieren. Geen hond is een reptiel. Daarom zijn geen reptielen zoogdieren.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "40b42a57-63c2-4f06-af7e-87b8bdfef9fd",
+        "syllogism": "Niet alle vloeistoffen zijn katten. Elke ding dat een kat is, is een mammal. Dus, sommige mammalen zijn vloeistoffen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8be74042-6920-42ad-8f7f-3c0e53ba5fe7",
+        "syllogism": "Planten zijn nooit stenen. Enkele stenen zijn inderdaad bloemen. Er bestaan bloemen die geen planten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f093ca09-2dbe-4258-a4f4-28823d3eaefb",
+        "syllogism": "Alles wat een vogel is, is een dier. Alles wat een zebra is, is een dier. Alle vogels zijn zebra's.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "bdb97c21-a08a-4fe1-b156-292e216a75ef",
+        "syllogism": "Alleen de maan is een maan. Alleen de planeet is een maan. Dus, sommige planeten zijn kometen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e8e7080d-1e0d-461c-ab4d-5b4718980ffa",
+        "syllogism": "De verzameling koelkasten en de verzameling meubels hebben niets met elkaar gemeen. Alle items die banken zijn, zijn meubels. Koelkasten zijn geen banken.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bdce56a3-a9d8-476a-a050-d6c653a79061",
+        "syllogism": "Geen enkele woning is een stadion. Elke stadion is een gebouw. Het is daarom waar dat sommige gebouwen geen woningen zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5580c76a-7c97-4b7a-a43d-d12866c99ae2",
+        "syllogism": "Alles wat een planeet is, is een hemellichaam. Er zijn geen dingen die aarde zijn die niet planeten zijn. Daarom is ten minste een deel van de aarde een hemellichaam.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d225ab47-ffe9-454b-bb41-4915c4214497",
+        "syllogism": "Alles wat een vis is, zwemt. Het is waar dat geen hond een vis is. Dit betekent dat enkele honden zwemmen.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "57cefbea-6a5e-4b24-b537-007d1837b288",
+        "syllogism": "Enige grote carnivoren zijn insecten. Elke enkele insect is een klein wezen. Het volgt logisch dat enige kleine wezens grote carnivoren zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "eb04a408-b062-4c93-ba18-ffc28e0e8e4d",
+        "syllogism": "Geen enkele vloeistof is een vast lichaam. Er zijn geen gassen die ook vloeistoffen zijn. Het volgt dat sommige gassen vaste stoffen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7ff44cd7-5970-4c43-ac34-920d4f533b1f",
+        "syllogism": "Alleen hamers zijn objecten gemaakt door mensen. Alleen gereedschappen zijn ook objecten gemaakt door mensen. Daarom zijn alle gereedschappen hamers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1ddd8a6a-d17b-4723-b115-a245cd44028d",
+        "syllogism": "Alleen vloeistoffen zijn vloeibaar. Elke gas is een vloeistof. Dit betekent dat alle gassen vloeistoffen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "906d3863-253f-4a03-9396-aa6ac915b954",
+        "syllogism": "Geen enkele ingenieur is een arts. Elke arts is ook een arts. Artsen en ingenieurs zijn elkaar uitsluitende beroepen.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "013bbe5b-4863-4f9f-a0e7-fcec256129b3",
+        "syllogism": "Er zijn enkele planeten die honden zijn. Alle dingen die honden zijn, zijn wezens. Daarom kan worden geconcludeerd dat enkele wezens planeten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "06a0aa7f-5aaa-4a9a-af0e-7cfc8affd23a",
+        "syllogism": "Alles wat een vogel is, is een dier. Elke adelaar is een dier. Het is waar dat enkele adelaars vogels zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0cb166c1-cc61-4585-bf4b-baad5b3028a2",
+        "syllogism": "Alleen vloeistoffen zijn vloeibaar. Er zijn enkele waterlichamen die vloeibaar zijn. Water is op geen enkele manier vloeibaar.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ace56295-ca7c-490f-b69b-8f1293edeede",
+        "syllogism": "Alles wat een auto is, is een gevoelige wolk. Alle gevoelige wolken zijn planten. Dit betekent dat enkele planten auto's zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9f443de1-8727-4b33-9dcc-20936c3cdb7e",
+        "syllogism": "Niet waar dat elk oceaan een continent is. Elke ding dat een oceaan genaamd Pacific is, is een oceaan. Dit betekent dat enkele oceaan genaamd Pacific niet continenten zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d8e827ad-b91a-45a7-8d28-7527f8b59d1d",
+        "syllogism": "Alleen planten zijn dieren. Een deel van de bomen is onder de planten te vinden. Dus zijn er geen bomen die ook dieren zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5938206b-fa51-46ed-8a8d-549d39ee4249",
+        "syllogism": "Geen enkele kat is een huisdier. Alles wat een kat is, is een zoogdier. Het volgt dat alle huisdieren zoogdieren zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e11356eb-8b5e-43cf-9a95-539dd813e106",
+        "syllogism": "Alleen items die telefoons zijn, zijn elektronische apparaten. Geen enkele elektronische apparaten zijn voedsel. Daarom is geen voedsel een telefoon.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7f71a082-108e-4c3c-a1ad-1af6c5bc3088",
+        "syllogism": "Niet alleen is het waar dat enkele mensen die studenten zijn ook mens zijn, maar er zijn ook tiener die studenten zijn. Dit bewijst dat een aantal mensen geen tiener zijn. Wait, the original syllogism is invalid.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0092296f-5c8d-4c79-9641-8df244a2c6ba",
+        "syllogism": "Alleen niets wat een aquatisch dier is, is een kat. Het is waar dat sommige katten aquatische dieren zijn. Dus, niet alle katten zijn felines.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4823d0a9-5eae-4386-af0f-54d04c9cd2cf",
+        "syllogism": "Alleen dokters zijn opgeleid in de geneeskunde. Elke pediatroog is een dokter. Het is waar dat enkele pediatroog opgeleid zijn in de geneeskunde.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "dd82fade-0432-4f9c-a72a-d2e6ba056b77",
+        "syllogism": "Alleen mensen zijn robots. De verzameling mensen bevat geen robots. Het is waar dat sommige mensen geen mensen zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9bf9af39-9b60-43da-a871-23190a6d5e52",
+        "syllogism": "Niet één wees dat een retriever is, is een hond. Elke enkele dier is een retriever. Het moet het geval zijn dat geen dier een hond is.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f9e0aef5-2abd-4515-8daf-6a4bf83c42ed",
+        "syllogism": "Er zijn geen boeken die van papier zijn gemaakt. Er is geen enkele paperback die een boek is. Het volgt dan dat enkele paperbacks niet van papier zijn gemaakt.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cc8ddde6-b7cf-408c-a0a0-92e200117c30",
+        "syllogism": "Alleen wat een auto is, is een motorfiets. Enkele dingen die voertuigen heten, zijn geïdentificeerd als auto's. Dit bewijst dat enkele voertuigen geen motorfietsen zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7b01a111-ae3b-4cf5-85ea-31dfe1da204c",
+        "syllogism": "Alleen de stenen zijn wolken. Iedereen die een wolk is, is een dier. Dus, een paar dieren zijn stenen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "dd900a56-5956-4be4-aacd-69f465bf602f",
+        "syllogism": "Alleen een man is een vrouw. Het is ook waar dat geen volwassene een man is. Het volgt dat geen volwassene een vrouw is.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "349c7b91-ee3d-4f96-af31-4d00249e65cc",
+        "syllogism": "Geen katten zijn honden. Geen vogels zijn katten. Dus, het kan worden geconcludeerd dat sommige vogels honden zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d10c848c-ce58-4a0c-b56b-3f75b2ca0bfc",
+        "syllogism": "Alleen objecten die een lichaam van water zijn, zijn een gas. Niets wat een oceaan is, is een gas. Er bestaat ten minste één lichaam van water dat geen oceaan is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c2029414-d28e-4fbd-acc8-12f855acf46c",
+        "syllogism": "Alleen fictieve personages zijn stenen. Er zijn fictieve personages die dieren zijn. Dus, een deel van dieren zijn stenen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "778ba99e-1bed-4d97-b358-1ee48a6c9429",
+        "syllogism": "Geen universiteiten zijn planten. Ten minste één boom is een plant. Ten minste één boom is een universiteit.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a943b701-942e-4df8-bb91-4cee9349502a",
+        "syllogism": "Een aantal planten is een soort groente. Er zijn een aantal karotten dat groenten zijn. Dit leidt tot de conclusie dat een aantal karotten planten zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b0164134-d52b-4506-92ee-d71e2109d717",
+        "syllogism": "Alles wat een slang is, is een koudbloedig dier. Enkele slangen zijn een soort reptiel. Dus, enkele reptielen zijn koudbloedige dieren.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9b4f2ed1-786d-4b4f-a076-2c5dcfdc637b",
+        "syllogism": "Alles wat een bloem is, is gemaakt van metaal. Elke roos is een bloem. Minstens één roos is gemaakt van metaal.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "77d1fbe7-3450-4d5d-92c6-7bf4d02c20ae",
+        "syllogism": "Alles wat een groen is, is een plant. Er is een deelverzameling van planten die vruchten zijn. Een aantal groenten is geen vrucht.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "176e3ca1-2c5c-4500-8b42-792ce58d4098",
+        "syllogism": "Alles wat een vis is, is ook een insect. Alles wat een vis is, is ook van vuur gemaakt. Dus, sommige dingen die van vuur zijn gemaakt, zijn insecten.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "adc52cf4-381b-4203-8745-cee844d750b1",
+        "syllogism": "Er zijn geen auto's die boten zijn. Er is geen enkele ferry die een auto is. Daarom zijn enkele ferries boten.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1567c398-05f8-425d-8d0f-3fc7c7327cf0",
+        "syllogism": "Alleen kledingstukken zijn kleding. Geen kleding is ooit een drank. Dit betekent dat sommige dranken geen kleding zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "eb34cdc4-fa19-4ddc-8cd2-6c8f13f1e7a5",
+        "syllogism": "Alleen professionals zijn mensen die studeren. Alleen wetenschappers zijn professionals. Daarom zijn sommige professionals mensen die studeren.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0ed786f8-51d0-40c7-b692-441bc96ec29d",
+        "syllogism": "Alleen de mensen die arts zijn, zijn de mensen die medische opleiding hebben. Er zijn geen mensen met medische opleiding die docent zijn. Dit betekent dat niemand die docent is, arts is.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a9a258b5-4403-491d-87a1-707fcb480564",
+        "syllogism": "Er zijn geen katten die vis zijn. Er zijn geen vis die dieren zijn. Het volgt dat sommige dieren katten zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c38a9bc0-efdd-49af-af59-17a6567d8817",
+        "syllogism": "Alleen de dingen die mammalen zijn, zijn dieren. Sommige leeuwen zijn mammalen. Daarom kunnen alle leeuwen gezegd worden te dieren.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fd57b6c3-2eb7-4c4d-a7fd-7067584e69bc",
+        "syllogism": "Er zijn geen auto's die vloeistoffen zijn. Er zijn geen auto's die oceanen zijn. Daarom zijn geen oceanen vloeistoffen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d55b879b-3633-419a-8b27-6a4704f0d118",
+        "syllogism": "Alleen waar is dat er een aantal personen zijn die muzikanten zijn die geen pianisten zijn. Elke muzikant is een kunstenaar. Uit deze twee feiten kan men concluderen dat enkele kunstenaars geen pianisten zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "11bab54e-dbbb-4b2e-9d4d-2fc9b2c69d9e",
+        "syllogism": "Alleen zeker is dat elke enkele leraar een mens is. Het is ook waar dat een paar opgeleide mensen mensen zijn. Op basis daarvan is gesteld dat een paar opgeleide mensen leraar zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c85824aa-aa42-497f-8997-ed7e9aa3b2f2",
+        "syllogism": "Alleen katten zijn honden. Er is geen enkele zoogdier dat een kat is. Het kan worden geconcludeerd dat geen zoogdier een hond is.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a42796dd-7101-4b03-9025-ed548108bb4d",
+        "syllogism": "Geen enkele hond is een krokodil. Elke poodle is een krokodil. Het volgt daaruit dat er een aantal poodles zijn dat geen hond is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9c6100d8-e495-4a1e-b797-a45b2e68b4d0",
+        "syllogism": "Er zijn enkele wetenschappers die ingenieurs zijn. Het is een bekend feit dat enkele wetenschappers ook dokters zijn. Uit dit volgt dat enkele dokters ingenieurs zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5f1077d7-b61a-47a2-82ba-edae062acd77",
+        "syllogism": "Alles wat een rots is, is zwaar. Het is waar dat enkele zware dingen geen wolken zijn. Daarom impliceert dit dat alle wolken rotsen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "55f37da9-53b1-41bd-8f9c-59909de052fd",
+        "syllogism": "Alleen de kok is een culinair expert. Geen piloot is opgenomen in de categorie van culinair experts. Een bepaald aantal piloot is geen kok.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d8794f2a-f535-4be9-a29b-71a98af6bf08",
+        "syllogism": "Alleen de lucht is een blauwe ding. Er is geen enkele auto die een lucht is. Het kan worden geconcludeerd dat geen auto een blauwe ding is.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "581cfd7a-fb09-42f9-8759-d28809d96a4c",
+        "syllogism": "Alleen iets dat een vliegtuig is, is een voertuig. Er is niets dat een meubel is dat een vliegtuig is. Daarom is geen meubel een voertuig.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f7af5fc9-8a51-4ef4-8d9a-67efc9ec9208",
+        "syllogism": "Alles wat een voertuig is, is iets dat kan vliegen. Elke vogel is iets dat kan vliegen. Dit betekent dat alle vogels voertuigen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b93c1c6a-958a-4cfb-975b-585432f3cd20",
+        "syllogism": "Alleen kookgereedschap is nooit hamers. Een paar hamers zijn inderdaad gereedschappen. Er bestaan gereedschappen die geen kookgereedschap zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6904b1e8-8a48-4ef1-b450-d8f54773bf96",
+        "syllogism": "Niet waar dat elke bloem een plant is. Alles wat rozen zijn, zijn bloemen. Dus, sommige rozen zijn geen planten.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "166f5a4c-b0e7-4f2b-b25d-1c0a08bd59bb",
+        "syllogism": "Alleen mensen zijn mammals. Het is ook waar dat elke leeuw een mammal is. Dit betekent dat er geen leeuwen zijn die mensen zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2390b1c3-032f-44a1-a8ad-6515fa87aaf5",
+        "syllogism": "Alleen honden zijn katten. Het is ook waar dat geen katten honden zijn. Daarom wordt beweerd dat er geen katten zijn die honden zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0c88cde4-2b57-4056-8871-e3d64cad89da",
+        "syllogism": "Alles wat een dier is, is een levend wezen. Alles wat een plant is, is een levend wezen. Het is daarom waar dat alle dieren planten zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "17e81c6e-6a6e-453a-aabf-99a82ee26f26",
+        "syllogism": "Er zijn geen reptielen die ook zoogdieren zijn. Geen enkele amfibie is een reptiel. Het is waar dat een deel van de amfibieën geen zoogdieren zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "eda05d11-5c82-4cc0-a078-4896b726afc8",
+        "syllogism": "Er zijn geen leeuwen die herbivoor zijn. Elke leeuw is een carnivore. Dus kunnen we concluderen dat enkele carnivoren niet herbivoor zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3f047c98-7589-4e41-8055-1f023c4d9707",
+        "syllogism": "Alleen items die geen kleding zijn, zijn schoenen. Elke schoen is een soort schoenen. Het kan worden geconcludeerd dat geen schoen kleding is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2f97c41c-4b5a-407a-a57c-95fa1ea134f6",
+        "syllogism": "Geen enkele rechthoek is een vierkant. Alles wat een vierkant is, is een vierkant. De implicatie is dat een deel van vierkanten geen rechthoek is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c18abe00-c1e3-419e-b081-30fb76b046de",
+        "syllogism": "Deze zyllogisme in het Engels is: \"It is a fact that every single dog is a mammal. Likewise, it is true that all poodles are mammals. Therefore, it has been asserted that every poodle is a dog.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4fd3411a-3f94-4ebb-91e8-9e50c856af27",
+        "syllogism": "Er zijn studenten die volwassenen zijn. Elke persoon die een student is, is een persoon. Het volgt dat geen enkele persoon een volwassen is.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d6df77ba-b9bf-45e1-8e5b-c73c5ca30f46",
+        "syllogism": "Een driehoek is nooit een vierkant. Het is ook waar dat geen cirkel een vierkant is. Daarom is geen cirkel een driehoek.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f2dd94c2-9171-442a-92c2-fdc929df2593",
+        "syllogism": "Alleen het gebouw is levend. Er is geen levend ding dat een huis is. Dit betekent dat geen huis een gebouw is.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0403d922-4237-409b-9817-9ea3d0b266c1",
+        "syllogism": "Alleen onwaar dat elke wetenschapper een kunstenaar is. Er bestaat een groep wetenschappers die ook fysici zijn. Een geldige afleiding is dat enkele fysici geen kunstenaar zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "321e05bd-2e8f-412d-beff-9ec29ac7ed43",
+        "syllogism": "Niet elk mens is een man. Elke mens is een wezen met tien poten. Uit dit volgt dat enkele wezens met tien poten mannen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "99b78ff8-443d-4c05-86a9-b7bf99330fdd",
+        "syllogism": "Alleen een persoon dat een auteur is, is creatief. Er zijn geen tafels die auteur zijn. Daarom is geen tafel creatief.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "be226ccb-e7b4-4f8c-b7d0-ef9640c705cb",
+        "syllogism": "Alles wat een dier is, is een vliegeloos ding. Elke vogel is een dier. Er zijn geen vogels die niet vliegeloos zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "28bd236c-0c71-4d83-bf97-b09721850918",
+        "syllogism": "Geen dier dat een hond is, is een vogel. Enkele van de dieren die beagles genoemd worden, zijn honden. Daarom zijn enkele beagles geen vogels.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b8ce3ed1-0261-4bf8-b8c3-4022ae92ee7f",
+        "syllogism": "Alleen dingen die vogels zijn, zijn ook dieren. Het is bekend dat enkele huisdieren dieren zijn. Daarom zijn enkele huisdieren vogels.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8158cb68-1891-4050-93f6-d7776e724658",
+        "syllogism": "Alleen dieren die honden zijn, zijn zoogdieren. Een deel van de honden zijn honden. Het is daarom waar dat enkele honden zoogdieren zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "43c15f64-aede-463a-89c8-2b4e89583f94",
+        "syllogism": "Niet alle objecten die metalen zijn, zijn goud. Alle objecten die metalen zijn, zijn elementen. Daarom zijn er elementen die niet goud zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "013da35a-1a78-4298-9660-495f8e0c9530",
+        "syllogism": "Alleen wat kan worden gegoten is vloeibaar. Dus, wat kan worden gegoten is niet vloeibaar. Wait, that's not correct.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d542c648-c8d9-4c3d-bdc4-e42cfe604d37",
+        "syllogism": "Geen enkele ouder is een mens. Van de groep ouders zijn er enkele moeders. Uit dit volgt logisch dat er enkele moeders zijn die geen mens zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "66f1c7d9-8f37-4f93-842e-4020d38b0e68",
+        "syllogism": "Niet waar dat elke vogel een kat is. Geen hond is een vogel. Dit leidt tot de conclusie dat geen hond een kat is.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d32207a5-ea82-4d7d-9a51-48f1b384dd8f",
+        "syllogism": "Geen enkele geluid is een verschijnsel dat in golven reist. Alle dingen die muzieknootjes zijn, zijn geluiden. Daarom zijn enkele muzieknootjes geen verschijnselen die in golven reizen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7bd2fd32-89de-4452-9e86-6a8dc57ef575",
+        "syllogism": "Alleen objecten die tafels zijn, zijn een soort meubels. Er bestaan geen stukken meubilair die auto's zijn. Uit dit volgt dat enkele auto's niet tafels zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "de7fde47-808e-40d6-9096-51fc9478b3e6",
+        "syllogism": "Er zijn enkele dieren die eenden zijn. Alle dingen die eenden zijn, zijn vogels. Daarom is elke enkele ding dat een vogel is, een dier.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "62b1e53b-5c4e-4af8-b02a-809222c5ecf0",
+        "syllogism": "Alles wat leeuwen is, is katten. Alles wat katten is, is katten. Het kan worden afgeleid dat er katten zijn die leeuwen zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "732e20b3-c504-4115-914d-496d0c4ee6da",
+        "syllogism": "Alleen dieren zijn levendigen. De verzameling van dieren bevat geen levendigen. Geen enkele mammal is een dier.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c05e6536-84d3-44c5-a5f3-32d838d2134c",
+        "syllogism": "Er zijn enkele olifanten die mammalen zijn. Er zijn enkele vissen die mammalen zijn. Dit leidt tot de conclusie dat enkele vissen olifanten zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "199ec342-0add-469d-87ce-5c375b2f75d1",
+        "syllogism": "Alleen vloeistoffen zijn moleculen. Alleen gassen zijn moleculen. Daarom zijn alle gassen vloeistoffen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "74516312-5969-4166-b84e-a34afc2d12bf",
+        "syllogism": "Alles wat een sedan is, is een auto. Elke sedan is een voertuig. Daarom moeten alle voertuigen auto's zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "92c0d24f-2d6f-492e-b5c9-693b39835a52",
+        "syllogism": "Niet waar dat elk insect een vogel is. Alle vliegtuigen zijn, zonder uitzondering, vogels. Dit betekent dat elk vliegtuig een insect is.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e213d351-2f05-43b4-b277-c9ecded9473b",
+        "syllogism": "Geen enkele item dat een instrument is, is een piano. Er zijn toetsenborden die ook pianos zijn. We moeten concluderen dat enkele toetsenborden geen instrumenten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "059182d4-4b95-4caa-9895-b79368d8c736",
+        "syllogism": "Een aantal stoelen zijn mensen. Iedereen die een persoon is, is een organisme. Daarom zijn een deel van de organismen stoelen.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b3396042-e3fe-4bcb-9cc3-0281c8e0a856",
+        "syllogism": "Alles wat tijgers zijn, zijn katten. Alle tijgers zijn mammals. Dus, sommige dieren die mammals zijn, zijn niet katten.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "55542618-500d-49c5-95d5-a522bc938522",
+        "syllogism": "Er zijn enkele groenten die appels zijn. Alles wat een appel is, is een waterdier. Dit vereist dat enkele waterdieren groenten zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "45d795eb-780a-4694-bf87-6819b272cd49",
+        "syllogism": "Alles wat een leraar is, is een onderwijsgever. Elke persoon die een student is, is ook een onderwijsgever. Het logisch volgt dat er enkele studenten zijn die geen leraar zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "123bf7d7-01dd-421d-bd85-5af87b2663dd",
+        "syllogism": "Alleen dingen die reptielen zijn, zijn ook dieren. Een deel van de dieren zijn krokodillen. Daarom zijn enkele krokodillen niet reptielen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "dc67f615-0f81-4c0b-8870-1a0a7d995ab6",
+        "syllogism": "Alles wat een vogel is, is een verticil. Er zijn geen insecten die vogels zijn. Daarom kan worden geconcludeerd dat geen insecten verticil zijn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f8530683-a0a0-4237-ade3-f1a3db5048d7",
+        "syllogism": "Alleen planten zijn geen levende wezens. Alles wat een plant is, is een organisme. Het is waar dat sommige organismen geen levende wezens zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "362d75b6-69fd-409f-8b73-fd61a1b208cc",
+        "syllogism": "Alleen dieren die een leeuw zijn, zijn karnivoren. Geen gazelle is een karnivore. Het is onmogelijk voor een gazelle om een leeuw te zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "eff43e93-d2d9-4b07-877e-d63a8bdf260d",
+        "syllogism": "Alleen honden zijn poodles. Geen kat is een poodle. Daarom is geen kat een hond.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0872ecdb-a56f-421d-8f30-e3be4d70c054",
+        "syllogism": "Er zijn geen vloeistoffen die vaste stoffen zijn. Sommige dingen die dranken zijn, zijn vloeistoffen. Het volgt dat sommige dranken vaste stoffen zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a7d18367-6870-4eee-9a55-60a5dcc9dd70",
+        "syllogism": "Alles wat een hond is, is ook een huisdier. Er zijn enkele katten die geen huisdier zijn. Het moet waar zijn dat geen kat een hond is.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ea73e9d5-ebb1-403c-9ea4-f7458c313107",
+        "syllogism": "Geen enkele arts is ook ingenieur. Van de groep mensen die arts zijn, zijn er enkele onderzoekers. Uit dit volgt logisch dat er enkele onderzoekers zijn die geen ingenieurs zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e3ef3dd1-8520-4e8f-b3e0-e12fde645d76",
+        "syllogism": "Alleen politici zijn burgers. Alle senatoren zijn burgers. Daarom is elke senator een politicus.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "14973340-3381-49f3-9dcd-3805c7a419bc",
+        "syllogism": "Alleen boeken zijn onzichtbaar. Alles wat onzichtbaar is, is ook vergiftigd. Dit betekent dat een paar vergiftigde dingen boeken zijn.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "59598fb3-62fa-42dd-9498-8ae6fdc51cbc",
+        "syllogism": "Alleen dieren zijn dieren. Alleen vissen zijn dieren. Dit suggereert dat enkele vissen dieren zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "53ebb02d-437a-481d-a71f-b83ef47b5b61",
+        "syllogism": "Er zijn enkele bandleden die zangers zijn. Alle bandleden worden beschouwd als muzikanten. Het volgt dat enkele muzikanten zangers zijn.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "97bd1911-5aca-41a1-ba6f-835f2ba45abf",
+        "syllogism": "Alleen katten zijn zoogdieren. De verzameling dolfijnen bevat geen katten. Elke enkele dolfijn is een zoogdier.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1230d4f7-42c5-4131-bbf3-5fe5387c93ea",
+        "syllogism": "Er zijn geen tafels die stoelen zijn. Alle zebra's zijn, zonder uitzondering, stoelen. Het wordt daarom voorgesteld dat enkele zebra's tafels zijn.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ab27dbac-d446-4199-a267-16d010b7588f",
+        "syllogism": "Er zijn enkele zoogdieren die op het land leven. Het is waar dat geen vis op het land leeft. Daarom zijn alle vissen zoogdieren.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c11d7833-78e3-45ba-af17-3fdb4217555b",
+        "syllogism": "Geen getallen zijn tafels. Het is niet waar dat elke tafel een bank is. Het is waar dat sommige banken getallen zijn.",
+        "validity": false,
+        "plausibility": false
+    }
+]
