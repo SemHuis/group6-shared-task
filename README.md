@@ -126,8 +126,13 @@ Interpretation:
 - Few-shot trained + few-shot inference yields the best ranking score and slightly lower content effect.
 
 ## Pretrained Adapters (Hugging Face)
+Llamax3
 - Zero-shot trained: https://huggingface.co/maytemuma/llamax3-8b-lora-zeroshot
 - Few-shot trained: https://huggingface.co/maytemuma/llamax3-8b-lora-fewshot
+
+Qwen3
+- https://huggingface.co/meichifan/Qwen3-8B_lora_syllogism_zeroshot_prompt
+- https://huggingface.co/meichifan/Qwen3-8B_lora_syllogism_fewshot_prompt
 
 ## Usage Examples
 
