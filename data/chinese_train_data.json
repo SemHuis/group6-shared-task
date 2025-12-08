@@ -1,0 +1,4322 @@
+[
+    {
+        "id": "535b8c6e-ffc6-43f1-8660-73b8877862cd",
+        "syllogism": "所有的狗都是哺乳动物。 没有狗是鱼。 因此，没有鱼是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f37a0e86-98bb-459b-8d6d-60b3455de955",
+        "syllogism": "所有人类都是会死的。 众所周知，所有人类都是灵长类动物。 因此，所有灵长类动物都是会死的。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5891fe9d-5de9-48e2-b484-98d70a27a2d4",
+        "syllogism": "没有老师是学生。 没有学生是专业人士。 因此，有些专业人士不是老师。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3b1c7731-50f6-4d9b-a0a1-9d9afa9134e3",
+        "syllogism": "所有被归类为苹果的东西都是蔬菜。 所有胡萝卜都是蔬菜。 每一个苹果都是胡萝卜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fe6f084b-7a46-4d5f-a2f9-5f0e80774da8",
+        "syllogism": "所有郁金香都是花。 确实有些树不是花。 这必然意味着有些树不是郁金香。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c0c3e36b-70c0-4cc8-b13d-3ae4ba0424b8",
+        "syllogism": "所有玫瑰都是花。 有些植物是花。 因此可以得出结论：有些植物是玫瑰。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5f809928-5ead-4ebc-8fb0-c9eb220743f0",
+        "syllogism": "所有人类都是哺乳动物。 哺乳动物中的一部分是女性。 必然有些女性不是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "da6c1393-f23f-4eac-aae5-0bafb07f6839",
+        "syllogism": "所有诗歌作品都是文学的一种。 雕塑不是文学。 雕塑不是诗歌。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "435fcf21-2212-486d-86b2-92fe61151294",
+        "syllogism": "没有哺乳动物是爬行动物。 有些动物是哺乳动物。 由此可以得出结论：有些动物是爬行动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "34a587b6-0296-4a94-92a1-664fafcf8109",
+        "syllogism": "一些动物是脊椎动物。 有些动物不是昆虫。 昆虫必定不是脊椎动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c9085b40-41d0-45a8-bdcf-306b0fb9ed9a",
+        "syllogism": "所有的树都是植物。 任何橡树都是植物。 有些橡树不是树。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d1fcc155-1744-4c4b-a040-daf230c6639e",
+        "syllogism": "所有铅笔都是书写工具。 所有书写工具都是物体。 因此，我们可以得出结论：所有物体都是铅笔。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ed17a05a-a553-4df8-a45b-384eadb243e1",
+        "syllogism": "没有车是由水制成的。 没有车是云。 因此，云不是由水制成的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3ebaf437-de7a-4dfa-9dc7-95b0cda7f532",
+        "syllogism": "所有汽车都是车辆。 有些丰田车是汽车。 因此，有些丰田车是车辆。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4eec3e1d-089f-4118-bc47-8e1339aee90e",
+        "syllogism": "所有轿车都是汽车。 有些摩托车不是汽车。 因此，有些摩托车不是轿车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f00f038d-2271-4b3f-9044-069732724dd5",
+        "syllogism": "所有鸟类都是动物。 一些动物被当作宠物饲养。 有些宠物不是鸟类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "aa8571b5-b9e0-4010-b67d-dcf832c29429",
+        "syllogism": "所有树都是乐器。 有些橡树不是乐器。 因此可以得出结论：有些橡树不是树。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0facfad6-abe4-4a37-bd8a-5996bd3a2254",
+        "syllogism": "所有鱼都是动物。 鸟类存在，且所有鸟类都是动物。 因此，所有鸟类都是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d6419856-fddb-4f1b-b11a-9121c08dd577",
+        "syllogism": "所有玫瑰都是花。 所有花都是植物。 因此，有些植物是玫瑰。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d6151c99-5b23-4164-b1b2-c51ce19b5c73",
+        "syllogism": "每一个神父都是一个人。 所有神父都是人。 由此可以得出，每一个人都是一个人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6917eb33-a69d-4447-bd79-e891457405d4",
+        "syllogism": "有些哺乳动物会飞。 实际上，所有鸟类都不会飞。 因此，所有鸟类都是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "45c767ec-4f15-4178-b7cd-91d61f9ffdf8",
+        "syllogism": "每个恒星都是天体。 有些行星是恒星。 因此，所有行星都是天体。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b41d3226-616d-475f-8112-11a869a6cfa7",
+        "syllogism": "艺术家的集合不包含任何进行系统性研究的人。 所有科学家都是进行系统性研究的人。 艺术家不是科学家。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "90b5d022-b2d7-4fbe-9386-f956381db9af",
+        "syllogism": "所有的火都是冰的。 有些火焰是火。 因此，可以推断出有些火焰是冰的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ab1b1f7c-4328-4345-b449-99e1b7e58b05",
+        "syllogism": "所有恒星都是发光的天体。 有些行星并不发光。 有些行星不是恒星。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7841eb47-8f72-475c-852d-4d709ae0965e",
+        "syllogism": "有些哺乳动物是灵长类动物。 所有灵长类动物都是动物。 因此，有些动物是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5797d6f3-0f12-4f1f-90ae-6d1c5098dc5c",
+        "syllogism": "所有卡车都是车辆。 有些踏板车不是车辆。 因此，有些踏板车不是卡车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f3380f24-0f41-4d1f-a641-cbb86e5b8b08",
+        "syllogism": "没有科学家是奇幻小说的作者。 所有奇幻小说家都是奇幻小说的作者。 这证明有些奇幻小说家不是科学家。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "44d442d7-5ded-41e8-ab37-ba472b6b7594",
+        "syllogism": "没有汽车是自行车。 没有自行车是摩托车。 因此，有些摩托车不是汽车。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1147615b-a8a5-4626-8e2d-171220edf00d",
+        "syllogism": "有些行星是动物。 所有动物都是生物。 因此，有些生物是行星。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b15f5ad1-2553-4a6f-95bd-07e4329ac851",
+        "syllogism": "有些学生是运动员。 有些高个子是运动员。 因此，有些高个子不是学生。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "88f1d8e5-30a4-47e4-abda-cd1f50fa77e0",
+        "syllogism": "所有卫星都是月球。 存在一些卫星是行星。 因此，所有行星都是月球。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6df0ab4c-8518-4efb-98d5-e1bd172b5a35",
+        "syllogism": "有些会飞的生物是鸟类。 确实，有些麻雀属于会飞的生物。 因此，每一只麻雀都是鸟类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b4528712-3ba2-4790-8758-0b31c91d3d20",
+        "syllogism": "有些作家同时也是诗人。 众所周知，有些小说家是作家。 据说，有些小说家是诗人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "98252dfa-fc4f-4882-b126-5929bce03dad",
+        "syllogism": "没有任何一辆车既是汽车又是卡车。 车辆的一个子集是卡车。 可以推断出有些车辆不是汽车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8a7cff1f-9701-43ed-81cb-17e5fe597f0f",
+        "syllogism": "所有房子都是建筑物。 棚屋从来不是建筑物。 因此，棚屋都不是房子。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d1c92c02-bd97-4456-a14d-9b82b65cd5b1",
+        "syllogism": "所有车辆都是机器。 某些机器是汽车。 因此，有些汽车不是车辆。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e465903e-2d8d-4f52-b3f6-b3751715ab50",
+        "syllogism": "没有任何一个物品既是工具又带有把手。 所有带有把手的物品都是锤子。 部分工具是锤子。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e9335b28-89be-4bdd-97da-cc84bec3b7dd",
+        "syllogism": "一些水生动物是鱼类。 所有鱼类都是脊椎动物。 可以推断出有些脊椎动物是水生动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "473c1a59-2fbf-498c-b237-ac7513a2901d",
+        "syllogism": "没有三角形是正方形。 所有的正方形都是几何图形。 有些几何图形不是三角形。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f8f7078c-79ba-4085-8343-21a4b63d4c21",
+        "syllogism": "有些艺术家并不是画家。 所有艺术家都是有创造力的人。 因此，有些有创造力的人是画家。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a21c713d-5074-418b-abd7-c49abb0de57c",
+        "syllogism": "第一前提：所有陆生两栖动物都无法在盐水中生存。 第二前提：所有蝾螈都是陆生两栖动物，无一例外。 结论：因此，所有蝾螈都无法在盐水中生存。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "095c8569-a07c-42c1-9859-b99e50f8a168",
+        "syllogism": "确实没有昆虫是哺乳动物。 所有昆虫都是动物。 因此，所有动物都是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "64499fcd-3761-46d4-8fd9-3c15d4cf5405",
+        "syllogism": "1. 没有桌子是生物。 2.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f78276e5-b847-4878-aba1-f920d12288f4",
+        "syllogism": "所有贵宾犬都是狗。 已知一些贵宾犬是狗。 因此，有些贵宾犬不是狗。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7af1f61d-43ed-4320-b76a-3f4137373e22",
+        "syllogism": "凡是神父都是人。 每一个教皇都是人。 因此，必然得出结论：每一个教皇都是神父。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c73d301b-6e16-4a04-8f5d-13c379e2ec3d",
+        "syllogism": "没有任何原色同时也是二次色。 有些可见颜色被归类为原色。 因此，并非所有可见颜色都是二次色。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1abfb720-5619-4658-a940-990150c82d3b",
+        "syllogism": "所有的人都是猴子。 没有灵长类动物是猴子。 因此，没有灵长类动物是人类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6c22b36f-ad54-4762-8fc6-7f9136e770b5",
+        "syllogism": "有些河流不是海洋。 任何河流都是水体。 由此可以推出：有些水体不是海洋。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "aff588cb-12e4-423f-b36c-0b7f10ba8bda",
+        "syllogism": "所有蜘蛛都是八条腿的生物。 一些被称为跳蛛的生物是八条腿的生物。 因此，并非所有跳蛛都是蜘蛛。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d0d4f9ab-2fc8-4786-bbeb-ee04a17448ff",
+        "syllogism": "所有政治家都是生物。 所有参议员都是生物。 因此，每一个参议员都是政治家。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a118c2fa-37f7-4086-a209-5fb8b90e4c78",
+        "syllogism": "月球的类别与天体的类别没有交集。 所有天体都是行星。 行星的一个子集是月球。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "35ecf751-bb19-4329-ad37-1087d9fe2a0a",
+        "syllogism": "所有汽车都是机动车辆。 至少有一辆自行车不是机动车辆。 并非所有自行车都可以被视为汽车。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fe3ded4a-77a5-405e-8edb-2cc97d6fa84d",
+        "syllogism": "所有鞋子都属于鞋类。 所有凉鞋都不属于鞋类。 所有凉鞋都不是鞋子。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "31d135e6-37bd-449a-b01e-2dd1d4c48111",
+        "syllogism": "没有玫瑰是蔬菜。 有些玫瑰是花。 因此，有些花不是蔬菜。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "aa1592a2-ee31-4516-a215-5435d25844df",
+        "syllogism": "所有汽车都有发动机。 有些机动车是汽车。 因此，所有机动车都有发动机。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8c835a2b-e7f5-4be2-a3f2-f249660ec877",
+        "syllogism": "有些云不是由水组成的。 所有云都是由水蒸气组成的。 因此，有些由水蒸气组成的事物并不是由水组成的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "31c63f8f-d490-467e-a885-4dfe4bfddc8b",
+        "syllogism": "所有水都是H2O分子。 没有冰是H2O分子。 因此，冰不能是水。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "75ec1d48-d566-4b82-a934-4ca52bfb7ed4",
+        "syllogism": "所有哺乳动物都是动物。 没有鱼是哺乳动物。 因此，没有鱼是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "65d32413-e8d9-49f8-a457-bda26a3a483a",
+        "syllogism": "所有蛛形纲动物都有六条腿。 有些蜘蛛属于蛛形纲动物。 这意味着存在有六条腿的蜘蛛。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0d98be0f-0057-41ac-bb47-fcdab1a96c6f",
+        "syllogism": "所有鸟都是鱼。 众所周知，有些企鹅不是鱼。 这必然意味着有些企鹅不是鸟。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "81d80343-1088-400b-be29-0d63312a959b",
+        "syllogism": "所有哺乳动物都是脊椎动物。 某些恒温动物是哺乳动物。 因此，有些恒温动物是脊椎动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "db2abe54-05ba-4564-bb8b-6ccace6583d3",
+        "syllogism": "所有鱼都是植物。 有些汽车是鱼。 因此，可以说所有汽车都是植物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fa20c4cd-223e-41f9-a5f7-4634a35cd279",
+        "syllogism": "花不能被归类为树。 所有的树都是植物的一种。 必须有一些植物不是花。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5837618c-ebb9-414e-b085-208c1437a3fc",
+        "syllogism": "所有灌木都不是超过20英尺高的植物。 所有树木都是超过20英尺高的植物。 树木和灌木不属于同一类。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4843f8dc-ce23-4871-924d-f7f8c0fdc05a",
+        "syllogism": "所有汽车都是车辆。 一些卡车是车辆。 因此，有些卡车不是汽车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cb4e2e4c-9882-43d9-8109-e4f96bbd15c1",
+        "syllogism": "动物与有喙和羽毛的生物完全不重叠。 所有作为鸟类的动物都是有喙和羽毛的生物。 鸟类不能被视为动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "31cd942c-7484-4e2a-8552-902391d50530",
+        "syllogism": "家具不可能是椅子。 椅子的一部分是桌子。 有些桌子不是家具。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "91e3ba86-4129-4142-8e1d-89a43c8a7246",
+        "syllogism": "没有鸟能被称为鱼。 所有鸟都是动物的一种。 因此得出结论：动物中有一部分是鸟类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6e672b31-84e2-4b83-92ca-30f90e27bd00",
+        "syllogism": "没有哺乳动物是鱼类。 在鱼类中，有一些是犬。 并非所有犬都是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6a373226-2cee-4447-a3e5-1edd8c8af430",
+        "syllogism": "有些蔬菜是生长的。 所有蔬菜都是植物。 因此，没有一种植物是蔬菜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f2a9e4e1-a969-436f-877c-bb605fb7c62e",
+        "syllogism": "并非所有人类都是男人。 每个男人都是人类。 因此，有些人类是生物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2ace5ae0-70b9-43bd-a8c2-24664230d730",
+        "syllogism": "没有哺乳动物是动物。 所有大象都是哺乳动物。 因此，所有大象都是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "dfafb4f6-4e1d-4cd5-aeb4-75d36aafdf1a",
+        "syllogism": "所有汽水都不是果汁。 有些饮料是果汁。 唯一的逻辑结论是有些饮料不是汽水。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8a2350fa-dd4e-430a-a1f7-3ea99a1d0749",
+        "syllogism": "所有象都是哺乳动物。 所有鲸鱼也是哺乳动物。 由此可以得出结论：鲸鱼不是象。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1f6dfbc9-0387-40b0-88fa-e3205947edf3",
+        "syllogism": "所有的鱼都生活在水中。 没有鸟是鱼。 因此，没有鸟生活在水中。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8fc55b1f-be82-47a2-b48a-7ee31ee1c000",
+        "syllogism": "运动员和非跑步者这两个群体有共同的成员。 所有跑步者都是运动员。 因此，部分非跑步者不是运动员。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9cab23f7-fba3-4286-ad44-0fe56268ff98",
+        "syllogism": "有些行星是玫瑰。 事实上，所有的玫瑰都是花。 因此，有些花是行星。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f4e0bda0-00ec-4938-acd5-21d3cc260e58",
+        "syllogism": "所有的鱼都是两栖动物。 毫无例外，所有的鲨鱼都是鱼。 因此，可以确定所有的鲨鱼都是两栖动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c38ed5be-cc84-4689-b624-40e8028d6e08",
+        "syllogism": "1. 没有一种有羽毛的生物同时也是昆虫。 2.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c6c8dd70-9d83-4a8b-9f51-e1d5225aaaf9",
+        "syllogism": "没有云是岩石。 没有岩石是山。 因此，有些山是云。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c734ea25-7d1d-4611-b3f5-9a7a5928bb21",
+        "syllogism": "所有陆地动物都不是水生动物。 一些河马属于陆地动物。 因此，可以得出结论：一些河马是水生动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4d7b1239-23dc-46e3-bbfa-a455fde88d27",
+        "syllogism": "狗绝不是哺乳动物。 所有狗都是犬科动物。 有些犬科动物不是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8c0b2788-b46e-45b5-bf37-d6226804536d",
+        "syllogism": "没有蛛形纲动物有八条腿。 所有蜘蛛都是蛛形纲动物。 因此，没有蜘蛛有八条腿。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9b9b24ec-59d6-43ca-8165-0ae4d688cda0",
+        "syllogism": "所有狗都是犬科动物。 有些犬科动物是猎犬。 因此，所有猎犬都是狗。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7eb64f6f-5665-43a6-bb00-a3dccba8a3d9",
+        "syllogism": "蜘蛛不可能是鸟类。 一些蜘蛛被归类为蛛形纲动物。 必然有一些蛛形纲动物不是鸟类。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "36fdea7c-f8c5-4b3e-9989-7ef62a3e4cec",
+        "syllogism": "没有狗是猫。 所有鸟都是狗。 因此，所有鸟都是猫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f55fb37b-2c59-40d7-9d2c-0542f4b4d1d2",
+        "syllogism": "任何恒星都是勺子。 没有勺子是太阳。 由此我们可以推断出，有些太阳不是恒星。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "da09c581-be6d-4d5e-952c-94c944e8a751",
+        "syllogism": "所有水果都含有种子。 所有苹果都是水果，毫无例外。 因此，所有苹果都含有种子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "634576cd-c53e-4b24-902a-97f9f6017d81",
+        "syllogism": "并非所有狗都是动物。 所有哺乳动物都不是狗。 因此得出结论：没有哺乳动物是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "002a6051-f7b3-4040-b571-50cfea46aaff",
+        "syllogism": "所有玫瑰都是花。 所有玫瑰都是带刺的植物。 因此，有些带刺的植物是花。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e9e40c9e-9f62-4551-a81c-67160af6292d",
+        "syllogism": "有些树没有根。 所有树都是植物。 因此，有些植物没有根。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0c04a1b5-b1bc-4e24-bac7-ae6083b0b922",
+        "syllogism": "所有固体都是动物。 有些岩石不是动物。 因此，有些岩石不是固体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c57395fe-25dd-4f44-acfa-71ecd87ed2b4",
+        "syllogism": "确实，所有苹果都是可食用的东西。 所有苹果都是水果。 因此，有些水果是可食用的东西。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "93bed46d-aedf-4815-89b1-472bcdc8be3e",
+        "syllogism": "所有鸟类都不是动物。 有些麻雀是动物。 因此，有些麻雀不是鸟类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4780354b-3991-4ce8-9981-23d4f3030141",
+        "syllogism": "没有石头是活的。 没有树是石头。 因此，没有树是活的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "318c3850-46c9-4bc9-b5e9-cf6b80f593dd",
+        "syllogism": "没有鱼是哺乳动物。 没有鱼是鸟类。 因此，没有鸟类是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f604bd06-9e07-46d3-8554-16cc2b4fbb33",
+        "syllogism": "所有狗都是动物。 所有猫都是动物。 所有猫科动物都是犬科动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9d42d0c9-9b18-4bb9-9a6c-3917d7f8dbbe",
+        "syllogism": "在狗中，有些是食肉动物。 所有的狗都属于哺乳动物类。 因此，在哺乳动物类中，有些是食肉动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f41764ae-c58b-448c-a721-5d72c5120697",
+        "syllogism": "所有猫都不是爬行动物。 所有爬行动物都不是哺乳动物。 因此，猫从不是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b7891f0d-55f4-4f60-9ab2-0f462e15d928",
+        "syllogism": "部分行星是岩石。 有些月亮是岩石。 因此，有些月亮是行星。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d7ff6706-7df0-4f45-98ff-54593558d4ee",
+        "syllogism": "汽车都不是船。 飞机都不是船。 因此，有些飞机是汽车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f6b85a4a-31b9-4180-b404-3890742180a2",
+        "syllogism": "没有正方形是圆。 有些形状是正方形。 因此，有些形状是圆。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "45599b2f-5e2e-4fe6-ab81-0a05a9ab3eef",
+        "syllogism": "所有思想都不是大脑中的电信号。 每一个想法都是思想。 因此，有些想法不是大脑中的电信号。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f859c7bc-5b00-483b-8ca7-5ca519182fe7",
+        "syllogism": "没有汽车是摩托车。 所有汽车都是车辆。 有些车辆不是摩托车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9372c576-58df-4872-8663-2e6c8b210274",
+        "syllogism": "所有人类都是灵长类动物。 所有人类都是两足动物。 因此，有些两足动物是灵长类动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "25278ae4-b026-4403-bd11-23918d616995",
+        "syllogism": "每一个凡人都是数字。 没有数字可以被描述为人类。 据此，有些人类不是凡人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3b92be82-c8c1-4be8-92eb-a6301d39617b",
+        "syllogism": "所有汽车都是车辆。 所有自行车都是车辆。 有些自行车不是汽车。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "68e9865c-5c39-473d-84ab-16216fa77d7e",
+        "syllogism": "第一前提：所有鱼类生物都生活在树上。 第二前提：所有鲑鱼都是鱼类。 结论：因此，所有鲑鱼必然生活在树上。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0bafb494-84dd-4bab-9e35-4ee2c22d7f73",
+        "syllogism": "所有的金毛犬都是哺乳动物。 有些金毛犬是狗。 这意味着一些狗是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fbff2acc-3c75-4e1e-9ee6-57534e7b958b",
+        "syllogism": "没有一个人是树。 所有树都是女性。 因此，有些女性不是人类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0752c43f-402a-4032-8b0b-d30a4ef6c669",
+        "syllogism": "一些汽车是车辆。 所有车辆都被视为交通工具。 因此可以推断出有些交通工具是汽车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4a0e2133-b509-468a-8d8c-93362fc9cc82",
+        "syllogism": "每一棵树都是有生命的东西。 任何植物都是有生命的。 至少有一个植物是树。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "54a39670-9d4d-4f11-bbd9-29c01e27210d",
+        "syllogism": "每个苹果都是食物。 同样，每个苹果都是水果。 这意味着所有水果都是食物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b40039e8-e634-450a-a221-81c77ffb0517",
+        "syllogism": "每一只猫都是生物。 每一只狗都是生物。 因此，有些狗不是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a91b60be-febd-4dc5-900e-969c31eba6ae",
+        "syllogism": "所有狗都是动物。 有些猫不是狗。 我们可以推断出有些猫不是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7a74a7dc-cc6f-4f5e-95fa-5bd9528c9d8d",
+        "syllogism": "所有昆虫都不是动物。 每一只蚂蚁都是昆虫。 因此，所有蚂蚁都不是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "30b17729-94b7-43d6-973f-c3ed42b6e924",
+        "syllogism": "所有椅子都是家具。 每张桌子都是家具。 因此，有些桌子是椅子。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "452c2309-abd1-4cd9-9cd9-1e693ef85cf6",
+        "syllogism": "所有爬行动物都不是哺乳动物。 有一些爬行动物同时也是大象。 因此可以得出结论：有些大象不是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ce1e081e-8930-4195-a306-447d9f30f18c",
+        "syllogism": "有些动物是哺乳动物。 有些狗是动物。 因此，所有的狗都是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7083216a-6754-498f-8a93-53d551efe0c7",
+        "syllogism": "所有苏打水都不是果汁。 部分饮料不是果汁。 因此，有些饮料不是苏打水。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bab90238-8b28-4f96-b4a1-d60539f830cb",
+        "syllogism": "每一辆自行车都是交通工具。 每一辆自行车都是有轮子的物品。 因此，这表明有些有轮子的物品是交通工具。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7258b953-a6a7-46f3-8c1b-04322353da9f",
+        "syllogism": "人类集合是凡人集合的一个子集。 至少有一个机器人不是凡人。 至少有一个机器人不是人类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5663e778-8153-48c2-83b3-c559449cfb13",
+        "syllogism": "没有任何机器人是有机生命体。 所有人类都是有机生命体。 因此，有些人类不是机器人。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e9e598d7-7e99-486a-bb97-d9291a13ce23",
+        "syllogism": "所有石头都不是浆果。 有些水果不是浆果。 因此，有些水果不是石头。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b99063c8-66a9-43a6-add5-5a10d18780d2",
+        "syllogism": "所有家具都是木头做的。 任何椅子都是木头做的。 有些椅子不是家具。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0d500642-6df5-486f-ba53-d5ccdd5a3061",
+        "syllogism": "每一个书写工具都是宇宙飞船。 有些橡皮不是宇宙飞船。 因此，有些橡皮不是书写工具。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1a8a31a0-21a8-4372-8d78-084d54b33d20",
+        "syllogism": "前提一：有些苹果是水果。 前提二：所有苹果都是可食用的。 结论：因此，有些可食用的东西是水果。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9f914ab3-38b2-420a-a2f6-fcf43f939219",
+        "syllogism": "所有哺乳动物都是恒温的。 每只狗都是哺乳动物。 至少有一只狗是恒温的。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fa03648a-a269-4249-b481-7a12cd672f0b",
+        "syllogism": "植物绝不是生物。 所有树木都是生物。 树木不能被归类为植物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "e4494df1-2233-4972-bb0c-0df36d3a45d9",
+        "syllogism": "每一朵玫瑰都是植物。 所有花卉都是植物。 由此可以得出，有些花卉是玫瑰。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c1a76792-1837-4828-87cd-86b5870e8706",
+        "syllogism": "没有鹦鹉是哺乳动物。 有些鸟是鹦鹉。 这表明所有鸟类都是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6fa051ab-5673-4ce7-8234-3baf75bd1d64",
+        "syllogism": "房屋绝不是学校。 实际上，一些学校是建筑物。 有些建筑物不是房屋。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "12233461-2fe7-4df7-accf-0abbbe78552f",
+        "syllogism": "有些科学家同时也是程序员。 音乐家中有一些人是程序员。 因此，有些音乐家也是科学家。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "17d36cec-c1cf-4ccf-bbac-f9bb5f480a53",
+        "syllogism": "所有贵宾犬都是犬。 已知猫科动物都不是贵宾犬。 因此，没有猫科动物是犬。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d4f7a83b-5939-4873-9a45-1083a6dc2df6",
+        "syllogism": "所有液体都是固体。 没有任何岩石是液体。 没有任何岩石是固体。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b67c4d7c-40e5-41d6-8821-98b427bd94ce",
+        "syllogism": "没有蔬菜是水果。 所有苹果都是水果。 这就是为什么有些苹果是蔬菜。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "555e904c-ecda-4b8b-8e97-d80dafe29a87",
+        "syllogism": "所有猴子都是灵长类动物。 有些具有可抓握尾巴的动物是猴子。 这意味着一些具有可抓握尾巴的动物是灵长类动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bc22f637-3a98-4ae4-bb0f-26189c876e78",
+        "syllogism": "没有人类是动物。 每个医生都不是人类。 因此，我们可以推断出没有医生是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1ddf5f37-b195-43ff-a681-6bbf256e74e0",
+        "syllogism": "有一个人既是政治家又是律师。 参议员中包括律师。 因此，有些参议员是政治家。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "788c386f-8839-45b5-9c62-98c2334673e7",
+        "syllogism": "所有教师都是教育者。 所有校长都不是教师。 因此，有些校长是教育者。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "19e7c1c2-9130-43bd-abfc-f7cbaf4c2a6b",
+        "syllogism": "所有行星实际上都是机器人。 所有实际上是机器人的事物都是生物。 由此可知，一些生物是行星。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3f9d3a77-23b4-4ea3-8246-5d39dc5f6d49",
+        "syllogism": "所有胡萝卜都是蔬菜。 有些狗是胡萝卜。 因此，可以说所有狗都是蔬菜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a7b103d0-0445-418e-aa2d-7d7302c10c51",
+        "syllogism": "所有小说都是书。 有些海报不是书。 因此，有些海报不是小说。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d20244c4-f1d9-483d-9504-66e3a29118cc",
+        "syllogism": "所有树都能传送。 所有能传送的东西都有鳃。 因此，可以得出结论：有些有鳃的东西是树。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "289953c0-645f-47c9-92a3-35b7fbadbf2f",
+        "syllogism": "所有橡树都是植物。 有些橡树是树。 因此，所有树都是植物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b3b36ad2-d5c0-4e89-834d-65bb2d69c3c4",
+        "syllogism": "没有岩石可以被归类为植物。 有些花岗岩属于岩石类别。 因此，可以得出结论：有些花岗岩不是植物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "da3044ed-e1a7-40a7-8bd2-cdeb09f5dbdb",
+        "syllogism": "所有无脊椎动物都不是脊椎动物。 蜘蛛中有一些是无脊椎动物。 因此，有些蜘蛛是脊椎动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1f010b69-61c4-4d5b-8cca-ea37c60a9bf6",
+        "syllogism": "没有不是固体的液体。 所有水都是液体。 至少有一部分水是固体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "425e7e61-535a-4719-bf90-fc33991b40ba",
+        "syllogism": "狗都是哺乳动物。 鲨鱼中没有狗。 有些鲨鱼不是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e7f815bb-c544-4254-ae70-2cce67c91699",
+        "syllogism": "第一前提：所有衣物都不是衬衫。 第二前提：有些服装是由衬衫制成的。 结论：因此，有些服装不是衣物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1e545339-9d43-4dc5-8d0a-8a64858b3fbb",
+        "syllogism": "有些鞋子是水果。 所有水果都生长在植物上。 因此可以推断出有些生长在植物上的东西是鞋子。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8abb5cfd-db81-4fe4-8c3c-f25e8f2bdb74",
+        "syllogism": "所有苹果都是蔬菜。 凡是苹果都是水果。 由此可以得出，有些水果是蔬菜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "66becbb7-c25e-4311-9351-8ae03584a7f6",
+        "syllogism": "没有既是鱼类又是恒温动物的动物。 所有哺乳动物都是恒温动物。 鱼类和哺乳动物是互不重叠的类别。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cafd8eaf-668f-4c69-ae03-ec38709e4b9e",
+        "syllogism": "每一个人类都是云。 同样，每一个哺乳动物都是云。 这证明了所有哺乳动物都是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8bdb2703-2d29-40a2-9c80-9c4b8385a438",
+        "syllogism": "所有狗都是云。 所有动物都是云。 因此，必须是真的，所有动物都是狗。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5b14aaf3-7046-4858-8069-723378b1d76c",
+        "syllogism": "所有木制的东西都能燃烧。 有些椅子是木制物品。 因此，有些椅子可以被点燃。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fc0f46f1-7745-4e5b-8448-f15f54ba1970",
+        "syllogism": "没有机器是椅子。 有些椅子恰好是木制的。 因此，有些木制的东西不是机器。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4aa7d765-8418-4e15-8bdb-60c1ac852e08",
+        "syllogism": "所有番茄都是行星。 没有行星是食物。 因此，没有食物是番茄。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fe6dd099-e8d5-4076-b047-91eaafd96b26",
+        "syllogism": "“学生是无生命物体”这一说法完全错误。 存在一群学生同时也是青少年。 因此，可以有效推断出青少年都不是无生命物体。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8c136b17-300a-4f32-85bb-6853fcdd0a01",
+        "syllogism": "有些汽车不是液体。 没有自行车是汽车。 因此，没有自行车是液体。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bac14978-b426-42f3-830e-d222127e8425",
+        "syllogism": "亲戚不被视为家庭成员。 所有兄弟姐妹都是家庭成员。 因此，可以推断出部分兄弟姐妹不是亲戚。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "dff7e3d0-0d22-47b4-a2df-100757a822f5",
+        "syllogism": "所有鱼都能飞。 所有鸟都能飞。 因此可以得出结论，所有鱼都是鸟。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e1d73587-80f8-4605-8498-0ef21fec3ba9",
+        "syllogism": "所有生物学家都是科学家。 所有物理学家都是科学家。 因此得出结论：所有物理学家都是生物学家。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c4cd23fd-f1d6-4bca-af94-e443e063a809",
+        "syllogism": "所有苹果都不是柑橘类水果。 水果中有一些是柑橘类水果。 因此，有些水果不是苹果。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4e129e3f-4ae0-41ba-9321-a04e949f6eb6",
+        "syllogism": "有些桌子是幸福。 所有幸福都是情绪。 因此，有些情绪是桌子。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4480e5d5-495a-4928-a420-a3c74b9268a9",
+        "syllogism": "所有哺乳动物都是动物。 所有猫都是动物。 因此，所有猫都是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5b8161b7-b1bf-4e16-a854-cd52cdce8a1b",
+        "syllogism": "没有一个首都城市是海洋。 少数几个大城市被归类为首都城市。 因此，显然有些大城市不是海洋。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4f6235d2-3f86-4257-908e-212e5e216d2e",
+        "syllogism": "所有狗都是哺乳动物。 没有建筑是狗。 因此，没有建筑是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "52c7696c-f9c1-4611-9300-db39de41cf50",
+        "syllogism": "有些企鹅是鸟类。 所有鸟类都是动物。 因此，必然有一些动物是企鹅。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5442d653-ac16-4a02-a968-da6ac2c6d636",
+        "syllogism": "没有鱼是哺乳动物。 没有狗是哺乳动物。 可以推断出没有狗是鱼。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a23659e2-d0fc-4b82-b5a5-a526c9c22dda",
+        "syllogism": "非生物与计算机这两个类别没有共同成员。 至少有一个人类是计算机。 至少有一个人类是非生物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f4db0d1f-081b-4f3d-95a0-726adff675f6",
+        "syllogism": "每一只大象都是哺乳动物。 每一只犀牛都是哺乳动物。 这意味着没有犀牛是大象。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5176c307-a806-4e4e-9298-5d6a45abe380",
+        "syllogism": "没有鱼是陆地动物。 所有鱼都是脊椎动物。 有些脊椎动物不是陆地动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7747bb27-234e-4882-b1cd-ddaebfec1203",
+        "syllogism": "所有山都是平坦的地貌。 所有山丘都是山。 因此，所有山丘都是平坦的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6dfa2e90-5139-4564-bb80-b6c343f867b0",
+        "syllogism": "所有车辆都不是交通工具。 某些汽车由车辆组成。 因此，部分汽车不是交通工具。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5e2a9a8e-9469-4b16-a243-f18f3f159709",
+        "syllogism": "确实，液体都不是固体。 有些气体不是固体。 因此，所有气体都是液体。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5caaa82f-e106-47af-a5ec-f5a195e341d1",
+        "syllogism": "所有人类都是学者。 所有教授都是学者。 这导致了这样一个结论：有些教授不是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "49eaeadb-ba70-4eca-be9a-3aaa24144cee",
+        "syllogism": "并非所有车辆都是自行车。 有一些自行车同时也是汽车。 有一些汽车并不是车辆。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1b777e34-ed5d-4ffe-9de6-43a33229f1ab",
+        "syllogism": "所有水果都是感觉。 没有感觉是苹果。 因此，我们可以得出结论：有些苹果不是水果。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0d670133-b450-4117-8cee-c7b73af9d8f5",
+        "syllogism": "没有行星不是天体。 所有天体都是空间中的物体。 因此，有些空间中的物体是行星。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c6aae9b7-d793-4aa7-a0cd-b1d9aed1b06b",
+        "syllogism": "一些汽车是卡车。 所有卡车都有轮子。 因此，所有有轮子的东西都是汽车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d58fd355-2a98-4501-ac04-058a05090a80",
+        "syllogism": "所有总统都是公民。 每一位参议员都是公民。 这导致得出结论：有些参议员不是公民。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c7a40015-f5f1-4a6e-9065-839eadd5172a",
+        "syllogism": "没有政治家是鱼。 没有鱼是律师。 因此，有些律师是政治家。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7e33d84f-4a3e-4ec4-a5ad-df409ed4bbd7",
+        "syllogism": "所有的鸟都是动物。 没有动物是矿物。 这证明有些矿物不是鸟。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cf2dcde2-450d-45e2-b775-0f97c9ebb406",
+        "syllogism": "所有黄金都是贵重物质。 塑料都不是黄金。 因此，塑料都不是贵重物质。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4c424337-e384-43c6-a130-fcc14a34f3fb",
+        "syllogism": "所有云都是爬行动物。 所有云都是鱼。 因此，有些鱼是爬行动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d7842911-1759-4c23-836c-3f81f873af73",
+        "syllogism": "第一前提：没有水果是蔬菜。 第二前提：没有苹果是水果。 结论：有些苹果不是蔬菜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3a9614bf-8aa3-4732-9ebd-c766b0d410d6",
+        "syllogism": "所有昆虫都是六条腿的生物。 任何蚂蚁都是昆虫。 因此，所有蚂蚁都有六条腿。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "830b0cc9-935e-45ba-ab5c-1deb894fa119",
+        "syllogism": "事实是，所有哺乳动物都是动物。 有些动物是猫。 因此，每只猫都是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9f14cb82-d768-436a-93b3-21de7617dc83",
+        "syllogism": "所有教授都是学者。 没有艺术家是学者。 因此，没有艺术家是教授。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ef38a966-b81e-4116-82ab-97eb995ca2fe",
+        "syllogism": "第一前提：所有的狗都是哺乳动物。 第二前提：凡是狗都是动物。 结论：因此可以得出结论：有些动物是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "dbf38723-5390-4452-b85b-19499e555bba",
+        "syllogism": "所有动物都是哺乳动物。 没有爬行动物是动物。 因此得出结论：没有爬行动物是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c22180d9-b32d-481d-a2ed-a540c1e1853f",
+        "syllogism": "所有键盘都是云。 云都不是乐器。 因此，没有乐器是键盘。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "442ed46c-5aa5-445f-9ac3-4bf910bc7b3a",
+        "syllogism": "所有的时间单位都是液体。 周都不是液体。 有些周不是时间单位。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "66621d65-5d64-4e5e-90a2-fd1eea48d437",
+        "syllogism": "所有蔬菜都是有毒的。 所有胡萝卜都是蔬菜。 因此，一些胡萝卜是有毒的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1da871da-0cd9-4734-855e-3c6b5fd057d3",
+        "syllogism": "所有医生都是医务人员。 所有医务人员都是人类。 因此，每一个人都是一名医生。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "244cf8ba-d6bd-4acb-83db-841c05330954",
+        "syllogism": "所有猫科动物都是哺乳动物。 没有猫是猫科动物。 因此，没有猫是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0b232bb6-4474-4e36-b13e-e6e8bbf83663",
+        "syllogism": "有些研究人员是学者。 学者也是大学教职员工的一部分。 因此，有些大学教职员工是研究人员。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a0f1b414-9e52-40f6-9b3f-02181b8c8577",
+        "syllogism": "所有汽车都是机器。 没有法拉利是机器。 因此，没有法拉利是汽车。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d33723e6-311d-4079-9752-a198fcfb0180",
+        "syllogism": "没有多边形是三边形。 所有三角形都是三边形。 这意味着有些三角形不是多边形。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2351a576-f65f-4566-b885-6dfc14525c09",
+        "syllogism": "没有爬行动物是人类。 没有蚂蚁是爬行动物。 因此，没有蚂蚁是人类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fcd92fbd-f6f8-4dee-92ae-36de10989e23",
+        "syllogism": "所有工具都是物体。 所有锤子都是工具。 这意味着所有锤子都是物体。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "82c35dfc-be1a-4fff-aaa9-454da55392ae",
+        "syllogism": "每一朵花都是一种植物。 所有玫瑰都是植物。 这表明所有玫瑰都是花。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7984c936-c1c3-4738-9457-30cdb2154ab1",
+        "syllogism": "每个正方形都是一个形状，同时也是矩形。 每个矩形都是多边形。 因此，有些多边形是正方形。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6c246ba6-8a91-453a-a027-c41877ac446c",
+        "syllogism": "并非所有科学家都是工程师。 每个科学家都是电梯。 因此，有些电梯是工程师。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "95541976-ff89-4549-8a3d-298ceea07086",
+        "syllogism": "第一前提：有些猫科动物也是宠物。 第二前提：有些宠物是哺乳动物。 结论：因此，有些哺乳动物不是猫科动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f0e91b6c-be2c-4558-b627-2ecb7b09e00a",
+        "syllogism": "动物并非非鸟类。 蜂鸟中有一些是非鸟类。 所有蜂鸟都不是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7e1a1cc2-c813-4e34-9278-b6ed795138ac",
+        "syllogism": "所有蜘蛛都是哺乳动物。 所有蜘蛛都是昆虫。 这意味着有些昆虫是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7b5fba34-77db-4a14-a9f4-810833a4d47b",
+        "syllogism": "斑马绝不是狗。 有些狗是哺乳动物。 这表明有些斑马是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0db674a5-4391-43fd-8d40-b6ec2b6e77e3",
+        "syllogism": "所有锤子都是工具。 所有螺丝刀都是工具。 因此，没有螺丝刀是锤子。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "39ef54c3-ec74-44c7-88ae-308fb8f33f9c",
+        "syllogism": "所有哺乳动物都没有羽毛。 一些鸟类有羽毛。 所有鸟类都不是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7e8b844e-cae9-489c-85d2-754e381f6ced",
+        "syllogism": "所有读者都是学者。 有些学生是读者。 因此，有些学生是学者。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7ac17eef-bc85-42eb-a4bd-0c356cb90ad2",
+        "syllogism": "所有狗都是哺乳动物。 所有猫都是哺乳动物。 因此可以得出：有些猫是狗。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5cc44de7-9c1c-45d1-b8e7-7711e1bafce3",
+        "syllogism": "每只鹦鹉都有喙。 所有鹦鹉都属于鸟类。 因此，所有鸟类都有喙。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3b9c1d10-9d37-4030-a1e0-7a0734ef18c3",
+        "syllogism": "任何机器人都是水制物。 每一个水制物都是行星。 由此可以得出结论：有些行星是机器人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "14d879e5-8e7b-41c1-882c-1a75b86844b4",
+        "syllogism": "所有的狗都是哺乳动物。 任何蜥蜴都不是哺乳动物。 因此，不存在既是蜥蜴又是狗的生物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a0d82c8d-78c5-436b-9365-c243ace27faf",
+        "syllogism": "所有恒星都是冷的。 一些恒星是太阳。 有些太阳是冷的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "cc4fa2b9-3a5c-449c-b887-703315f129ff",
+        "syllogism": "有些天体是恒星。 有些行星是天体。 行星绝不是恒星。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "99e780ef-b889-4429-a5fe-22a193b9681e",
+        "syllogism": "每一个几何图形都是情感。 没有圆是情感。 因此，可以得出结论：有些圆不是几何图形。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "36bba00b-4596-453f-aa17-dcf20ad0768c",
+        "syllogism": "所有老师都是大学毕业生。 一些专业人士也被认为是大学毕业生。 因此可以得出结论，有些专业人士也是老师。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a6990bc2-71c7-4745-a1b3-959943fad22c",
+        "syllogism": "所有属于灵长类的人都是哺乳动物。 所有人类都是哺乳动物。 因此，每一个人都属于灵长类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f9007724-6a5c-48f5-a324-1e95a7a2b660",
+        "syllogism": "没有一种水生生物能够水下呼吸。 每一条鱼都是水生生物。 因此，没有鱼能够水下呼吸。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "10378e06-9ec7-4344-a589-0d1fbbca4396",
+        "syllogism": "所有小说都是行星。 没有行星是书。 因此，可以得出必然的结论：没有书是小说。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "84d6b2e4-f71e-45eb-9647-acf23c90a863",
+        "syllogism": "有些鱼是哺乳动物。 有些大象是哺乳动物。 因此，有些大象是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "50d3b41d-0d2b-49ec-8d6e-1c012d831aab",
+        "syllogism": "前提一：有些树不是松树。 前提二：所有树都是植物。 结论：因此，有些植物不是松树。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "dc619e1d-03de-41c4-9639-d01e174c5284",
+        "syllogism": "所有鸟类都是脊椎动物。 所有鸟类都是有翅膀的动物。 因此，有些有翅膀的动物必定是脊椎动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3b4c6ca3-db28-4693-b2aa-577606295336",
+        "syllogism": "所有的人都是由木头制成的。 所有孩子都是人，毫无例外。 因此，没有孩子不是由木头制成的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "17929cfd-f422-400e-a2fe-a28b86424926",
+        "syllogism": "所有橡树都是植物。 一些橡树是树木。 因此，一些树木是植物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "26d7b707-2358-4873-bc57-d4aa724f7f22",
+        "syllogism": "所有麻雀都是鸟。 有些蝙蝠不是鸟。 这必然意味着有些蝙蝠不是麻雀。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "14cb2005-b721-40ef-8182-d28a07014f8d",
+        "syllogism": "没有建筑是车辆。 所有房子都是建筑。 因此，没有房子是车辆。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "42e667da-e467-4797-a862-23132f3c9dc0",
+        "syllogism": "没有狗是猫。 有些宠物不是狗。 因此得出结论：有些宠物是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "07c1b3ad-3718-4db7-9047-6265e2a89541",
+        "syllogism": "所有鸟类都是动物。 所有是麻雀的生物都是动物。 因此，所有麻雀都是鸟类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c185453e-1e55-4186-a79b-4adf21c75a83",
+        "syllogism": "每一辆汽车都有轮子。 每一辆自行车都有轮子。 因此，所有自行车都是汽车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f9127a5c-d34b-4472-aa6f-82d8c32f0c42",
+        "syllogism": "所有人类都是凡人。 所有树都是凡人。 这意味着所有树都是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fe124870-b0cd-4e46-a5f5-67bd5447463a",
+        "syllogism": "有些哺乳动物是食肉动物。 所有食肉动物都是动物。 有些动物是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7ba0e12a-e78e-468b-a647-54332b6660b7",
+        "syllogism": "所有哺乳动物都是动物。 所有哺乳动物都是脊椎动物。 因此，有些脊椎动物是动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "664267a1-59e1-481f-a04a-191ed6ed7a83",
+        "syllogism": "鱼不是有毛的动物。 所有被归为哺乳动物的动物都是有毛的动物。 因此，可以说有些哺乳动物不是鱼。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "55acfad1-cae2-452d-897f-82ff20b9d476",
+        "syllogism": "没有房子是建筑。 没有汽车是房子。 因此，有些汽车是建筑。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3a245c0d-ffb8-4700-a248-70a1917ab838",
+        "syllogism": "有些猫也是哺乳动物。 狗中的一部分可以归类为哺乳动物。 因此，至少有些狗不是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2ab78772-0f7f-4554-ab3a-8bd5d40b66e7",
+        "syllogism": "所有绕恒星运行的天体都是行星。 任何气态巨行星都是行星。 因此，不存在不绕恒星运行的气态巨行星。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "073d458a-fb37-46f1-9557-dee68b73552f",
+        "syllogism": "没有任何一个正方形是圆。 所有的圆都是三角形。 有些三角形是正方形。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ba26d7cc-4c9a-40f2-817d-73b6f91781ab",
+        "syllogism": "有些云是房子。 房子是建筑。 因此，必然为真，有些建筑是云。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b9e979ff-4eb8-45be-8b2f-ef1e41279c7d",
+        "syllogism": "所有医生都是云。 每个医生都是有学位的人。 因此，所有有学位的人都是云。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e678f76a-260f-4b2f-b2c6-3d3a5a992e6d",
+        "syllogism": "没有物品是家具。 所有桌子都是物品。 因此，没有任何桌子可以是家具。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fda01b69-75f5-4d16-8604-0ddb8cdec3c1",
+        "syllogism": "所有葡萄都是水果。 有些胡萝卜不是水果。 因此，必然有些胡萝卜不是葡萄。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8485cc49-e043-42b7-ae68-49245e4954fe",
+        "syllogism": "所有汽车都是车辆。 所有轿车都是车辆。 这意味着所有轿车都是汽车。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6fc2d9ce-e18c-4433-97c7-9eef45031a43",
+        "syllogism": "所有植物都需要阳光。 所有树，按定义都是植物。 至少有一棵树需要阳光。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a387bf65-5020-4833-bfed-c12eb551e259",
+        "syllogism": "每个国家都有一个首都。 法国是一个国家。 法国至少有一部分拥有首都。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fe71763e-e04e-47e9-a49d-6bae7ff6de6f",
+        "syllogism": "所有苹果都是云。 每个苹果都是水果。 由此可以得出，所有水果都是云。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "604c4371-08b2-478a-85a3-273194f6153e",
+        "syllogism": "所有液体都是流体。 任何水都不可能是流体。 因此，没有水是液体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a3b7dea6-fa56-4175-ae3d-e4765d415033",
+        "syllogism": "动物和植物这两个类别是完全分开的。 每一种植物都是哺乳动物。 因此，可以得出结论：有些哺乳动物不属于动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "003f7a6d-6f45-4dd6-8a07-62805dd6d309",
+        "syllogism": "第一前提：在儿童中，有些是人类。 第二前提：在人类中，有一部分也是儿童。 结论：因此，有些儿童不是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "37244c2f-0d09-431f-9e20-29f78f14aab7",
+        "syllogism": "所有的小狗都是有毒的。 一些小狗被当作宠物饲养。 这意味着一定数量的宠物是有毒的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f98919ca-cc46-4be8-b485-2a8085bb3303",
+        "syllogism": "有些机器人是青少年。 每个青少年都是人类。 由此可以得出，每个人类都是机器人。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2ae9a652-1291-412b-b435-33983a7f6313",
+        "syllogism": "并非所有狗都是猫。 一些金毛犬是狗。 因此，一些金毛犬不是猫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4174bbf2-1f54-4ae3-a5e9-cefac102ed46",
+        "syllogism": "所有动物都生活在陆地上。 没有鱼是动物。 至少有些鱼生活在陆地上。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a6e185ca-a3ef-4331-a018-88d696548ce8",
+        "syllogism": "所有自行车都是车辆。 已知卡车都不是自行车。 因此得出结论：卡车都不是车辆。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c0f8e211-64fb-4b10-8a12-14d0def3f5b9",
+        "syllogism": "所有液体都是湿润的。 已知沙子都不是液体。 因此，没有由沙子制成的东西是湿润的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fc477a4d-acad-4c3b-a989-ef97e9454f41",
+        "syllogism": "所有昆虫都是动物。 所有哺乳动物都是动物。 因此，每一只哺乳动物都是昆虫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "45fcf3e0-d667-4856-8268-4df37fd3a8bb",
+        "syllogism": "有些动物是鸟类。 确实有些动物不是鱼。 必须没有鱼是鸟类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9207083f-0077-4ac2-a8c1-be3e589f559e",
+        "syllogism": "没有正方形是圆。 所有正方形都是形状。 有些形状不是圆。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "60f556a7-b0c7-4bde-82ce-e49b1cf72ec5",
+        "syllogism": "蜘蛛不是蛛形纲动物。 事实是所有跳蛛都是蜘蛛。 因此，必须得出结论：有些跳蛛不是蛛形纲动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "49ece5f3-1a1b-48e2-b806-2a0c711e4721",
+        "syllogism": "每一个笔记本电脑都是计算机。 有些算盘不是计算机。 因此可以得出结论：有些算盘不是笔记本电脑。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3930cca0-23f8-465b-a869-6199c3415dc2",
+        "syllogism": "所有窗户都是动物。 所有门都是动物。 可以推断出有些门是窗户。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ae840f15-62f1-4001-9db4-28c53d3ee8d9",
+        "syllogism": "所有哺乳动物都不能被归为鱼类。 有些鲸鱼属于哺乳动物。 因此，有些鲸鱼不是鱼类。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a3192ff9-b4bd-45f0-a28b-29874369e42a",
+        "syllogism": "所有男人都是人类。 所有男人都是单身汉。 因此，所有单身汉都是人类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1856a3b0-cc1d-49ac-86ec-c6c313dd09e8",
+        "syllogism": "有些动物是人类。 有些政客是人类。 这意味着有些政客是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1bfaf1e4-1a78-4bf7-9435-b52586ffbe36",
+        "syllogism": "并非所有小说都是短篇小说。 所有小说都是书。 因此可以得出结论：有些书不是短篇小说。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "286eaae9-9661-46d3-9bce-ad2ccd9ec762",
+        "syllogism": "所有鸟类都是飞行动物。 所有蝙蝠都是飞行动物。 这意味着所有蝙蝠都是鸟类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a7b40ecc-5e8f-4fcd-9c62-cbfe30351899",
+        "syllogism": "所有人类都是哺乳动物。 所有猿类都是哺乳动物。 没有猿类是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6304f895-d581-4b74-ac78-648b509789f5",
+        "syllogism": "植物都不是蘑菇。 有些蘑菇是蔬菜。 因此，有些蔬菜不是植物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5e8aeb75-acdb-49d0-bd8c-f0285f65144a",
+        "syllogism": "有些鱼是企鹅。 所有企鹅都属于鸟类。 因此可以得出结论：有些鸟类是鱼类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a2c6000f-14cf-4763-98a8-247ebc65773f",
+        "syllogism": "所有卡车都是车辆。 有一些皮卡是车辆。 因此，有些皮卡不是卡车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4afebaca-60c2-4a9e-aa14-81508d9f6a0c",
+        "syllogism": "人绝不可能是学习者。 所有学生都是学习者。 学生不能是人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "90ae3f81-b254-45fb-99c6-1636309c7715",
+        "syllogism": "所有的狗都是哺乳动物。 所有的猫都是哺乳动物。 因此，必须有一些猫不是狗。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "07a90f4b-0f4f-4cd1-98e4-fb8d24f15662",
+        "syllogism": "所有的狗都是动物。 没有斑马是犬。 确实有些斑马是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e12158a1-5a17-43f2-b721-5790f55a7b89",
+        "syllogism": "所有是行星的东西都是动物。 所有是桥梁的东西都是动物。 可以推断出有些桥梁是行星。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3a99d768-f046-4aff-a9fd-78b6abed373a",
+        "syllogism": "没有植物是岩石。 有些岩石是花。 因此，有些花不是植物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f2deff13-a6a2-47f0-8835-89a093ad2c5d",
+        "syllogism": "动物和桌子之间完全没有交集。 部分桌子是鸟类。 有些鸟类不是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "19d18525-ca90-4aef-b6d0-3b8a0e15430e",
+        "syllogism": "所有家具都是有感知能力的。 确实有些椅子是家具。 因此，每把椅子都是有感知能力的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c7b40258-763b-4059-8ab3-378b76d6a0a8",
+        "syllogism": "有些鸟类不是动物。 所有鸟类都是哺乳动物。 由此可以得出，有些哺乳动物不是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c72ea95e-851f-4e43-af9d-17d7ecc26a0d",
+        "syllogism": "妻子不是人。 凡是妻子都是丈夫。 有些丈夫不是人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6dc080d8-0813-4880-bd7e-3d1045a738b4",
+        "syllogism": "所有象都是哺乳动物。 没有既是狼又是象的事物。 因此，没有既是狼又是哺乳动物的事物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cd79e6f0-75ac-4c80-b4d2-31711a961bac",
+        "syllogism": "所有猫都是动物。 有些鱼是猫。 鱼根本不是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ca7aa5a8-fa01-460c-9791-99317715aa93",
+        "syllogism": "所有的狗都能够进行光合作用。 有些狗是贵宾犬。 这意味着部分贵宾犬能够进行光合作用。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "342ddbb4-d0f4-41d5-9fe8-b9cfa5414ee9",
+        "syllogism": "所有人类都是外星人。 所有人类都是爬行动物。 因此，有些爬行动物是外星人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "53331624-13d7-4d3d-b3d7-3c5cb0aff3d2",
+        "syllogism": "所有水果都不是烘焙食品。 所有苹果都是水果。 因此，有些苹果不是烘焙食品。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "496112d9-7a6c-4572-9956-21b646a5d0d7",
+        "syllogism": "没有任何昆虫是六足节肢动物。 每一个虫都是六足节肢动物。 因此，有些虫不是昆虫。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c81d6f35-5656-4c9e-8e8c-bd50cbc341e5",
+        "syllogism": "没有植物可以被称为树。 所有植物都是蔬菜的一种。 因此得出结论：所有蔬菜都是树。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1e369b67-1620-4d10-ac81-41690d525f37",
+        "syllogism": "没有鱼是昆虫。 有些大象不是鱼。 因此，可以得出结论：大象都不是昆虫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "007efb0e-6d0c-40c9-8d96-a25a1fbbbf93",
+        "syllogism": "第一前提：所有车辆都不是有轮子的物体。 第二前提：所有汽车都是有轮子的物体。 结论：这证明了一些汽车不是车辆。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5bb97f94-d046-4219-9893-3b1bc4778d0b",
+        "syllogism": "",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "894cbefc-041e-4078-8175-4d5a1b60b171",
+        "syllogism": "所有生物都是云。 确实，每只鸟都是云。 因此，鸟都不是生物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a705b3cb-369e-44bf-bba4-dadf794fef77",
+        "syllogism": "人的集合与担任公职的个人集合是互不相交的。 每一个政治家都是担任公职的个人。 政治家不是人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b5a2d8f8-8dc8-4f55-9da3-7b964f045574",
+        "syllogism": "所有物理学家都不是英语老师。 有些教师同时也是英语老师。 因此，有些教师不是物理学家。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a938e32a-2811-4406-8d78-092fc55e1eb5",
+        "syllogism": "星星绝不是天体。 任何星星都是行星。 有些行星不是天体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fd7d1283-6217-4458-8f48-40968017069c",
+        "syllogism": "所有车辆都是动物。 没有汽车是动物。 一些交通工具不是车辆。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a45774a3-287d-449e-8015-57d0a0b6e3d4",
+        "syllogism": "第一前提：没有犬科动物是猫科动物。 第二前提：所有狗都是犬科动物。 结论：因此，可以逻辑上得出，没有狗是猫科动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "abe7856c-6d01-4804-8925-024dc21d11d9",
+        "syllogism": "没有动物是生物。 所有哺乳动物都是生物。 因此，存在一些哺乳动物不是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1dad7389-e8ab-4962-8d10-83b42c2fa4fe",
+        "syllogism": "所有香蕉都是水果的一种。 没有水果是岩石。 因此，必然有些岩石不是香蕉。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f5cb79a6-006c-4630-a820-e5b7cf16671d",
+        "syllogism": "所有衬衫都是服装。 每一件服装都是一件衣物。 因此，我们可以得出结论：有些衣物是衬衫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "def100cc-5fa6-4026-bf80-73c1534c3728",
+        "syllogism": "所有鱼都能写作小说。 任何能写小说的东西都有羽毛。 因此，有一些有羽毛的东西是鱼。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "eb9ea924-9bf6-46d7-bbad-5cf8d659a05d",
+        "syllogism": "所有麻雀都是动物的一种。 有些麻雀可以被描述为鸟类。 因此，一定数量的鸟类是动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7365d303-9046-46f0-8fdc-d668a2845007",
+        "syllogism": "没有鹦鹉是哺乳动物。 有些鸟类是鹦鹉。 这意味着没有鸟类是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c890f2c1-9631-4153-a60e-02a9a89ad258",
+        "syllogism": "所有具有鳍的动物都是鱼。 此外，有些鲸鱼是鱼。 因此可以得出结论：有些鲸鱼是具有鳍的动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "72458ea2-0688-472b-bb76-2790c794ba46",
+        "syllogism": "有些动物是哺乳动物。 没有哺乳动物是鸟类。 由此可以得出，有些鸟类是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2bf18e1f-3d35-4725-a6a0-73bcf655c976",
+        "syllogism": "鸟类与汽车类之间没有交集。 所有汽车都是由麻雀组成的。 因此可以得出结论：有些麻雀不是鸟类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "46521c95-a338-47b0-96dd-a68ba25c5a34",
+        "syllogism": "第一前提：所有的苏打水都是液体。 第二前提：所有的水都是液体。 结论：因此，有人断言每一滴水都是苏打水。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "94961071-4c98-4f16-a4a5-a1740f7385ea",
+        "syllogism": "所有老虎都是猫科动物。 所有猫都是猫科动物。 可以推断出有些猫是老虎。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "55a5e039-5ab2-479a-84d6-55d177cc648d",
+        "syllogism": "没有蔬菜可以被描述为水果。 胡萝卜在所有情况下都是蔬菜。 因此，可以确定胡萝卜不属于水果。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cd8078e7-ae64-45ec-bd51-3c3b06dcd739",
+        "syllogism": "所有汽车都是情感。 所有汽车都是乐器。 因此，有些乐器是情感。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b0c77d6f-3671-41cc-a15a-b980c56044fb",
+        "syllogism": "学生绝非教师。 没有教师是学习者。 学生都不是学习者。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ad6117fb-795b-4d97-80a3-1f17c770ee50",
+        "syllogism": "所有爬行动物都是蜥蜴。 有些爬行动物是哺乳动物。 因此，所有哺乳动物都是蜥蜴。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "bd80aa79-4ef9-4adb-bb86-2fe99e5e0445",
+        "syllogism": "有些生物是哺乳动物。 所有人都是生物。 所有人都是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e2672031-d897-486a-adc7-82ce6404a832",
+        "syllogism": "没有计算机是动物。 没有动物是树。 因此，有些树是计算机。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "67f51404-e5be-4394-ae67-b7fef1dddf8b",
+        "syllogism": "书面作品绝不是印刷品。 所有书籍都是印刷品。 因此，书籍不是书面作品。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5a1f112a-255f-4a5d-9388-e9cf667f6536",
+        "syllogism": "所有房子都是建筑物。 一些学校被归类为建筑物。 因此，并非所有学校都是房子。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1d4de649-8f04-436a-b489-abb438c23bcb",
+        "syllogism": "所有鸟都有阅读小说的能力。 有些鸽子是鸟。 因此，有些鸽子能阅读小说。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ff2717d7-987b-4b07-b9a8-a228207e5ffa",
+        "syllogism": "恒星集合与绕其他天体运行的天体集合是互不相交的。 任何行星都不是绕其他天体运行的天体。 所有行星都是恒星。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b57336bd-25d5-4f2a-8edc-ecc25544f64c",
+        "syllogism": "没有既是猫科动物又是猫的物品。 老虎这个类别中有一些成员是猫。 必须有一些老虎不是猫科动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "892da397-cedc-4341-b9d1-d59eb6ed7865",
+        "syllogism": "没有两栖动物是不同时生活在陆地和水中的。 所有青蛙都是两栖动物。 至少存在一只青蛙既生活在陆地又生活在水中。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "60d3843b-0fde-4c47-8663-aed5930df07f",
+        "syllogism": "所有的鸟都不是哺乳动物。 一些宠物不是哺乳动物。 必须有一些宠物是鸟。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7fccb781-3cf9-4aaf-8ec4-efcad82df3b3",
+        "syllogism": "有些学生是人。 有些儿童是学生。 因此，有些儿童是人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "df24dcd9-6c90-418a-aef9-4f321e1d8386",
+        "syllogism": "没有衬衫是蔬菜。 有些服装是衬衫。 这暗示了每一件服装都是蔬菜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "864fb4b2-8a19-4767-83f4-1dbed28f27e7",
+        "syllogism": "有些狗是哺乳动物。 所有哺乳动物都是家畜。 因此，有些家畜是狗。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "50146f21-d265-4e3a-8d93-8165cdbe89a3",
+        "syllogism": "所有汽车都属于车辆的一种。 没有动物是汽车。 因此，动物不能成为车辆。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c8a91594-47cb-47e7-829a-a3e094917c92",
+        "syllogism": "没有动物既是飞行器又是犬科动物。 所有飞行器都是狗。 必然有部分狗不是犬科动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7bddb337-7964-4154-8a1e-e61e910b2b7f",
+        "syllogism": "有些勺子是爬行动物。 所有爬行动物都是脊椎动物。 因此，可以得出结论：有些脊椎动物是勺子。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9e8d8063-b183-4026-85a2-592f021e292b",
+        "syllogism": "没有鸟类是昆虫。 有些人不是昆虫。 因此，我们可以得出结论：有些人不是鸟类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9283054f-e98c-4299-b6e7-8dd6f7a081d5",
+        "syllogism": "所有多边形都是正方形。 三角形不属于正方形的范畴。 有些三角形不是多边形。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c86fa01b-37ba-42be-9d5a-6de70b504e54",
+        "syllogism": "没有男人是猫。 没有任何猫是女人。 这表明所有女人都是男人。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b39d5a7e-40c0-4236-80d4-24238aa65f8f",
+        "syllogism": "没有汽车是自行车。 所有法拉利都是汽车。 因此，有些法拉利不是自行车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "89694013-2061-4e74-b907-514d57cc67b2",
+        "syllogism": "健康食品中的一部分是蔬菜。 有些胡萝卜是蔬菜。 因此，有些胡萝卜是健康食品。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "02e208cf-8240-466b-8460-d73f4c35c354",
+        "syllogism": "所有书写工具都是铅笔。 没有钢笔是铅笔。 这意味着没有钢笔是书写工具。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "951df8bb-e9dc-4272-9db7-92fe5d28d337",
+        "syllogism": "所有狗都有毛。 有些贵宾犬是狗。 所有贵宾犬都有毛。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "11c07653-4008-4b22-aeea-b4b1b4da83ad",
+        "syllogism": "没有任何一种水果是烘焙食品。 没有任何一种番石榴是烘焙食品。 因此可以得出结论：有些番石榴不是水果。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4598dede-6a7f-4cbb-b3fe-b6c05c78c836",
+        "syllogism": "所有医生都是外星人。 没有外星人是人类。 这意味着没有人类是医生。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5631278b-7761-4a8c-ae61-1694dd27d01a",
+        "syllogism": "所有首相都是政治家。 有一些名人也是政治家。 因此可以得出有一些名人是首相。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "34b58acf-6301-4373-90cc-aa8b04fb151d",
+        "syllogism": "所有的狗都是哺乳动物。 没有猫是狗。 因此，没有猫是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c59a7a28-08ea-4b9f-9c08-9620ad08c302",
+        "syllogism": "所有猫都是狗。 确实没有狗是猫科动物。 因此，没有猫科动物是猫。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5cb83caf-678a-43b8-a8d7-beedd3b39f55",
+        "syllogism": "世界上有些猫科动物是狮子。 所有猫科动物都是哺乳动物。 因此，有些哺乳动物被发现是狮子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8bb41f23-ab9f-4ed2-898a-f5c6f2fff389",
+        "syllogism": "所有水果都是含有种子的食物。 有些食物毫无疑问是水果。 因此，每一种食物都含有岩石。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "dcd52b2a-0ff8-4826-a5e1-710238698ef7",
+        "syllogism": "所有鹦鹉都是鸟类。 所有鸟类都是动物。 因此，必须得出结论：所有动物都是鹦鹉。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9117126d-5160-40c0-81c1-3f784d8f8cef",
+        "syllogism": "所有鱼都是脊椎动物。 脊椎动物中有一部分是鲨鱼。 鲨鱼中有一部分是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4a57a2e2-b86d-45ec-9db2-f15de898af11",
+        "syllogism": "所有爬行动物都不是哺乳动物。 有些鱼类是爬行动物。 因此得出结论：某些鱼类是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "120750b7-c851-4669-8ec1-d76af5def5de",
+        "syllogism": "没有岩石是物体。 一些桌子出人意料地是岩石。 这意味着一部分桌子不是物体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4ec66db0-ee0c-4ed9-ac5e-e7f8a3f6d1dd",
+        "syllogism": "所有狗都是哺乳动物。 所有哺乳动物都是动物。 因此可以得出结论，有些动物确实是狗。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "df7bae54-40d1-4be5-b827-b4da77465505",
+        "syllogism": "确实没有数字是波浪。 没有声音是数字。 因此，没有声音是波浪。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0a60216c-0892-42a4-9afb-f72f70ce24b9",
+        "syllogism": "一部分健身爱好者是跑步者。 所有跑步者都是运动员。 因此，运动员中有一部分是健身爱好者。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "88d37702-8d01-42e5-93a9-66394796e42a",
+        "syllogism": "1. 气体巨球都不是恒星。 2.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "688d3214-2f0e-4f44-b6ad-e92a7fa5a462",
+        "syllogism": "所有狮子都是建筑。 没有狮子是摩天大楼。 因此，没有摩天大楼是建筑。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "494c1ed1-4d99-4018-b050-35170f6165b2",
+        "syllogism": "任何技术都是家具。 没有家具是手机。 因此，可以合理推断出有些手机不是技术。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "69678d2f-3489-4408-9179-f342e58e4fc1",
+        "syllogism": "所有汽车都是车辆。 至少有一辆机动车不是车辆。 至少有一辆机动车不是汽车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e364a21e-cecb-4050-818a-20c1195a0f9b",
+        "syllogism": "没有任何一个物品既是颜色又是红色的。 在所有色相中，有一部分是红色的。 因此，有些色相不是颜色。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a30e07d5-0fb3-4097-9892-4b145b0c54f5",
+        "syllogism": "所有猫都是看不见的生物。 一些猫是动物。 因此，一些动物是看不见的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c50941bc-7c9e-43cb-90bd-d5289a7b7f5b",
+        "syllogism": "所有狗都是动物。 没有动物是蜥蜴。 因此，没有蜥蜴是狗。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "09a2e249-2d06-47db-a7cb-d6da64814054",
+        "syllogism": "没有蔬菜是水果。 没有水果是土豆。 因此，有些土豆不是蔬菜。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c15f8962-f325-45d6-9cc6-c0a25435d4a1",
+        "syllogism": "偶数集合与动物集合是互不相交的。 任何动物也都是奇数。 有一些奇数同时也是偶数。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "70ae91e5-486a-46d0-8c37-66d67c1b5e18",
+        "syllogism": "鱼类属于动物的一个子集。 所有属于狗的动物都是动物。 所有狗都不是鱼。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f879bc6e-b6df-4283-9c10-51fac98c9f1e",
+        "syllogism": "所有汽车都是能移动的物体。 有些车辆是汽车。 因此，所有车辆都是能移动的物体。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "666ff1f1-6234-4cce-be59-4b760b692996",
+        "syllogism": "行星集合与云集合是互不相交的。 所有存在的云都属于地球。 地球的一部分并非行星。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f91a4b0c-fc65-4d9d-9aa6-20e11f95b5a8",
+        "syllogism": "凡是有内燃机的东西都需要燃料。 有些汽车拥有内燃机。 因此，有些汽车需要燃料。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e7ceac1a-9b69-4033-b75a-7784340595b6",
+        "syllogism": "没有狗是猫科动物。 所有猫都是猫科动物。 因此，有些猫不是狗。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cdf4f5aa-8b47-4edd-9be2-4c9184f7b721",
+        "syllogism": "某些数字是行星。 所有行星都是天体。 因此，有些天体是数字。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a2832fb1-b2b4-46e1-9a7c-59c426c6e84f",
+        "syllogism": "所有的鹰都是鸟。 任何蝙蝠都不是鸟。 由此可以得出，任何蝙蝠都不是鹰。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "85898b99-2e8c-49ee-8595-1a1c9cdf12e6",
+        "syllogism": "每一个鱼都是生物。 每一个鸟都是生物。 所有鸟都是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "84b624a9-4de1-40a4-a584-7d961b6d017c",
+        "syllogism": "爬行动物是不包含任何两栖动物的动物类别。 所有青蛙都是两栖动物。 青蛙与爬行动物这两个群体没有任何共同成员。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "091c270b-32c3-44b5-ac07-f147bfe049fd",
+        "syllogism": "没有树同时也是动物。 每一棵树都是植物。 有些植物不是动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "af0270f5-da4b-45f3-8677-9ff69a4c55fa",
+        "syllogism": "没有哺乳动物是鸟类。 所有哺乳动物都是动物。 有些动物不是鸟类。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "27f93d6e-ae4d-46da-9235-7c900780b18c",
+        "syllogism": "没有既是猫又是狗的动物。 众所周知，没有既是狗又是鸟的动物。 因此可以得出结论，没有既是鸟又是猫的动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "78b7fd54-43d6-400c-a28c-efda282272c1",
+        "syllogism": "所有鸟类都是动物。 没有鸟类是岩石。 因此，可以推断出有些岩石是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ef765642-a09f-49b2-9336-a2b8bd4bb7c8",
+        "syllogism": "所有椅子都不是家具。 桌子永远不会是椅子。 因此，桌子永远不会是家具。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "811914ca-d99d-4e96-b2b6-5d5400211a7f",
+        "syllogism": "第一前提：所有动物都是鸟类。 第二前提：没有鸟类是爬行动物。 因此，这逻辑上意味着没有爬行动物是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9a3154a2-4a7e-4f26-ae0d-e97e2cec7ef0",
+        "syllogism": "有些快餐店设有 drive-thru 服务。 有些咖啡店也是快餐店。 因此，有些咖啡店设有 drive-thru 服务。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6a8f60ed-ac31-45e0-8c05-4915d090f21d",
+        "syllogism": "所有虚构书都是非虚构的。 所有小说都是虚构书。 因此，有些小说是非虚构的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "154d3137-be50-4fff-85ad-80f687f7806a",
+        "syllogism": "没有河流是海洋。 所有河流都是水体。 因此可以推断出：有些水体不是海洋。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d7afe323-d509-4dec-a2e0-28e03a26902e",
+        "syllogism": "所有非虚构书籍都不是虚构作品。 所有小说都是虚构作品。 因此，有些小说不是非虚构书籍。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5a74296e-6a5d-4aaa-9cad-23d3c6b98e12",
+        "syllogism": "所有蔬菜都是植物。 任何胡萝卜都是蔬菜。 因此，所有胡萝卜都是植物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5704ad50-0947-41ed-b7bb-385a2dc1cb52",
+        "syllogism": "所有人类都是灵长类动物。 所有人类都是哺乳动物。 因此，所有哺乳动物都不是灵长类动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "13b6fa09-35e7-4bf1-9bee-12474c668503",
+        "syllogism": "没有狗是植物。 没有人是植物。 人类和狗的群体是互斥的。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "857910a3-46a9-4278-9d37-739de49debd6",
+        "syllogism": "第一前提：所有人类都是由玻璃制成的。 第二前提：所有由玻璃制成的东西都是不可摧毁的。 结论：因此可以得出结论：有些不可摧毁的事物是人类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "50decd9c-f2ed-430f-8103-bc9a386d1f5b",
+        "syllogism": "电脑永远不是平板电脑。 所有平板电脑都是电子设备，没有例外。 电子设备中存在不包含电脑的子集。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bcf96192-4ae8-4834-ab5d-7b2f8c36465b",
+        "syllogism": "没有动物既是食肉动物又是食草动物。 一些狼是食肉动物。 因此，没有狼是食草动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b8ec446c-cd3b-48cb-bf36-7c0cb3f026d2",
+        "syllogism": "所有海洋都是水体。 任何海的区域都是海洋的一部分。 这意味着所有海都是水体。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1e1519e3-f441-4496-9305-1c5a6a4e67e6",
+        "syllogism": "所有可以被视为天体的事物都不是绕恒星运行的物体。 所有行星都是绕恒星运行的物体。 因此，没有行星同时也是天体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "25865228-432c-496c-997a-304fdb99a0c3",
+        "syllogism": "任何医生都是人。 有些外科医生是医生。 这意味着有些人是外科医生。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "59294bfb-c4e7-4b47-8ddf-947ebb9e14ff",
+        "syllogism": "所有鱼都不是哺乳动物。 没有狗是鱼。 因此，所有的狗都是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5c343f7b-d752-4ebe-92c2-1055da055868",
+        "syllogism": "没有液体是猫。 有些狗是液体。 因此得出结论：有些狗是猫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b3ea77c5-3d0e-4d54-9a4d-115a8d0ddd2e",
+        "syllogism": "所有海洋都是沙漠。 所有大西洋都是海洋。 至少有一个大西洋是沙漠。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "041da415-c737-4996-a959-f1f65fe391db",
+        "syllogism": "每一只猫都是动物。 所有狗都是动物。 至少有一只狗是猫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f6b34421-9ef7-42fc-b441-393edd441d41",
+        "syllogism": "并非所有文具都可以用于书写。 所有铅笔都是文具。 因此，没有铅笔可以用于书写。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "17d75025-267a-445c-af3a-f1ad604d6c4d",
+        "syllogism": "所有海洋都是水体。 一些河流是水体。 因此可以推断出一些河流是海洋。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ca77844f-fa81-48ad-9013-ac9ab5be20e0",
+        "syllogism": "没有会飞的动物是企鹅。 所有企鹅都是鸟类。 因此，有些鸟类不是会飞的动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fb44e9f7-2a9f-42d5-b533-699306c4ea55",
+        "syllogism": "所有作为行星的天体都是立方体。 有些天体是行星。 因此，有些天体是立方体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c4526195-4ffd-4b73-b37b-e7fcc91d6812",
+        "syllogism": "第一前提是“所有液体都不是固体。 ” 第二前提是“有些水不是固体。 ” 结论是“唯一的结论是有些水不是液体。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1645c4b0-8647-41e2-be04-11e6354dbd90",
+        "syllogism": "所有动物都能够水下呼吸。 没有马不是动物。 一些马能够水下呼吸。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d518fc34-889a-45f9-92e8-f50d237731ad",
+        "syllogism": "有些鱼是鲑鱼，这些鲑鱼生活在淡水中。 所有的鲑鱼都是鱼。 因此，有些鱼是淡水鱼。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "eba06587-ca00-480c-ae24-0330858b5584",
+        "syllogism": "所有猫科动物都是哺乳动物。 所有猫都是猫科动物。 至少有一个猫是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5029f069-0076-49ad-b65e-b592fed18083",
+        "syllogism": "没有狗是爬行动物。 所有鱼都是狗。 因此，所有鱼都是爬行动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "06d7f64b-e471-4c35-a81f-0217f4a84435",
+        "syllogism": "确实，所有桌子都是家具。 同样，所有家具都是物体。 因此得出结论，所有物体都是桌子。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "da4f979d-1acc-4b60-9c09-f2637309561c",
+        "syllogism": "没有沙发是家具。 没有椅子是家具。 所有椅子都是沙发。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0c25c7bd-6606-4ac2-aa9d-c4da566070f6",
+        "syllogism": "没有医生是律师。 律师都是专业人士，毫无例外。 一些专业人士是医生。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "93a88d43-069b-4339-85b5-84b9ae226f88",
+        "syllogism": "所有老师都是机器人。 没有机器人是人类。 因此，没有人类是老师。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a6abf627-c349-4eff-9138-1989a2c50491",
+        "syllogism": "八足动物的群体与蛛形纲动物的群体没有交集。 所有的蛛形纲动物都是蜘蛛。 必须有一部分蜘蛛不是八足动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3385a56c-c169-4cea-ab4b-5a48ed4980d1",
+        "syllogism": "有些鸟类是鱼类。 有一些鲨鱼是鱼类。 因此，有些鲨鱼是鸟类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7fc2053a-6dba-4035-89ca-1cc3397c9e15",
+        "syllogism": "多边形和圆完全没有重叠。 至少有一个圆是三角形。 有些三角形不是多边形。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8e73a345-d7c3-4d9f-bd1b-c0b852a03dcf",
+        "syllogism": "没有一个人是贵宾犬的狗。 每一个动物都是贵宾犬。 结论是没有任何动物是狗，这是不可避免的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a032a04b-1692-4c50-867a-17e2cdfc0387",
+        "syllogism": "所有动物都是哺乳动物。 有些爬行动物是动物。 可以得出结论，所有爬行动物都是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ec7a26c0-9309-4abc-9e9a-c1d472b2260c",
+        "syllogism": "没有数是概念。 所有整数都是数。 因此，有些整数不是概念。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c79f942d-c2a0-48d1-91d2-678a3fd36186",
+        "syllogism": "所有行星都是圆形的。 有些球不是圆形的。 因此，所有球都是行星。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1be779ce-f518-4780-9c11-ddbdfb91a860",
+        "syllogism": "父亲绝非人类。 所有父亲都是母亲。 有些母亲不是人类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1258c011-5342-478f-aed4-de905c7a0ce5",
+        "syllogism": "没有鸟是昆虫。 所有昆虫都是哺乳动物。 这证明了所有哺乳动物都是鸟类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ed7937f5-a98e-4385-a58a-0d24b4f23651",
+        "syllogism": "所有猫都是猫科动物。 所有猫科动物都是食肉动物。 因此，一些食肉动物是猫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b06dffbf-bd41-46ca-84ed-7433e3acd848",
+        "syllogism": "每一个神父都是男人。 所有神父都是人类。 由此可以得出，有些人类不是男人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "69b3cfc6-9b74-4553-a6b6-6fbed67e9eba",
+        "syllogism": "没有会飞的动物是鱼。 所有鸟类都是会飞的动物。 因此，没有鸟是鱼。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8c0b8a2d-6338-4d41-9d69-ca633163341a",
+        "syllogism": "家具属于椅子的子集。 至少有一个沙发不是椅子。 并非所有沙发都是家具。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9b4a33d2-4024-4900-9a9f-13f66f1f6b84",
+        "syllogism": "每一个锤子都是工具。 任何扳手都不是工具。 因此，每个扳手都是锤子。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0b8e8e21-cd62-4650-8381-d0502187cab3",
+        "syllogism": "有些建筑同时也是房屋。 住宅中有一些也是房屋。 必然有些住宅不是建筑。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f261b7cf-efcb-403d-ac2c-c5cebddab402",
+        "syllogism": "所有物理学家都是人。 所有物理学家都是科学家。 因此，有些科学家是人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fc9ba5ef-3933-4ed5-a40a-d70c483eee95",
+        "syllogism": "任何汽车都有发动机。 没有自行车是汽车。 没有自行车有发动机。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0a5ff024-0265-4fe8-8dd7-57dd3d61a466",
+        "syllogism": "不存在既是鱼类又是爬行动物的生物。 没有蜥蜴是鱼类。 因此，有些蜥蜴是爬行动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5826f9b5-c6e7-4b2d-834d-de148f9bd15c",
+        "syllogism": "所有爬行动物都不是哺乳动物。 没有蛇是爬行动物。 蛇必然不是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "84bd592a-b425-4b83-a3f1-7ea71c85910e",
+        "syllogism": "花根本不是生物。 所有花都是植物。 有些植物不是生物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a7504ed6-5b8e-42d0-bb8b-11754ac5953a",
+        "syllogism": "每一个教授都是学者。 任何学者都是有知识的人。 因此，有些有知识的人是教授。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4b3cd5b6-0e44-4c83-a3ef-3fecca0982a8",
+        "syllogism": "所有医生都是人类。 一些专业人士是人类。 因此，一些专业人士是医生。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7047ea6a-0592-4226-9d6c-8d852a4e4d83",
+        "syllogism": "没有任何犬类是猫类。 有些狗是犬类。 这证明有些狗是猫类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1d435e7a-87e9-48a6-b87b-2cf3df3b1b1f",
+        "syllogism": "所有车辆都是魔法物品。 一部分车辆是汽车。 因此，有些汽车是魔法物品。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6448127c-d151-4443-8c20-b905f2d0146d",
+        "syllogism": "所有哺乳动物都不是昆虫。 已知有些蜘蛛是昆虫。 因此，有些蜘蛛是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "eff0c9a8-448c-42ea-a85d-516e2cfa8a91",
+        "syllogism": "所有哺乳动物都不是动物。 有些狗是动物。 因此，有些狗不是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0e536e76-40a1-4af6-b344-b2e04598d3bc",
+        "syllogism": "所有小说都是虚构作品。 所有虚构作品都不是新闻文章。 因此，所有新闻文章都不是小说。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0453793d-3578-490a-a79c-35984eba5964",
+        "syllogism": "所有手机都是植物。 没有任何植物是电子设备。 因此，电子设备都不是手机。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "44ec00e8-6a39-473e-94e8-d90a52360f1f",
+        "syllogism": "所有花都是动物。 所有玫瑰都是花。 因此，所有玫瑰都是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1a6a9f12-15dc-467c-8311-2ee796d95c22",
+        "syllogism": "没有狗是猫。 没有猫是鱼。 因此可以得出结论：有些鱼不是狗。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "78e5d104-977c-4233-94ac-519017f63a3b",
+        "syllogism": "动物都不是生物。 有翅膀的东西都不是生物。 因此，有翅膀的东西都不是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "105da322-1326-48c0-8e48-6d74d8411eb9",
+        "syllogism": "没有哺乳动物是鱼类。 每一条鱼都是动物。 因此可以得出结论：有些动物是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3adadf58-1822-4358-a40b-b7c4ca7f9afa",
+        "syllogism": "蔬菜和水果这两个类别之间没有交叉。 根据定义，苹果属于水果类别。 苹果和蔬菜属于两个不同的类别。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "499ba307-8c1b-4244-9a41-15129f3f000e",
+        "syllogism": "并非所有的人都有血液。 每个人都是哺乳动物。 因此可以得出结论：有些哺乳动物没有血液。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "38e06b78-6374-4cb0-8ba9-a177a7b62c31",
+        "syllogism": "所有三角形都是多边形。 所有三角形都是几何图形。 因此，有些几何图形是多边形。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "17888115-1faa-438c-8260-5dc06d9c0c64",
+        "syllogism": "第一前提：有些欧洲人是人。 第二前提：在德国人中，有些是人。 结论：唯一的结论是有些德国人不是欧洲人。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d395b65f-fa01-475b-a5f9-1043660ab986",
+        "syllogism": "所有鸟类都是动物。 所有人类也是动物。 因此，所有人类都必须是鸟类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "940e3b1d-dd3d-4119-a379-178a8b6f8397",
+        "syllogism": "所有哺乳动物都是昆虫。 没有昆虫是狗。 因此，有些狗不是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "32c2f0fa-083f-4f90-b33d-201e95816ea6",
+        "syllogism": "所有蔬菜都不是植物。 有些蔬菜也是胡萝卜。 因此，有些胡萝卜不是植物，这是不可避免的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "18ca9b49-d0cf-44f4-83bf-eb4739bc9317",
+        "syllogism": "没有一个正方形是圆形。 有些形状是圆形。 所有形状都不是正方形。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "04ef6520-e8a0-4f08-a903-44fd4902ec3f",
+        "syllogism": "第一前提：没有机动车可以被归类为自行车。 第二前提：所有汽车都是机动车。 结论：因此，没有汽车可以是自行车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f5a5b2ca-22cf-4dc4-bfef-43b39b6c641c",
+        "syllogism": "任何一位教师都是机器人。 有些教育者是教师。 因此，有些教育者是机器人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c645579b-f3ec-4448-b51d-6ac03b047bd0",
+        "syllogism": "没有医生不是医疗专业人士。 没有医生不是具有医学学位的人。 因此，有些具有医学学位的人是医疗专业人士。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "31696c08-057b-4e85-9a88-c730c82831da",
+        "syllogism": "每个孩子都是凡人。 所有凡人都是人类。 因此，每个人类都是孩子。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "348536c7-1f02-4527-9794-f6ab7fdf1144",
+        "syllogism": "情绪不是感觉。 有些情绪被归类为悲伤。 因此，必然有些悲伤不是感觉。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "61f8ac6f-5f91-4904-8e41-22bd80f2b1ae",
+        "syllogism": "所有歌曲都是作品。 没有作品是动物。 因此，我们可以有效地得出结论：有些动物不是歌曲。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "88906e17-b2f0-4ba9-9a42-387949ef58d8",
+        "syllogism": "不存在既是昆虫又是哺乳动物的事物。 所有蚂蚁都是昆虫。 因此，蚂蚁不是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "51fdf28a-0458-4d35-9d2b-9992fcb0a57e",
+        "syllogism": "没有火是热的。 所有的篝火都是火。 因此，有些篝火不是热的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b46a6c4b-d833-453c-9718-023a87186adc",
+        "syllogism": "所有灵长类动物都有拇指。 所有猴子，按定义都是灵长类动物。 我们可以得出结论：有些猴子有拇指。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "367fccf2-1e41-4ca2-88b0-e3b9890c549d",
+        "syllogism": "没有树是人类。 所有的橡树都是树。 有些橡树是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "19bc7c4d-5dfa-409e-b62b-16e82606eb24",
+        "syllogism": "没有树木是生物。 所有植物都是生物。 因此，所有植物都是树。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1ce77016-2e3d-431a-af11-e015722c98fe",
+        "syllogism": "凡是树都是木头做的。 每把椅子都是木头做的。 因此，必然得出结论：每把椅子都是树。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "428fcd4d-5c1a-4c6b-b836-a6cf49562c77",
+        "syllogism": "所有医生都是人类。 没有人类是昆虫。 这逻辑上表明有些昆虫不是医生。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3e50a21d-a81c-4c71-82b5-4c5a94dcd47c",
+        "syllogism": "并非所有汽车都是火车。 有一些火车也是交通工具。 有一些交通工具不是汽车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b67cba63-9ae7-4878-a8a7-f7e663f58bcc",
+        "syllogism": "汽车绝不是飞机。 同样地，船也绝不是飞机。 因此，所有船都是汽车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e34fafec-30b9-4a28-a470-eb952d244988",
+        "syllogism": "所有行星都是天体。 没有一个地球是天体。 因此，没有一个地球是行星。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "671be363-8174-498e-959c-5aa930502041",
+        "syllogism": "所有象都是哺乳动物。 没有鱼是象。 因此，可以得出结论：鱼都不是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ac5ce699-15c3-4842-8f1e-7d70227b0787",
+        "syllogism": "某些建筑是狗。 所有的狗都是家畜。 因此，有些家畜是建筑。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "76d43773-397f-4d6b-8304-d4f2ce89290f",
+        "syllogism": "汽车不是船。 自行车也不是汽车。 因此，有些自行车不是船。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a37f602d-1c58-42da-bff0-9886d5b37547",
+        "syllogism": "所有哺乳动物都是恒温动物。 鱼类中没有恒温动物。 因此，鱼类中没有哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f829409c-4e08-476e-bc07-864702de5a37",
+        "syllogism": "所有昆虫都是节肢动物。 所有节肢动物都不是脊椎动物。 因此，没有脊椎动物是昆虫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3210a16c-a687-4030-8697-bb2214492501",
+        "syllogism": "没有城市是国家。 所有名为伦敦的城市都是城市。 必然为真，有些名为伦敦的城市不是国家。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "73e5dc2c-1c3a-4c0d-96ea-61002d03f225",
+        "syllogism": "所有汽车都是车辆。 凡是自行车都是车辆。 有些自行车不是汽车。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "977d509f-bff0-4f82-b5bb-440e1ce5f8d0",
+        "syllogism": "所有正方形都是四边形。 没有既是三角形又是四边形的形状。 存在一些三角形不是正方形。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8e758feb-cf87-4301-893d-6d70aaa8976e",
+        "syllogism": "每个想法都是树。 每个想法都是动物。 因此，有些动物是树。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ffc1a467-4a95-445e-96bf-6064f3348b75",
+        "syllogism": "没有狗是猫。 没有狗是爬行动物。 因此，没有爬行动物是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "12946b9f-6889-4906-bf58-81f946d2e823",
+        "syllogism": "所有鱼都是生活在水中的动物。 有些鲨鱼不是鱼。 我们可以推断出有些鲨鱼不是生活在水中的动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "31792188-56c1-4948-89de-1b72940f1e44",
+        "syllogism": "所有汽车都是车辆。 任何建筑都不能被视为车辆。 有些建筑不符合汽车的定义。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cd4bdf9a-bb6a-49bc-973b-bd0aa6c4b732",
+        "syllogism": "所有树都是植物。 有一些松树是植物。 因此，并非所有松树都是树。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "eb1866e6-0efb-4683-874c-f8303965a818",
+        "syllogism": "动物都不是蔬菜。 猫也不是蔬菜。 因此，所有猫都是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d8f5c7fb-a431-4ab6-890a-c4122be4c314",
+        "syllogism": "没有植物可以被称为人类。 同时，所有植物都是蔬菜的一种。 因此，得出结论：每种蔬菜都是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0c5bbda6-c0e7-42ac-943a-b09a2dcea726",
+        "syllogism": "第一前提：没有任何一辆汽车是船。 第二前提：汽车可以被归类为车辆。 结论：因此可以逻辑上必然推出：有些车辆不是船。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e57dd7c0-a696-481c-90f9-2529ca71feb7",
+        "syllogism": "第一前提：没有既勤奋又懒惰的人。 第二前提：有些学生是勤奋的人。 结论：因此，有些学生是懒惰的人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "661f36d9-ec1e-499b-b9ad-1a6ca24dd73a",
+        "syllogism": "帽子和外套没有交集。 部分外套是衣物。 有些衣物不是帽子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "35c45723-f9be-40f0-b525-0dd530196630",
+        "syllogism": "每一个动物都是生物。 所有人类都是生物。 因此，每一个人都是一种动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "65473904-b2b6-44f0-83c3-66265f64d972",
+        "syllogism": "一些被归类为家具的物品不是椅子。 所有家具都是家用物品。 因此可以推断出一些家用物品不是椅子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6174dafb-949c-4bfa-8056-f3ba35a3a47f",
+        "syllogism": "所有液体都不是H2O。 所有水都是H2O。 可以推断出有些水不是液体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "cbfc916b-9232-4bcb-8641-edcf556260a0",
+        "syllogism": "所有虚构小说都不是传记。 有些小说属于虚构小说。 因此可以得出结论：有些小说不是传记。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bec15083-5e98-4b5b-87ff-39ccbd7c708c",
+        "syllogism": "所有城市都是地点。 任何地点都是首都。 因此，每个首都都是城市。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "89cbc28f-fbfa-46fd-849a-14aaaf90eece",
+        "syllogism": "没有一本书是电子设备。 所有电子设备都是物品。 这证明了一些物品是书。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "893389ed-b336-4b90-9b1c-9f6bcc595862",
+        "syllogism": "猫都不是水生动物。 所有老虎都是猫。 因此，有些老虎不是水生动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8078870d-5ee2-4765-a771-bd795e0a10cf",
+        "syllogism": "第一前提：没有一幅画同时也是文学作品。 第二前提：每一部小说都是文学作品。 结论：这意味着存在一些小说不是绘画。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9c38a362-17ab-4f2e-a883-d6bd3ff7fa2e",
+        "syllogism": "所有老虎都是猫科动物。 所有老虎也是哺乳动物。 因此，所有哺乳动物都是猫科动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c49471ca-9eb9-463c-a517-fd57b9179d9e",
+        "syllogism": "没有猫是鱼。 每一个海豚都是猫。 因此，每一个海豚都是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5f470790-9bf1-4f1f-898e-c7d7ca738cf9",
+        "syllogism": "没有神话生物是人。 一些神话生物是外星人。 外星人中的一部分是人。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "784d9ce8-5934-4f3f-b89e-96748b1a2758",
+        "syllogism": "所有蔬菜都是云。 所有土豆都是蔬菜。 因此，所有土豆都是云。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "759f4e1f-e7b9-4d07-aefb-e62155c300d3",
+        "syllogism": "有些选民是公民。 没有一个外国人是公民。 因此，没有一个外国人是选民。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3b1f2da1-913d-4fef-a40b-394545bdd73d",
+        "syllogism": "有些哺乳动物是猫。 所有的狗都是哺乳动物。 因此，没有狗是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fdfe04da-1f41-4062-9295-cc599cfae310",
+        "syllogism": "所有歌曲都是山。 所有歌曲都是由水构成的。 因此，有些由水构成的事物是山。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f3fecb37-13d4-413b-b97c-7bd23d52e3f8",
+        "syllogism": "液体都不是流体。 所有水都是液体。 因此，有些水不是流体。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4c5effb9-426b-4d87-b8bb-a92cccef1b85",
+        "syllogism": "所有水果都是树上生长的东西。 所有苹果都是树上生长的东西。 至少有一个苹果是水果。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fd1c29dd-41e2-4937-bd16-11dc1dfc6802",
+        "syllogism": "所有机器都是人类。 至少有一些学生不是人类。 至少有一个学生是机器。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "92732329-128c-43fa-a364-94c90d08162f",
+        "syllogism": "所有汽车都是带有发动机的车辆。 有些自行车是没有发动机的。 有些自行车不是汽车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "acd76fff-dd32-4375-9c2e-21909ea1bcf1",
+        "syllogism": "所有爬行动物都不是哺乳动物。 动物中有一些是哺乳动物。 因此，动物中有一些不是爬行动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5014a30a-93f6-421c-900d-175499c326ff",
+        "syllogism": "没有恒星是行星。 每个恒星都是天体。 因此，每个天体都是行星。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6307f80f-af36-4c0e-b69a-714cfd070f21",
+        "syllogism": "一些昆虫是甲虫。 所有甲虫都是节肢动物。 因此，有些节肢动物是昆虫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "982c7ee4-d97d-4ff7-927b-351beb3c89e9",
+        "syllogism": "所有海洋都是计算机。 所有海洋都是由丝绸制成的。 因此，有些由丝绸制成的事物是计算机。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "76f5bd8e-eb80-4bb9-983b-49ce10706337",
+        "syllogism": "所有狗都是哺乳动物。 有些杰克罗素梗是狗。 因此，必然推出有些杰克罗素梗是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3cd77d99-1835-4e01-bc28-735872543a65",
+        "syllogism": "有些土豆不是生物。 所有土豆都是人类。 由此可以得出一个逻辑结论：有些人类不是生物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3ecdc552-39d1-4b9b-8255-dda2990d7197",
+        "syllogism": "没有汽车是飞机。 有些交通工具是汽车。 因此，有些飞机不是交通工具。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "055f965a-33f5-4607-9c66-4aa40bec3f17",
+        "syllogism": "所有玫瑰都是花。 花从来不是树。 因此得出结论：有些树不是玫瑰。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f31cf4aa-e20f-4e2b-8bf0-18cc0c5ad48b",
+        "syllogism": "没有狮子是动物。 一定数量的狮子是食肉动物。 据此，必须有一定数量的食肉动物不是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7c5ab39b-14be-4b8f-aea0-58f360ec1c58",
+        "syllogism": "没有鸟是鱼。 同样，没有鱼是哺乳动物。 因此，没有哺乳动物是鸟类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "094f320d-ea3a-4e4e-be55-d09692332089",
+        "syllogism": "所有郁金香都是花。 所有玫瑰都是花。 因此，可以得出结论：一些花是玫瑰。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6c70f8c4-cfed-4ee2-9de2-0ad6c7e39a4d",
+        "syllogism": "没有鱼是哺乳动物。 猫不被视为鱼类。 有些猫不是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3ced0425-c600-49d7-a41e-a958eea666d2",
+        "syllogism": "所有企鹅都不是会飞的鸟。 已知有些鸟是会飞的鸟。 结论是有些鸟不是企鹅。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0d6a4be3-97f2-4681-ab04-5a342bedfe4e",
+        "syllogism": "汽车的集合与自推进车辆的集合是完全不相交的。 汽车的整个类别由自推进车辆组成。 汽车不是汽车。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5042a832-ecad-4b81-a4c8-716ac22397ef",
+        "syllogism": "所有桌子都是家具。 灯不是家具。 因此，任何灯都不可能是桌子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ff71268e-b08f-48c4-a612-460a70e936ec",
+        "syllogism": "所有云都是由岩石构成的。 有些气象现象被确认为云。 因此，有些气象现象是由岩石构成的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "075ee36a-6966-403e-b55e-288e2358c226",
+        "syllogism": "没有鹰是哺乳动物。 所有鹰都是鸟类。 因此可以推断出有些鸟类不是哺乳动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8acb7e95-5790-4e97-abde-feb0e3b60129",
+        "syllogism": "所有护士都是能飞的人。 一些护士是医生。 因此，一些医生能飞。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3ffa69d7-8ae1-49e3-97ce-102a0df6db2e",
+        "syllogism": "所有象都是四足动物。 有些昆虫是四足动物。 因此，有些昆虫不是大象。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8ea7335f-a484-4c94-b951-36f19e074fc5",
+        "syllogism": "花都不是蔬菜。 有些胡萝卜是蔬菜。 因此，胡萝卜都不是花。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c7fd5116-5c07-4a94-b028-21957275f4b9",
+        "syllogism": "有些鱼是硬骨鱼。 鲨鱼中有一些是硬骨鱼。 我们必须得出结论：有些鲨鱼不是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ebc9f1a5-9193-4a67-b187-2bf5781c3abd",
+        "syllogism": "所有猫都是哺乳动物。 没有鱼是猫。 这意味着没有鱼是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "42e1d763-31f6-4725-a17f-6fdcb0088fde",
+        "syllogism": "所有衬衫都是衣服。 每一件T恤都是一种衬衫。 因此，每一件T恤都是衣服。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "11c65905-5cf1-495e-aa9e-720c9f8687fd",
+        "syllogism": "植物类别中不存在建筑物。树木类别完全由植物构成。建筑物和树木是完全独立的类别。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d1c9c4bb-2e00-41ae-909c-425ff182f92c",
+        "syllogism": "恒星和气态巨行星完全没有交集。 至少有一个气态巨行星是行星。 有些行星不是恒星。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "21dd3f2c-d1a1-409f-9307-3f8a54ab5417",
+        "syllogism": "没有虫子是昆虫。 所有虫子都是鸟类。 因此得出结论：所有鸟类都是昆虫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "462a2603-e5b1-4dc2-bc70-152c024816e0",
+        "syllogism": "所有昆虫都是动物。 所有爬行动物都是动物。 因此，每一只爬行动物都是蚂蚁。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fd526302-739f-45f2-95ed-73c2b00a85cb",
+        "syllogism": "所有的狗都是哺乳动物。 所有猫都是哺乳动物。 这意味着所有猫都是狗。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "de23d5a3-4fb9-46cc-84d8-e0cff6132ab1",
+        "syllogism": "确实，有些车辆是机器。 同样，没有勺子是车辆。 因此，得出结论：没有勺子是机器。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0112296e-72b9-40a8-89d9-6423f59a958a",
+        "syllogism": "所有三角形都是形状。 没有圆是三角形。 因此，圆不能是形状。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0ca27016-be9b-4156-9e2a-509010ee8b89",
+        "syllogism": "鼓与小号完全不相关。 小号毫无例外地是一种乐器。 有些乐器不能被归类为鼓。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "26349422-9759-46d4-95fe-47058f4ee109",
+        "syllogism": "所有猫都是动物。 没有任何鱼是猫。 因此，没有鱼是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ceded7c3-ea95-4f1f-8706-8797294b5a4a",
+        "syllogism": "没有冰是结冰的水。 所有冰川都是冰。 因此，有些冰川不是结冰的水。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "042f9653-500e-408f-a1e5-e9ea64c7bf96",
+        "syllogism": "所有鱼都是动物。 任何动物都是哺乳动物。 因此，所有哺乳动物都是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3be34539-8d21-4398-a341-054fc05f0e60",
+        "syllogism": "凡是有死的生物都不是不朽的。 所有人类都是有死的生物。 因此，没有人是不朽的。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8549a2e9-abf7-40df-83ef-ab7b3d75829b",
+        "syllogism": "鸟类都不是哺乳动物。 蝙蝠都不是鸟类。 因此，有些蝙蝠不是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cc362ec8-4aca-4868-acb7-c4b193c9dd20",
+        "syllogism": "所有椅子都是家具。 所有家具都是家庭中的物品。 因此，家庭中的某些物品是椅子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b436f6f9-ef9a-4109-9d2e-6c1de2d3bea0",
+        "syllogism": "有些甜食是蛋糕。 没有蛋糕是咸食。 事实上，没有咸食是甜食。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ff719160-ec4d-47a3-9621-a2d1dbb6115c",
+        "syllogism": "所有哺乳动物都不是鸟类。 所有狗都是哺乳动物。 因此，所有狗都是鸟类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b4236af0-41a4-4acf-8f97-493fe6280b37",
+        "syllogism": "任何正方形都是圆形。 每个三角形都是正方形。 因此，所有三角形都是圆形。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7f808836-92dc-4373-b549-b41528d1a39a",
+        "syllogism": "有些鸟能飞。 一些桌子是鸟。 因此，一些桌子能飞。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fb36a074-649e-4d1c-99c0-9ee82e69775f",
+        "syllogism": "液体都不是固体。 气体都不是固体。 因此，所有气体都是液体。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "92a2576e-da7a-4853-90a3-9f9171a6ed51",
+        "syllogism": "所有爬行动物都有毛发。 有些蛇是爬行动物。 因此，有些蛇有毛发。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a6fde999-62a6-4246-9901-654ac4901490",
+        "syllogism": "所有首都都被视为重要城市。 一些首都位于欧洲。 因此，欧洲的一些城市是重要城市。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "903efee0-a3c6-4577-af64-e1589aa528e9",
+        "syllogism": "所有蔬菜都不是水果。 部分可颂是水果。 因此，有些可颂是蔬菜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "57178844-d267-4d84-90ea-d2a29f973cda",
+        "syllogism": "星星都不是流星。 流星无一例外都是行星。 一些行星是星星。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2a533cd3-5dab-425d-9dca-9f2d6cfcb4c7",
+        "syllogism": "椅子绝不是家具。 所有椅子都是物件。 有些物件不是家具。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "dae7557a-fcc6-473b-892f-211012df55af",
+        "syllogism": "所有哺乳动物都不是能思考的对象。 所有能思考的对象都是人的子集。 因此可以得出逻辑结论：有些人不是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9fcdef6b-4601-4603-92bc-1124b386ce5b",
+        "syllogism": "所有玫瑰都是植物。 没有动物是玫瑰。 因此，没有动物是植物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e31bb89a-6c5b-4745-8952-8ee9c2649776",
+        "syllogism": "昆虫类和狮子类没有交集。 所有狮子都是动物。 因此，有些动物不是昆虫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "58415d94-edbc-4d45-8c14-128c99bb2da5",
+        "syllogism": "所有人都是有眼睛的生物。 所有狗都不是人类。 至少有些狗有眼睛。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "61ba9569-1368-4d47-9706-b54a7034bab5",
+        "syllogism": "第一前提是“所有鸟类都是有翅膀的生物。 ” 第二前提是“没有昆虫是鸟类。 ” 可以得出的结论是“有些昆虫是有翅膀的生物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0cd88274-2420-4a6f-a7d5-791418d1ac9f",
+        "syllogism": "第一前提：没有一种矿物是植物。 第二前提：已知部分岩石是矿物。 因此得出结论：一定数量的岩石是植物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ae5332c8-e538-4acc-b93e-e1db2ba41d49",
+        "syllogism": "没有鹦鹉是哺乳动物。 有些鸟类是鹦鹉。 这表明有些鸟类是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "050b76be-03f5-4435-a74d-9e93cefce5f5",
+        "syllogism": "这是一个事实：所有猫都是猫科动物。 所有猫科动物都是哺乳动物。 因此，所有哺乳动物都是猫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7c03f7df-2432-474c-b889-72c099494fbb",
+        "syllogism": "所有勺子都是行星。 所有行星都是唱歌课程。 可以逻辑上得出有些唱歌课程是勺子。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6b8e7633-e0e5-4bd2-808f-97bd90d5a065",
+        "syllogism": "所有蔬菜都是绿色的。 所有叶子都是绿色的。 因此可以必然得出：所有叶子都是蔬菜。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5ab729fc-d0d1-45fa-8588-7b270389800f",
+        "syllogism": "所有诗人都是作家。 所有作家都是有创造力的人。 因此可以得出结论：有创造力的人中有一部分是诗人。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d8c5466a-77d4-47cc-b862-c8df585de57c",
+        "syllogism": "所有猫都是云。 所有有毛发的动物都是云。 因此，没有有毛发的动物是猫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "47f1b584-9689-4744-a190-7112a13c9cb2",
+        "syllogism": "有些爬行动物是动物。 所有蛇都是爬行动物。 因此，所有蛇都是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2d3a1de0-fdb2-45f4-aef8-6f4e3f64f55b",
+        "syllogism": "诚实的人和骗子这两个集合是互不相交的。 没有政客是骗子。 所有政客都是诚实的人。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1fcd8f80-1760-4051-9181-025b909589cf",
+        "syllogism": "没有鱼是哺乳动物。 猫不被视为鱼类。 有些猫不是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c3ed1a57-88e6-4451-8592-de1be8c8066d",
+        "syllogism": "没有不会飞的鸟。 没有昆虫是鸟。 因此，有些昆虫有翅膀。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "30d11495-2d7d-49a1-a542-0ebc22ce160f",
+        "syllogism": "所有计算机都是植物。 有些笔记本电脑不是植物。 必须有些笔记本电脑不是计算机。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "56dea4d9-94ad-4daf-893b-945bfe93bb7b",
+        "syllogism": "没有椅子可以被视为乐器。 有些椅子同时也是古董。 因此，古董中有一部分不是乐器，这一结论是无法回避的。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "50008a27-be0f-44a2-a7ad-bb41c1b54ac5",
+        "syllogism": "所有人类都是哺乳动物。 有些猿是哺乳动物。 有些猿不是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6633c065-240e-49e5-95cc-efde4ee297e9",
+        "syllogism": "昆虫绝不是蛛形纲动物。 有些蜘蛛属于蛛形纲动物。 唯一能得出的结论是：有些蜘蛛不是昆虫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3fd2289b-672d-490c-a5d6-61d711814d7f",
+        "syllogism": "没有金是银。 银是毫无例外的金属。 一些金属是金。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "87969ab1-7991-427e-be3c-4045e303f301",
+        "syllogism": "所有存在的鸟都是由玻璃制成的。 有些知更鸟是鸟。 因此，有些知更鸟是由玻璃制成的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9d0f6e59-163b-4aac-bede-cac5938a90a3",
+        "syllogism": "所有生物都是消耗能量的物体。 所有植物都是消耗能量的物体。 这意味着所有植物都是生物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9f087d4f-5b6f-4d89-b9a0-2ed39ea55950",
+        "syllogism": "确实，没有圆是圆形的。 所有环都是圆。 因此，有些环不是圆形的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3d7c7fbc-0adb-4101-8aa6-802808fc572f",
+        "syllogism": "所有猫都是四足动物。 没有狗是猫。 因此可以得出结论：没有狗是四足动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b598df99-7a53-4672-adeb-d14c026a9fff",
+        "syllogism": "任何作为房子的建筑都是由巧克力制成的。 有些建筑是房子。 这意味着有些建筑是由巧克力制成的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "930de84a-a92b-430d-893f-263036dbffec",
+        "syllogism": "有些车辆是机器。 所有汽车都是车辆。 因此，所有汽车都是机器。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "47de8cdb-8488-455b-bb84-d99fce683591",
+        "syllogism": "所有三角形都不是三边形。 每一个等边三角形都是三角形。 因此，有些等边三角形不是三边形。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5e28ca3b-7365-4519-aefc-6b8ad8270ff6",
+        "syllogism": "有些鲨鱼是生物，但它们并不生活在水中。 所有的鲨鱼都是鱼类。 因此，可以得出结论：有些鱼类并不是生活在水中的生物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "90896290-4510-43fe-98a6-4a75e7d31150",
+        "syllogism": "大陆的集合与国家的集合是互不重叠的。 加拿大不是一个大陆。 因此，加拿大是一个国家。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bd43b96a-b4cd-4380-af60-6f6052586580",
+        "syllogism": "所有犀牛都是哺乳动物。 所有狮子都是哺乳动物。 有些狮子不是犀牛。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "731d69cf-0a9f-4ba4-b7b2-061858bb0c03",
+        "syllogism": "没有既是贵宾犬又是猫的动物。 所有贵宾犬都是狗。 因此，没有狗是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0f476f71-6f8c-4780-8ce3-1f00300227e1",
+        "syllogism": "所有既是家具又是椅子的物品都是由液体制成的。 所有长凳都是椅子。 因此，所有长凳都是由液体制成的家具。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1e6eb831-90f8-44bc-9af7-cf906db517a2",
+        "syllogism": "所有的鲨鱼都是水生生物。 一些鲨鱼属于鱼类。 因此，一些鱼类是水生生物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4f301646-128a-4478-96f3-94ddd9ba282d",
+        "syllogism": "有些动物不是哺乳动物。 所有狗都是哺乳动物。 因此，所有狗都是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b038f6a1-7259-4ddd-b549-c24e7b799cf8",
+        "syllogism": "所有陆地动物都不是鲸鱼。 有些鲸鱼被认为是生活在海洋中的动物。 确实有一些生活在海洋中的动物不是陆地动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "df0aff5c-b274-4b95-9734-fff4407e5a63",
+        "syllogism": "所有正方形都有四条等长的边。 任何具有四条等长边的物体都有四条边。 这意味着所有正方形都有四条边。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e1f5938b-bf0b-4cfe-8b2a-8b83c91dcbb1",
+        "syllogism": "所有汤匙都是餐具。 长颈鹿不能被视为餐具。 可以说有些长颈鹿不是汤匙。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "338b8556-2613-4481-a5d3-01653a6d9e69",
+        "syllogism": "有些领导者是政治家。 所有政治家都是人类。 因此，一些人类是领导者。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6bb8be4b-69eb-4f96-8612-09547807c00b",
+        "syllogism": "所有猫都是有三只眼睛的生物。 每个小猫都是猫。 这意味着每个小猫都有三只眼睛。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "dfc65c12-102b-4777-9479-e942e4f0449b",
+        "syllogism": "所有爬行动物都是动物。 一部分动物是蛇。 因此，并非所有蛇都是爬行动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "974fa1fe-accf-472a-80fc-1d65f12ffdd6",
+        "syllogism": "每一只猫都是动物。 所有被称为狗的东西都是动物，毫无例外。 每一只狗都是猫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8ef5d7a4-e986-4fc4-99fa-4c74fc40e7fe",
+        "syllogism": "没有鱼是哺乳动物。 狮子不被视为鱼。 有些狮子不是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7a442090-27f1-4565-b453-2183e6a605ea",
+        "syllogism": "所有医生都是专业人士。 所有工程师都是专业人士。 有些工程师不是医生。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0392a395-81cd-404c-bb1e-e16c0180b9d8",
+        "syllogism": "所有苹果都是水果。 水果都不是蔬菜。 因此可以得出结论：蔬菜都不是苹果。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7c1ad437-c35c-456c-a34c-087eec67ee7a",
+        "syllogism": "没有偶数和词语的交集。 所有词语都是能被二整除的数。 因此，有些能被二整除的数不是偶数。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f351b1ff-84fb-47d7-9035-e009d5d5a987",
+        "syllogism": "所有企鹅都是生物。 有些生物不是鸟类。 因此，有些鸟类不是企鹅。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6fd2b434-4215-415b-9e9b-5cf25fdc219f",
+        "syllogism": "所有昆虫都有六条腿。 所有蜘蛛都是昆虫。 没有蜘蛛是没有六条腿的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ce270103-67cc-4d82-a87e-901a04837037",
+        "syllogism": "人类绝非动物。 凡人类都是哺乳动物。 有些哺乳动物不是动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a931aae3-a242-418c-9a4a-4940e4abe241",
+        "syllogism": "第一前提：所有的铅笔都不是钢笔。 第二前提：有些铅笔也是文具。 结论：因此可以得出，有些文具不是钢笔。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "2219408c-9372-4018-a741-45e971e04512",
+        "syllogism": "没有鱼是哺乳动物。 没有哺乳动物是鸟类，毫无例外。 这表明没有鸟类是鱼类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4b4d8668-e0ae-4785-bcc5-bdd2eaa02eeb",
+        "syllogism": "没有蔬菜是水果。 同样，没有矿物是蔬菜。 由此可以推断出有些矿物是水果。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "67821bb9-63a7-4517-a335-8cd6d735ad81",
+        "syllogism": "所有汽车都不是飞机。 没有车辆是汽车。 因此，所有车辆都是飞机。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f487c925-ab9d-43a0-9139-1a598deacc51",
+        "syllogism": "没有蔬菜是苹果。 一些苹果是红果。 不是所有红果都是蔬菜。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f243d632-c0c2-487b-8e12-1c35bdc7c321",
+        "syllogism": "所有飞机都是云。 确实，所有鸟类都是云。 这意味着每只鸟都是一架飞机。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8fdb598b-6ead-4c42-8de3-b075661b2942",
+        "syllogism": "所有铅笔都是书写工具。 所有橡皮都不是书写工具。 至少有一个橡皮不是铅笔。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b1817bad-3418-463a-8bef-82d34ee31dfd",
+        "syllogism": "正方形不能是圆。 存在一些既是正方形又是多边形的形状。 由此我们可以确定，有些多边形不是圆。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8da50b76-04db-4f6c-b820-de5f57498334",
+        "syllogism": "所有演员都是表演者。 有些男人是演员。 因此，可以得出结论：有些男人是表演者。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8c994dd2-d609-47b8-b002-c10f92225451",
+        "syllogism": "所有狗都是哺乳动物。 所有哺乳动物都是鸟类。 因此，所有鸟类都是狗。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f6b3b0ad-76d8-4628-94d1-1a7aedb82cb5",
+        "syllogism": "没有三角形是正方形。 所有三角形都是多边形。 有些多边形不是正方形。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b2e875c8-2a19-4aab-a7d0-b5116bde9dc6",
+        "syllogism": "有些生物是哺乳动物，同时也是动物。 在老虎这一类生物中，有些是动物。 因此，至少有些老虎不是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a1bcb9af-88de-40c2-aaf3-55ee03a1ba1b",
+        "syllogism": "没有动物是植物。 至少有一棵树是植物。 至少有一棵树不是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "164f7e16-7ac9-4774-a7c7-c2cbef298b62",
+        "syllogism": "所有的猫都是动物的一种。 一些猫是哺乳动物。 因此，有些哺乳动物是动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e125f054-b5b7-4eba-b1a9-b942cbe8f552",
+        "syllogism": "并非所有蔬菜都是食物。 所有蔬菜都是披萨。 因此，有些披萨不是食物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2cd1f13b-eb67-42b7-a345-da72e5fb4d80",
+        "syllogism": "有些哺乳动物是狗。 有些猫是哺乳动物。 猫绝不是狗。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ab8d4f5a-c4f4-4d1d-afea-b973c560be29",
+        "syllogism": "没有既是哺乳动物又是爬行动物的生物。 人类这一类包含属于爬行动物的成员。 因此，有些人类不是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "299b601b-795b-47fa-8fae-2bee0a555b0e",
+        "syllogism": "没有书是建筑。 有些纸质的东西是书。 因此可以得出结论：有些建筑是由纸制成的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "187124ed-e532-46c1-846e-4e88789f621c",
+        "syllogism": "所有胡萝卜都是水果。 没有一种香蕉是胡萝卜。 这意味着没有香蕉是水果。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4510d170-3c4e-455b-a819-2c2e88fe1655",
+        "syllogism": "所有爬行动物都是生物。 动物集合中没有任何生物。 没有任何爬行动物是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c648392e-e91c-4046-97fc-4acb588a0a42",
+        "syllogism": "所有猪都能飞。 有些农场动物是猪。 因此，有些农场动物能飞。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "beb1df32-1d8c-40eb-a481-d08752c30625",
+        "syllogism": "生物的集合是有鳃动物的子集。 至少有一条鱼不是有鳃动物。 并非所有鱼都是生物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6650eef5-2045-4ee2-8fe1-a3036d54c6b6",
+        "syllogism": "第一前提：所有医生都不是老师。 第二前提：所有老师都是职业。 因此，有些职业不是医生。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "29f55c62-ba5d-437a-b1f6-0fe84b021678",
+        "syllogism": "前提一：有些运动是团队运动。 前提二：所有被认定为运动的事物都是休闲活动。 结论：因此，有些休闲活动是团队运动。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6a1a94e0-943a-400b-a1d9-3d5810d3f215",
+        "syllogism": "所有圆都不是正方形。 所有正方形都不是三角形。 因此，所有三角形都必须是圆。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a6cae303-c3b4-47e8-9d24-684efce69c15",
+        "syllogism": "所有作为动物的人都是生物。 没有任何建筑物是动物。 因此，建筑物都不是生物，这一结论是不可回避的。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e3e1b6fb-ddf8-452d-8990-3efd9f006a28",
+        "syllogism": "所有正方形都是四边形。 三角形绝不可能是四边形。 事实是没有三角形是正方形。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f5d61309-4d28-4e37-a062-8bc81f17ff93",
+        "syllogism": "有些首都受到污染。 所有首都按定义都是城市。 因此可以得出结论：有些城市受到污染。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e79947da-dcf7-459b-8d64-417bd24ace94",
+        "syllogism": "没有任何一辆机动车是自行车。 同样，没有任何一辆机动车是汽车。 因此，没有一辆汽车是自行车。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3576315f-5476-4468-8a99-94e2afb295f1",
+        "syllogism": "任何勺子都是餐具的一种。 没有餐具是书。 因此，有些书不是勺子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "81346be1-76d7-4051-b57c-05f0145dcd9c",
+        "syllogism": "能够呼吸氧气的生物与岩石之间没有交集。 所有岩石都是动物。 有些动物不是能够呼吸氧气的生物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f2b6985a-8b9d-47a2-8707-5e50b8348639",
+        "syllogism": "所有的树都不是灌木。 已知有些橡树是树。 因此，有些橡树不是灌木。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "166ef094-68ea-4c29-88fb-a7ae68694ba2",
+        "syllogism": "有些属于爬行动物的动物不是两栖动物。 已知鳄鱼中的一部分是爬行动物。 由此可以推断出，有些鳄鱼不是两栖动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8d571f6e-3af0-4428-b572-365fbc4f139d",
+        "syllogism": "所有狗都不是哺乳动物。 在所有狗中，有一部分是寻回犬。 因此可以推断出，有些寻回犬不是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1825a5b1-ce1d-4b0c-a925-c4e37c0c7a8a",
+        "syllogism": "没有任何树是绿色的。 没有任何车是树。 因此，没有任何车是绿色的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a5b70f2f-0463-40e2-a48a-1806106578ad",
+        "syllogism": "确实，没有猫是狗。 有些人不是狗。 因此，有些人不是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ede020f2-2276-4afd-a95d-912b5064d0b2",
+        "syllogism": "没有一种哺乳动物是鱼类。 至少存在一个既是哺乳动物又是海豚的生物。 这证明至少有一个海豚不是鱼类。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "47a4ad18-32f0-4dfd-a80a-e74b7a6c5e0b",
+        "syllogism": "所有植物都不是树。 一些松树属于植物。 因此，有些松树不是树。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "89cab2a7-6be0-43c5-9000-d6e5160a2ede",
+        "syllogism": "所有汽车都是车辆。 一些机动车也是车辆。 因此，有些机动车不是汽车。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "53a60516-2faa-44ff-bf3b-bafc0c977589",
+        "syllogism": "没有桌子是书桌。 书桌绝不是椅子。 因此，我们可以得出结论：没有椅子是桌子。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "45ff036a-75a0-4f0f-bad0-4ed93ea7046b",
+        "syllogism": "所有的鱼都是鸟。 没有鸟是水生的。 因此，没有水生的东西是鱼。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f15e7b0d-2dab-45f1-b6cf-7d62415c7119",
+        "syllogism": "没有电脑是笔记本电脑。 没有桌子是电脑。 由此可以得出结论：有些桌子是笔记本电脑。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "60fe7ed8-873b-4fb0-ac87-1dc330032a3a",
+        "syllogism": "没有鸟类是昆虫。 没有飞虫是鸟类。 因此，有些飞虫是昆虫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8040b38f-9c99-420a-b661-c0897591b31b",
+        "syllogism": "所有液体都不是固体。 没有水是液体。 因此，每一滴水都是固体。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "72fa74c7-77a1-492e-b3ca-50f86c8c0ae4",
+        "syllogism": "所有餐具都是家具。 没有餐具是汤匙。 有些餐具不是汤匙。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "e977d9ed-ced8-4eee-a678-f1fe41b23b05",
+        "syllogism": "所有冷血动物都不是爬行动物。 有些蛇是冷血动物。 因此，有些蛇不是爬行动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "baeb9911-e69d-433c-9934-36988fdc2f53",
+        "syllogism": "没有鸟类是爬行动物。 企鹅群体中的一部分是鸟类。 因此，有些企鹅被排除在爬行动物群体之外。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f4795f98-61d3-4194-87d9-6aa2ba5e4d92",
+        "syllogism": "所有鱼都是生物。 所有猫都是生物。 因此，所有猫都是鱼。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "bcaacbd3-c582-4316-bc1c-327a00965f63",
+        "syllogism": "每一朵云都是交通工具。 没有云是公交车。 因此，没有公交车是交通工具。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a0b75805-fa2b-44f3-b9f5-b08dcb9b0033",
+        "syllogism": "纸制品并不是由纸制成的。 每一本书都是纸制品。 因此，没有一本书是由纸制成的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0088d914-814d-4abd-8924-b4191edca9b8",
+        "syllogism": "有些椅子是人。 所有人都是生物。 因此，有些生物是椅子。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "22a7186f-60ee-4566-8853-3f3f07b652b3",
+        "syllogism": "没有会飞的动物是鸟类。 一些麻雀是会飞的动物。 因此，并非所有麻雀都是鸟类。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "020fa6a9-78fa-42d2-987a-7aa9c21ed5ff",
+        "syllogism": "有些聪明的人是物理学家。 所有物理学家都是科学家。 因此，每个科学家都是聪明的人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "745662c5-c85b-4940-83fe-cea6bd5be051",
+        "syllogism": "所有的人都是灵长类动物。 所有鲸鱼都是哺乳动物。 没有鲸鱼是人类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fdd91c7e-cceb-4813-898c-9dd9159f5305",
+        "syllogism": "所有石头都是柔软的。 每颗钻石都是石头。 一些钻石是柔软的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "44dc4bd3-0d89-4d86-94f8-775692c4125c",
+        "syllogism": "所有护士都是医疗专业人员。 没有一个教师是医疗专业人员。 教师群体中的一部分不是护士。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "dfb8a20d-5172-4950-98fd-88c8ab747b08",
+        "syllogism": "凡是被称为音乐家的，也都是艺术家。 一部分艺术家是画家。 某些画家不是音乐家。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1600dc48-793c-41d2-a799-317b09a81c7e",
+        "syllogism": "每一个整数都能被二整除。 所有整数都是偶数。 由此可以得出，有些偶数不能被二整除。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5f8e74b8-1b0c-4ecd-aafc-80e050524be1",
+        "syllogism": "鸟类和哺乳动物这两个群体没有交集。 任何哺乳动物都是昆虫。 确实有一些昆虫属于鸟类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "851af011-a610-4890-bef7-fc9865d28ebe",
+        "syllogism": "第一前提：每个数字都是一个概念。 第二前提：有些质数不是概念。 结论：因此，有些质数不是数字。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f21a4aa3-4c4f-4f0c-a5be-28553f28a383",
+        "syllogism": "所有汽车都是车辆。 没有车辆是自行车。 因此，没有自行车是汽车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d7f88cf8-7e75-4e88-a1e5-4f8ee0f7df4f",
+        "syllogism": "所有人类都是蔬菜。 没有任何蔬菜可以被归类为教师。 因此，必须有一些教师不是人。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "290712e0-73c5-4144-af4e-1ffca0c6ed18",
+        "syllogism": "没有任何机器是动物。 已知部分汽车是机器。 因此，有些汽车是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0b331eee-6e74-4e26-a85f-6d5eba71cf31",
+        "syllogism": "有些石头是吉他。 每一个吉他都是乐器。 因此，有些乐器是石头。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8723ea49-3989-4559-86ee-efe1fbd90384",
+        "syllogism": "没有鸟类是鱼类。 有些鹦鹉是鸟类。 因此，没有鹦鹉是鱼类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3f27ae02-9e64-4c34-96d4-4e241a1c356c",
+        "syllogism": "第一前提：所有可以称为猫的物品都不是狗。 第二前提：存在一些宠物是狗。 结论：因此，我们必须得出结论：有些宠物不是猫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "96c9e18a-0d96-46ed-8234-5d369c2ba459",
+        "syllogism": "确实没有鱼是游泳者。 有鱼，而且其中一些是金枪鱼。 因此，一些金枪鱼不是游泳者。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1e137e72-636d-4cc6-9547-2266ee83ed53",
+        "syllogism": "没有既是卫星又是行星的天体。 所有行星都是天体。 有些天体不是卫星。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5207dc42-0a3f-40d0-b022-43b3864dc8b1",
+        "syllogism": "每一颗恒星都是行星。 没有行星是太阳。 因此，可以得出一个合理的结论：有些太阳不是恒星。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ddb9db4b-c186-4ee3-a305-7fcf317b255d",
+        "syllogism": "所有男人都是人类。 每个男人都是凡人。 因此，所有凡人都是人类。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6a44409a-3040-47b0-8f76-a2eb6d8c27ab",
+        "syllogism": "所有专业人士都是成年人。 有些人不是专业人士。 因此可以推断出有些人不是成年人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "58b506bc-66d0-4871-b98a-265bcf54830f",
+        "syllogism": "鸟类绝非有翼生物。 不存在既是动物又是有翼生物的生物。 没有鸟类是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b3566155-2b25-4d18-8fdc-653f3c93ac19",
+        "syllogism": "所有动物都是哺乳动物。 没有狗是动物。 因此，没有狗是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4157f15c-b21e-4946-84cb-19be0df5f51f",
+        "syllogism": "所有飞行物都是有翅膀的生物。 所有大象也是有翅膀的生物。 这意味着所有大象都是飞行物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f7420d57-87e1-4e25-9dfd-9a2154f044ba",
+        "syllogism": "有些水果是自行车。 所有自行车都是交通工具。 因此，有些交通工具是水果。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "388a5385-6f40-43a8-b439-31f7de303b45",
+        "syllogism": "所有教师都是教育者。 学生不能成为教育者。 因此，每个学生都是教师。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cf153c16-caa8-4381-ba89-271ab817b327",
+        "syllogism": "智能手机是一种工具。 所有工具都是机器人。 因此，每个机器人都是智能手机。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e1f1def4-57f6-41e8-8e37-11c23329583c",
+        "syllogism": "有些建筑不是摩天大楼。 所有建筑都被视为结构。 因此可以确定，有些结构不是摩天大楼。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "550d9d17-634f-43b0-a389-f8faaead4a7a",
+        "syllogism": "没有鱼是哺乳动物。 只要是鲸鱼，就不是鱼。 因此，有些鲸鱼是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7249592f-7e6a-4976-9b19-10241d09dc6b",
+        "syllogism": "没有蛇是哺乳动物。 所有哺乳动物都是爬行动物。 因此可以得出结论：所有爬行动物都是蛇。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "073ed5ec-8986-46df-8f40-c331dd8de902",
+        "syllogism": "所有锤子都是工具。 没有钉子是锤子。 由此可以得出，所有钉子都是工具。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "995564e9-24da-47e6-9c8b-c5352eadc638",
+        "syllogism": "所有人类都是灵长类动物。 爬行动物这个类别不包含灵长类动物。 每一个爬行动物都是人类。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6ee9c1d0-989a-4ff4-a935-021d6e294533",
+        "syllogism": "所有太阳都是恒星。 所有恒星都是天体。 因此，可以得出结论：所有天体都是太阳。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f80d23ac-7850-4f7e-8d85-bcdcaf460d28",
+        "syllogism": "所有的鸟都是鱼。 鱼中没有麻雀。 这必然意味着有些麻雀不是鸟。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "777cdc8f-1a66-4ad2-bf27-633f430f0183",
+        "syllogism": "没有车辆是金属制成的。 所有汽车都是车辆。 因此，没有汽车是金属制成的。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "60e5025b-d3b4-4b3c-a306-6486cd5a5f22",
+        "syllogism": "所有正方形都是多边形。 已知没有圆是正方形。 有人提出，没有圆是多边形。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d3bb5775-efda-4bba-b4a7-c546af42cf33",
+        "syllogism": "所有昆虫都是由玻璃制成的生物。 所有蚂蚁都是昆虫。 因此，所有蚂蚁都是由玻璃制成的生物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "267512dd-01fb-4729-b167-a9df3f430683",
+        "syllogism": "所有猫都是脊椎动物。 有些鱼是脊椎动物。 因此，并非所有鱼都是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b62e49b6-12d4-47d9-87df-e7df1d978057",
+        "syllogism": "没有动物是岩石。 没有猫是岩石。 因此，有人认为没有猫是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "68943d30-671d-4073-9a96-ee59872b9843",
+        "syllogism": "不存在同时也是人类的机器。任何能被称为学生的事物，毫无例外都是人类。没有学生是机器。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "aea757a2-6727-4816-bcb7-1f0bdad9e4cc",
+        "syllogism": "有些生物是哺乳动物，但它们不是爬行动物。 所有哺乳动物都是动物。 由此可知，有些动物不是爬行动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1b1b97d3-969d-4921-9095-42863228cbab",
+        "syllogism": "所有哺乳动物都是恒温动物。 有些动物无疑属于哺乳动物。 因此，所有动物都是由木头构成的。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "96b67dc0-7b49-45dd-9435-5e34c73a408d",
+        "syllogism": "任何车辆都不能飞。 每一架飞机都是车辆。 因此，没有飞机能飞。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "13f2e9a6-8df5-459d-987d-2348f712aadc",
+        "syllogism": "有些神话生物是半人马。 所有半人马都是家畜。 因此，有些家畜是神话生物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "42ac3db3-2da4-4208-9db9-9affc3d18dc4",
+        "syllogism": "第一前提：有些树不是橡树。 第二前提：所有树都是植物。 结论：因此，有些植物不是橡树。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "2e96d73d-cbad-4b86-b8d5-f02334bed473",
+        "syllogism": "在属于狗的物品中，有些是哺乳动物。 有些宠物是哺乳动物。 因此，我们必须得出结论：有些宠物不是狗。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0845a009-1b8b-4727-9c20-7f46b8416612",
+        "syllogism": "有些生物是动物但不是脊椎动物。 所有猫都是脊椎动物。 因此可以得出结论：有些猫是动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9ee02b68-eddc-44c9-855a-103d63c9b241",
+        "syllogism": "所有猫科动物都是猫。 所有哺乳动物都是猫。 因此，存在哺乳动物是猫科动物。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "963d5e8c-7bbc-4b94-9e38-bba3f6e14854",
+        "syllogism": "没有鸟类是昆虫。 所有麻雀都是鸟类。 因此，有些麻雀不是昆虫。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c5035d70-ed49-4e5f-b18b-611693942991",
+        "syllogism": "确实，所有的鱼都生活在树上。 有些海鲈鱼不生活在树上。 因此必然得出有些海鲈鱼不是鱼。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "38d3e6e5-e550-4d91-8d3c-c79d2f803f12",
+        "syllogism": "没有一本书既是小说又是非小说的。 每一本小说都是故事。 因此，有些故事不是非小说。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "715d4b07-8fea-458e-9a03-b127a0a18ea5",
+        "syllogism": "没有一辆汽车是两轮车。 所有自行车都是两轮车。 这证明了一些自行车不是汽车。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ac9700ee-cf8e-428b-9f4a-88a7a21a73bf",
+        "syllogism": "所有猫都是动物。 有一些狗是动物。 由此可以得出，每只狗都是猫。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a9d0a8e8-8892-47e4-8b25-85d1bb1394dc",
+        "syllogism": "所有冷藏的饮料都是冷的。 有些软饮料是冷藏的饮料。 因此，有些软饮料是冷的。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "484629f1-3062-4086-b455-4892eb08d4e6",
+        "syllogism": "没有水果是西兰花。 所有西兰花都是蔬菜。 蔬菜的一个子集不是水果。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "942fb93d-8fcc-478a-a1b7-d1bb4610c661",
+        "syllogism": "有些教授不是讲师。 所有教授都是学者。 因此，可以得出结论：有些学者不是讲师。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6482e79d-72f3-4f68-9f0b-756c4324cf4a",
+        "syllogism": "所有哺乳动物都是生物。 每只狗都是生物。 这意味着每只狗都是哺乳动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "02f9e80f-e3ec-49b8-99e8-a0153091e603",
+        "syllogism": "所有动物都不是非生物。 有些哺乳动物不是非生物。 因此，有些哺乳动物不是动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fe103879-a542-4b78-b39f-5b3c3969a5a8",
+        "syllogism": "正方形不能成为形状。 存在既是正方形又是矩形的形状。 因此必然推出矩形的一个子集不是形状。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2b14c9c4-7150-4fcc-afdf-274eefa46c96",
+        "syllogism": "没有勺子是叉子。 所有汤勺都是勺子。 因此，有些汤勺不是叉子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "51e6e1c1-ce40-415c-b2ac-753b7f19d3c3",
+        "syllogism": "锤子是工具类物品。 手套不是工具。 因此可以得出结论：手套不是锤子。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d1335273-381d-48fd-b681-e32114f7cf90",
+        "syllogism": "所有三角形都是多边形。 没有线是多边形。 因此，有些线不是三角形。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "31dad269-5af0-4f1d-9a02-947fd1150eeb",
+        "syllogism": "所有哺乳动物都是生物。 有些动物是斑马。 因此，每一只斑马都是生物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "83ac1ca9-a215-43a1-98b6-0c65af285baf",
+        "syllogism": "所有壁虎都是蜥蜴的一种。 一些壁虎也是爬行动物。 因此，有些爬行动物是蜥蜴。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8ef93cb4-e88e-47aa-86a0-2ed732f20a99",
+        "syllogism": "所有的狗都是哺乳动物。 哺乳动物中的一部分可以被归类为会吠叫的动物。 会吠叫的动物中有一些不是狗。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "490459ce-a63c-4b9c-952f-4f2600c080c1",
+        "syllogism": "每个人都是人。 一些女人是人。 因此，一些女人是人。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e30b1f83-a4c3-49cb-8aaf-5f64208c625b",
+        "syllogism": "所有行星都是天体。 所有太阳都是天体。 至少有一个太阳是行星。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e1d85847-da07-45e8-aae3-34ee3008c4b7",
+        "syllogism": "所有哺乳动物都是动物。 没有一个狗是动物。 因此，没有狗是哺乳动物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "187905fc-878d-4ac2-bdd6-638daa9818f8",
+        "syllogism": "所有猫都是猫科动物。 所有老虎都是猫科动物。 因此，所有老虎都不是猫。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "98fda6b1-7e7b-48ea-9307-e27dfba67bb2",
+        "syllogism": "所有狗都是动物。 没有猫科动物是犬科动物。 没有猫是狗。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "99c889f6-dd98-4b0d-9fa3-2f6612880fdb",
+        "syllogism": "有些水生动物可以被视为鱼。 没有任何一个人类是水生动物。 因此，没有人是鱼。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "96d7a4e1-391c-4286-a7ca-7fbf1576366e",
+        "syllogism": "有些哺乳动物有毛发。 有些爬行动物有毛发。 因此，一些爬行动物是哺乳动物。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "da09f353-9c5e-46fb-a804-3be6a4cf003e",
+        "syllogism": "有些律师是神话生物。 所有律师都是政客。 因此，有些政客是神话生物。",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ece7ce41-fb69-40a6-b3ea-c01d505e35ae",
+        "syllogism": "事实是，每只狗都是生物。 同样，所有猫都是生物。 因此，有人断言每只猫都是狗。",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b626e3e8-f26b-4503-b6b8-a52f059f3906",
+        "syllogism": "有些动物不是哺乳动物。 有些狗是哺乳动物。 因此，所有狗都可以称为动物。",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ad3f9d03-8ff5-4351-be16-ff960693bd50",
+        "syllogism": "所有职业厨师都是会做饭的人。 部分职业厨师是主厨。 因此，有些主厨是会做饭的人。",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1677a357-b1cb-40ad-adce-909007c0bca3",
+        "syllogism": "所有厨房都是房间。 所有厨房都是烹饪场所。 这表明有些烹饪场所是房间。",
+        "validity": true,
+        "plausibility": true
+    }
+]
