@@ -20,12 +20,9 @@ This project implements a neuro-symbolic teacher-student framework for syllogist
 
 ## 📊 Results
 
-| Model | Subtask | Score | Accuracy | TCE |
-|-------|---------|-------|----------|-----|
-| Qwen-3 14B (Dataset 2) | 1 | 39.81 | 96.86% | — |
-| Qwen-3 14B (Dataset 2) | 3 | 26.02 | 91.67% | 11.46 |
+Results will be updated after training completes.
 
-*See [Paper](paper.pdf) for full results and error analysis.*
+*See [Paper](paper.pdf) for the full experimental details and findings.*
 
 ---
 
