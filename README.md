@@ -1,4 +1,4 @@
-# SemEval 2026 Task 11 — LLaMAX3-8B + LoRA for Syllogistic Reasoning
+# Sylloscope at SemEval-2026 Task 11: Decoupling Logic from Belief via DeepSeek-Enhanced Distillation in Qwen Models
 
 LoRA adapters on top of LLaMAX3-8B for syllogistic validity classification and content-effect evaluation. Includes zero-shot training (best accuracy with few-shot inference) and few-shot training (best ranking score with low content effect).
 
@@ -236,40 +236,6 @@ setenv WANDB_API_KEY "YOUR_WANDB_KEY"
 source lora_env/bin/activate.csh
 
 python scripts/train_lora_fewshot.py
-
-## Habrok Evaluation Example
-**Login to Habrok:**
-
-    ssh snumber@login1.hb.hpc.rug.nl
-
-**Start an Interactive GPU Job:**
-
-    srun --nodes=1 --ntasks=1 --partition=gpushort --mem=120G --time=04:00:00 --gres=gpu:a100:1 --pty bash
-
-**Load Modules:**
-
-    module load Python/3.11.5-GCCcore-13.2.0 CUDA/12.1.1
-
-**Create & Activate Virtual Environment:**
-
-Create (only once)
-
-    python3 -m venv .env
-Activate
-
-    source .env/bin/activate
-
-**Install Dependencies:**
-
-    pip install torch transformers peft pandas tqdm numpy accelerate
-
-**Run generate_predictions.py and evaluation_script.py (with command line arguments):**
-
-    python generate_predictions.py 
-    python evaluation_script.py
-
-
-
 
 ## License
 Apache-2.0. Adapters inherit compatibility with the base model license.
