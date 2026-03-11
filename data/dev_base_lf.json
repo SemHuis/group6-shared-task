@@ -1,0 +1,1250 @@
+[
+    {
+        "id": "0a6a2c61-1d0e-47a6-8faa-5a5086a59dc9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single tree is a plant. There exist no stones which are also plants. There is at least one stone which is not a tree."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "3210a16c-a687-4030-8697-bb2214492501",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: No cities are countries. All things that are a city named London are cities. It is necessarily true that some cities named London are not countries."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "b67cba63-9ae7-4878-a8a7-f7e663f58bcc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: A car is never an airplane. It is also the case that no boat is an airplane. Consequently, all boats are cars."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "581cfd7a-fb09-42f9-8759-d28809d96a4c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a plane is a vehicle. There is nothing that is an item of furniture which is a plane. Consequently, no piece of furniture is a vehicle."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "3385a56c-c169-4cea-ab4b-5a48ed4980d1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There exist some birds that are fish. A number of sharks are fish. It follows, then, that some sharks are birds."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "92c0d24f-2d6f-492e-b5c9-693b39835a52",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is not true that any insect is a bird. All airplains are, without exception, birds. This means that every airplain is an insect."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "3adadf58-1822-4358-a40b-b7c4ca7f9afa",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There is no overlap between the category of vegetables and the category of fruits. Anything that is an apple is, by definition, a fruit. Apples and vegetables are two separate categories."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "49eaeadb-ba70-4eca-be9a-3aaa24144cee",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is not true that any vehicle is a bicycle. There are a few bicycles that are also automobiles. There are some automobiles that are not vehicles."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "39ef54c3-ec74-44c7-88ae-308fb8f33f9c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Nothing that is a mammal has feathers. A portion of the things that are birds have feathers. It must be the case that every single bird is not a mammal."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "b15f5ad1-2553-4a6f-95bd-07e4329ac851",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that some students are athletes. There are some tall people which are athletes. It logically follows that some tall people are not students."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "3e50a21d-a81c-4c71-82b5-4c5a94dcd47c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is not true that any car is a train. There are a few trains that are also types of transportation. There are some types of transportation that are not cars."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "9117126d-5160-40c0-81c1-3f784d8f8cef",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Everything that is a fish is a vertebrate. A portion of vertebrates are sharks. A subset of sharks are fish."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "f093ca09-2dbe-4258-a4f4-28823d3eaefb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a bird is an animal. Everything that is a zebra is an animal. All birds are zebras."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "8723ea49-3989-4559-86ee-efe1fbd90384",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no birds that are fish. It is the case that some parrots are birds. We can conclude that no parrots are fish."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "3a99d768-f046-4aff-a9fd-78b6abed373a",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There is no plant that is a rock. Some of the rocks are flowers. Therefore, some flowers are not plants."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "42ac3db3-2da4-4208-9db9-9affc3d18dc4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that some things that are trees are not oaks. Everything that is a tree is a plant. It follows that there are some plants that are not oaks."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "f8530683-a0a0-4237-ade3-f1a3db5048d7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Plants are in no way living things. Everything that is a plant is an organism. It's the case that some organisms are not living things."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "67f51404-e5be-4394-ae67-b7fef1dddf8b",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Written works are in no way items with printed pages. Everything that is a book is an item with printed pages. Books are not written works."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "4a21a53f-3e8b-46ca-b904-9e8eaf8a638f",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a mammal is an animal. Every single dog is an animal. This means that all dogs are mammals."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "98252dfa-fc4f-4882-b126-5929bce03dad",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There is not a single item that is a car and also a truck. A subset of vehicles consists of trucks. It can be deduced that some vehicles are not cars."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "58415d94-edbc-4d45-8c14-128c99bb2da5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every human is a being that has eyes. It is the case that no dog is a human. At least some dogs have eyes."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "6bb8be4b-69eb-4f96-8612-09547807c00b",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a cat is a creature with three eyes. Every single kitten is a cat. This means that every kitten has three eyes."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "671be363-8174-498e-959c-5aa930502041",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that everything that is an elephant is a mammal. It is also true that no fish are elephants. Thus, it is concluded that no fish are mammals."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "57cefbea-6a5e-4b24-b537-007d1837b288",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: A few large predators are insects. Every single insect is a tiny creature. It logically follows that some tiny creatures are large predators."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "b57336bd-25d5-4f2a-8edc-ecc25544f64c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no items that are both felines and cats. The category of tigers contains some members that are cats. It must be the case that some tigers are not felines."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "f11aecef-3e59-473a-b84d-c2cc26525774",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single person is a human. Anything that is a human is a husband. Consequently, it follows that all husbands are people."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "a0b75805-fa2b-44f3-b9f5-b08dcb9b0033",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is not the case that a paper good is made of paper. Each and every book is a paper good. It logically follows that no books are made of paper."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "2351a576-f65f-4566-b885-6dfc14525c09",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no reptiles that are humans. It is also true that no ant is a reptile. It follows that no ant is a human."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "8c136b17-300a-4f32-85bb-6853fcdd0a01",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are some cars that are not a liquid. There are no bicycles that are cars. Consequently, there are no bicycles which are liquid."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "47f1b584-9689-4744-a190-7112a13c9cb2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are some reptile that are animals. Every single snake is a reptile. It is therefore the case that all snakes are animals."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "bd43b96a-b4cd-4380-af60-6f6052586580",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single rhino is a mammal. Every single lion is a mammal. It is the case that some lions are not rhinos."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "4e129e3f-4ae0-41ba-9321-a04e949f6eb6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are some tables that are happiness. Anything that is happiness is an emotion. Consequently, some emotions are tables."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "338b8556-2613-4481-a5d3-01653a6d9e69",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are certain leaders who are politicians. All of those who are politicians are also human beings. Hence, a group of human beings are leaders."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "3f047c98-7589-4e41-8055-1f023c4d9707",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no footwear items that are clothing. Every shoe is a type of footwear. It can be concluded that no shoe is clothing."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "4174bbf2-1f54-4ae3-a5e9-cefac102ed46",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no animals that do not live on land. It is the case that no fish is an animal. At least some fish live on land."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "634576cd-c53e-4b24-902a-97f9f6017d81",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is not true that any dog is an animal. Nothing that is a mammal is a dog. This leads to the conclusion that no mammal is an animal."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "4780354b-3991-4ce8-9981-23d4f3030141",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no stones that are alive. There are no trees that are stones. Therefore, no trees are alive."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "5207dc42-0a3f-40d0-b022-43b3864dc8b1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single star is a planet. No planets are suns. It is therefore a sound deduction that some suns are not stars."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "759f4e1f-e7b9-4d07-aefb-e62155c300d3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are some voters who are citizens. Not a single foreigner is a citizen. Therefore, no foreigner is a voter."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "349c7b91-ee3d-4f96-af31-4d00249e65cc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is the case that no cats are dogs. It is also true that no birds are cats. Thus, it can be concluded that some birds are dogs."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "69b3cfc6-9b74-4553-a6b6-6fbed67e9eba",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no animals that fly which are also fish. Every creature that is a bird is also a flying animal. As a consequence, there is not a single bird that is a fish."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "a6990bc2-71c7-4745-a1b3-959943fad22c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every person who is a primate is a mammal. All humans are mammals. Consequently, every single human is a primate."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "f96c05f3-3cc5-465b-a17d-3b7d30e5607e",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single building is made of candy. There are no houses that are not buildings. A certain number of houses are made of candy."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "2bf18e1f-3d35-4725-a6a0-73bcf655c976",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: The class of birds and the class of cars do not overlap. The entire set of cars is composed of sparrows. It is a logical consequence that some sparrows are not birds."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "d391cce1-9ad3-4ef0-8549-6f19e2d96d90",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is the case that every single book weighs a ton. A portion of novels are books. Consequently, some novels weigh a ton."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "e4494df1-2233-4972-bb0c-0df36d3a45d9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single rose is a plant. It is true that all flowers are plants. From this, it is stated that some flowers are roses."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "25865228-432c-496c-997a-304fdb99a0c3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything which is a doctor is also a person. There exist some surgeons who are doctors. This means that some people are surgeons."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "fe124870-b0cd-4e46-a5f5-67bd5447463a",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Some of the mammals are carnivores. Every single carnivore is an animal. It is the case that some animals are mammals."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "f37a0e86-98bb-459b-8d6d-60b3455de955",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Any and all humans are mortal. It is a known fact that all humans are primates. Thus, every single primate is mortal."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "dc79b4b7-8f59-43b5-8414-6c5cb46e94c7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single liquid is wet. All solids are also wet. Therefore, nothing that is a solid is not a liquid."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "1f010b69-61c4-4d5b-8cca-ea37c60a9bf6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no liquids that are not solid. Anything that is water is a liquid. At least one quantity of water is solid."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "851af011-a610-4890-bef7-fc9865d28ebe",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that every single number is a concept. There are some prime numbers which are not concepts. It must follow that some prime numbers are not numbers."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "9ee02b68-eddc-44c9-855a-103d63c9b241",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single feline is a cat. Every single mammal is a cat. Therefore, there are mammals that are felines."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "5caaa82f-e106-47af-a5ec-f5a195e341d1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every creature that is a human is an academic. All professors are academics. This leads to the conclusion that there are some professors who are not humans."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "5837618c-ebb9-414e-b085-208c1437a3fc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: None of the things that are shrubs are plants over 20 feet tall. Anything that belongs to the class of trees is a plant over 20 feet tall. Trees and shrubs do not belong to the same group."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "d225ab47-ffe9-454b-bb41-4915c4214497",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a fish swims. It is the case that no dog is a fish. This implies that some dogs swim."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "2219408c-9372-4018-a741-45e971e04512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There is no fish that is a mammal. No mammals are birds whatsoever. This implies that no bird is a fish."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "57178844-d267-4d84-90ea-d2a29f973cda",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: No star is a meteor. Meteors are, without exception, planets. A number of planets are stars."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "e630eecd-f2e5-40b2-8417-3d88982377a5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: None of the items that are carrots are bell peppers. There are vegetables that are bell peppers. It is correct to infer that some vegetables are not carrots."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "96d7a4e1-391c-4286-a7ca-7fbf1576366e",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There exist some mammals that have fur. There are some reptiles which have fur. Consequently, a number of reptiles are mammals."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "e1f1def4-57f6-41e8-8e37-11c23329583c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are some buildings that are not skyscrapers. All buildings are considered structures. It is therefore true that some structures are not skyscrapers."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "e11356eb-8b5e-43cf-9a95-539dd813e106",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: All items that are phones are electronic devices. None of the electronic devices are foods. Therefore, no food is a phone."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "70ae91e5-486a-46d0-8c37-66d67c1b5e18",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: The category of fish is a subset of the category of animals. All animals that are dogs are also animals. Nothing that is a dog is a fish."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "7b01a111-ae3b-4cf5-85ea-31dfe1da204c",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is the case that every single stone is a cloud. Anything that is a cloud is an animal. Therefore, a few animals are stones."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "f4e0bda0-00ec-4938-acd5-21d3cc260e58",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every fish is a creature that is an amphibian. Without exception, all sharks are fish. Therefore, it is certain that every shark is an amphibian."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "d93e9241-f9bc-43f7-b482-b395b21e086b",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that no birds are fish. It is also true that no fish are plants. Therefore, no plants are birds."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "beb1df32-1d8c-40eb-a481-d08752c30625",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: The set of living beings is a subset of the set of animals with gills. At least one fish is not an animal with gills. Not every fish is a living being."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "f365e4e6-b827-4b74-b09a-e386043f0e89",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that everything that is a dog is an animal. It is also true that no mammals are dogs. Thus, it is concluded that no mammals are animals."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "a9e0e8bb-07cb-4153-bfc7-cb4428463fc7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Gold is always classified as a metal. Nothing that is a plastic is a metal. Therefore, no plastic is gold."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "1ddf5f37-b195-43ff-a681-6bbf256e74e0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There is a person who is both a politician and a lawyer. The group of senators includes people who are lawyers. The consequence is that some senators are politicians."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "d6419856-fddb-4f1b-b11a-9121c08dd577",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that anything that is a rose is a flower. Every single flower is a plant. Therefore, it is a fact that some plants are roses."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "6b02110b-77c6-4547-a4ad-f874027d9bba",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that all newspapers are animals. There are some magazines that are not animals. Therefore, it is the case that some magazines are not newspapers."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "fe6f084b-7a46-4d5f-a2f9-5f0e80774da8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Everything that is a tulip is a flower. It is the case that some trees are not flowers. This necessarily means that some trees are not tulips."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "98fda6b1-7e7b-48ea-9307-e27dfba67bb2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every dog is an animal. There are no felines that are canines. It is the case that no cat is a dog."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "f487c925-ab9d-43a0-9139-1a598deacc51",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no vegetables that are apples. Among the apples, a few are red fruits. Not all red fruits are vegetables."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "5ab729fc-d0d1-45fa-8588-7b270389800f",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a poet is also a writer. All writers are people who are creative. We can conclude from this that a portion of creative people are poets."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "e57dd7c0-a696-481c-90f9-2529ca71feb7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no hard workers who are also lazy people. Some students are hard workers. It is concluded that some students are lazy people."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "c890f2c1-9631-4153-a60e-02a9a89ad258",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single creature that is an animal with fins is a fish. It is also the case that some whales are fish. This leads to the conclusion that some whales are animals with fins."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "244cf8ba-d6bd-4acb-83db-841c05330954",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a feline is a mammal. There are no cats that are felines. Thus, there are no cats that are mammals."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "32c2f0fa-083f-4f90-b33d-201e95816ea6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Anything that is a vegetable is not a plant. A portion of the things that are vegetables are also carrots. The conclusion that some carrots are not plants is inescapable."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "5a021fdb-c72e-4a97-b112-a4a4011dee86",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: No pet is a canine. It is known that a portion of dogs are pets. Therefore, some dogs do not belong to the group of canines."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "a5b70f2f-0463-40e2-a48a-1806106578ad",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that no cats are dogs. There are some people who are not dogs. It follows that some people are not cats."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "cb4e2e4c-9882-43d9-8109-e4f96bbd15c1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Animals are entirely separate from creatures with beaks and feathers. Every single animal that is a bird is a creature with a beak and feathers. Birds cannot be considered animals."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "857910a3-46a9-4278-9d37-739de49debd6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no humans that are not made of glass. Every single thing made of glass is indestructible. From this, it can be derived that some indestructible things are humans."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "c9085b40-41d0-45a8-bdcf-306b0fb9ed9a",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is the case that all trees are plants. Anything that is an oak is also a plant. Some oaks fail to be trees."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "43c15f64-aede-463a-89c8-2b4e89583f94",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are some objects that are metals that are not gold. All objects that are metals are elements. Consequently, some elements are not gold."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "1e1519e3-f441-4496-9305-1c5a6a4e67e6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Nothing that can be considered a celestial body is an object that orbits a star. Every planet is an object that orbits a star. There exist no planets that are also celestial bodies."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "dfd5eb0f-1457-4e71-b1d9-60dd75ce5ebb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: It is true that every single vehicle is a cloud. No clouds are cars. Based on this information, it is logically necessary that some cars are not vehicles."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "892da397-cedc-4341-b9d1-d59eb6ed7865",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no amphibians that do not live on both land and in water. Every single frog is an amphibian. There exists at least one frog that lives on land and in water."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "8078870d-5ee2-4765-a771-bd795e0a10cf",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no paintings that are also works of literature. Every single novel is a work of literature. The implication is that there exist some novels which are not paintings."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "59598fb3-62fa-42dd-9498-8ae6fdc51cbc",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every mammal is an animal. Every fish is an animal. This suggests that some fish are mammals."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "4c424337-e384-43c6-a130-fcc14a34f3fb",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Everything that is a cloud is also a reptile. Everything that is a cloud is also a fish. Hence, some fish are reptiles."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "45c767ec-4f15-4178-b7cd-91d61f9ffdf8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Each and every star is a celestial body. There are some planets that are stars. Consequently, all planets are celestial bodies."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "id": "013bbe5b-4863-4f9f-a0e7-fcec256129b3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are some planets that are dogs. All things that are dogs are beings. Hence, it can be concluded that some beings are planets."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "7e33d84f-4a3e-4ec4-a5ad-df409ed4bbd7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: Every single bird is an animal. There are no animals that are minerals. This proves that some minerals are not birds."
+            },
+            {
+                "from": "gpt",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "id": "a1bcb9af-88de-40c2-aaf3-55ee03a1ba1b",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts.\n\nSyllogism: There are no animals that are also plants. At least one tree is a plant. At least one tree is not an animal."
+            },
+            {
+                "from": "gpt",
+                "value": "false"
+            }
+        ]
+    }
+]

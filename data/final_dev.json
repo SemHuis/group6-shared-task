@@ -1,0 +1,1826 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a poet is also a writer. All writers are people who are creative. We can conclude from this that a portion of creative people are poets."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: creative people\n- M: writers\n- P: poets\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"writers\") is distributed in Premise 2 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type), so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: No syllogistic rule violations, and the form is consistent with valid Figure 4 moods."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a plane is a vehicle. There is nothing that is an item of furniture which is a plane. Consequently, no piece of furniture is a vehicle."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: piece of furniture\n- M: plane\n- P: vehicle\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S is M (E-type)\n- Conclusion Form: No S is P (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"plane\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"vehicle\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major process—the major term P is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "The class of birds and the class of cars do not overlap. The entire set of cars is composed of sparrows. It is a logical consequence that some sparrows are not birds."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: sparrows\n- M: cars\n- P: birds\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both premises).\nStep 2: Distributed Middle Rule: M (\"cars\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"birds\") is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (E-type predicate) → Pass. S (\"sparrows\") is undistributed in Conclusion, so no Illicit Minor → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: No syllogistic rule violations; the form follows a valid structure with consistent distribution and premise-conclusion alignment."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no trees that are living organisms. Every single item which is a plant is a living organism. This implies that all plants are trees."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: plants\n- M: living organisms\n- P: trees\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both Premise 1 and Premise 2).\nStep 2: Distributed Middle Rule: M (\"living organisms\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"plants\") is distributed in Conclusion and Premise 2 → Pass; P (\"trees\") is undistributed in Conclusion → no Illicit Major → Pass.\nStep 4: Negative Premises Rule: Premise 1 is negative, Premise 2 is affirmative, Conclusion is affirmative → Fail (Affirmative conclusion requires both premises affirmative).\n</think>\n\nValidity Conclusion: Invalid: Violates the negative premises rule as an affirmative conclusion cannot be derived from a negative premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a reptile is also an animal. A portion of animals are lizards. Therefore, some lizards are not reptiles."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: lizards\n- M: animals\n- P: reptiles\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"animals\") is not distributed in Premise 1 (predicate of A-type) or Premise 2 (subject of I-type) → Fail.\nStep 3: Illicit Process Rule: P (\"reptiles\") is distributed in Conclusion (O-type predicate) and also distributed in Premise 1 (subject of A-type) → Pass for P; S (\"lizards\") is undistributed in Conclusion, so no Illicit Minor → Pass.\nStep 4: Negative Premises Rule: Conclusion is negative (O-type), but both premises are affirmative → Fail.\n</think>\n\nValidity Conclusion: Invalid: Violates the Distributed Middle Rule and the Negative Premises Rule of syllogistic logic."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is true that everything that is a dog is an animal. It is also true that no mammals are dogs. Thus, it is concluded that no mammals are animals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: mammals\n- M: dogs\n- P: animals\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"dogs\") is distributed in Premise 1 (A-type subject) and Premise 2 (E-type predicate) → Pass.\nStep 3: Illicit Process Rule: P (\"animals\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major process – the term P (\"animals\") is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There is no automobile that can be classified as a bicycle. Every single car is an automobile. This means that no car can be a bicycle."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: cars\n- M: automobiles\n- P: bicycles\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"automobiles\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"cars\") is distributed in Premise 2 and P (\"bicycles\") is distributed in Premise 1, so no term distributed in conclusion but not in premise → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EAE-1 (Celarent) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a cat is an animal. It is not true that any fish are cats. It follows that no fish are animals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: fish\n- M: cats\n- P: animals\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"cats\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: P (\"animals\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) for a negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major term \"animals\" distributed in conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is the case that no flying animal is a penguin. Anything that is a penguin is also a bird. It necessarily follows that certain birds are not flying animals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: birds\n- M: penguin\n- P: flying animals\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is predicate in major premise and subject in minor premise).\nStep 2: Distributed Middle Rule: M is distributed in Premise 1 (E-type) and also in Premise 2 (A-type), so at least one premise distributes M → Pass.\nStep 3: Illicit Process Rule: In the conclusion (Some S are not P, O-type), P is distributed. P is distributed in Premise 1 (E-type), so no illicit major. S is undistributed in conclusion and not distributed in any premise (S is undistributed as predicate of A in Premise 2), so no illicit minor → Pass.\nStep 4: Negative Premises Rule: Premise 1 is negative (E-type), Premise 2 is affirmative (A-type), so only one negative premise. Conclusion is negative (O-type), which requires one negative premise → Pass.\n</think>\n\nValidity Conclusion: Valid: No violations of the distributed middle, illicit process, or negative premises rules in this Figure 4 syllogism."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every object that is a table is a type of furniture. There exist no pieces of furniture that are cars. From this, we must conclude that some cars are not tables."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: cars\n- M: furniture\n- P: tables\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No M is S (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is predicate in major premise and subject in minor premise).\nStep 2: Distributed Middle Rule: M (\"furniture\") is distributed in Premise 2 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"tables\") is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (A-type subject) → No Illicit Major. S (\"cars\") is not distributed in Conclusion → No Illicit Minor → Pass.\nStep 4: Negative Premises Rule: One premise is negative (Premise 2), conclusion is negative → Pass.\n</think>\n\nValidity Conclusion: Valid: No violations of distributed middle, illicit process, or negative premises rules."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "A triangle is never a square. It is also the case that no circle is a square. Consequently, no circle is a triangle."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: circle\n- M: square\n- P: triangle\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"square\") is distributed in both Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: S (\"circle\") and P (\"triangle\") are distributed in Conclusion and also distributed in Premises → Pass.\nStep 4: Negative Premises Rule: Two negative premises (both E-type) → Fail (invalid).\n</think>\n\nValidity Conclusion: Invalid: Two negative premises violate the syllogistic rule that prohibits two negative premises."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no animals that are fish that have beaks. All birds are animals that have beaks. Consequently, it can be said that some birds are not fish."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: birds\n- M: animals that have beaks\n- P: fish\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M is distributed in Premise 1 (E-type) → Pass.\nStep 3: Illicit Process Rule: P is distributed in Conclusion (O-type predicate) and distributed in Premise 1 → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: No syllogistic rule violations occur in the EAO-2 form."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is true that everything which is a bird is a winged creature. There are no insects which are birds. A conclusion that can be drawn from this is that there are no insects which are winged creatures."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: insects\n- M: birds\n- P: winged creatures\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"birds\") is distributed in Premise 1 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: P (\"winged creatures\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: P is distributed in the conclusion but not in any premise, violating the illicit process rule."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single building is alive. There is not a single living thing that is a house. This means that no house is a building."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: house\n- M: alive (or living thing)\n- P: building\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No M are S (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1, Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"alive\") is distributed in Premise 2 (E-type subject) → Pass.\nStep 3: Illicit Process Rule: S (\"house\") and P (\"building\") are distributed in Conclusion (E-type); S is distributed in Premise 2 (E-type predicate), P is distributed in Premise 1 (A-type subject) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AEE-4 (Camenes) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is the case that all actors are performers. There are some men who are actors. Therefore, we can derive that some men are performers."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: men\n- M: actors\n- P: performers\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"actors\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: No term distributed in conclusion (I-type) → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AII-1 (Darii) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a square is a shape that is round. Every single triangle is a square. This means that all triangles are round."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: triangles\n- M: squares\n- P: round\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"squares\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"triangles\") is distributed in Conclusion and Premise 2, and P (\"round\") is undistributed in both Conclusion and Premise 1 → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AAA-1 (Barbara) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a plant with thorns is not a flower. A certain number of roses are considered plants with thorns. This demonstrates that some roses are not flowers."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: roses\n- M: plants with thorns\n- P: flowers\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"plants with thorns\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: P (\"flowers\") is distributed in Conclusion (O-type predicate) and in Premise 1 (E-type predicate) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EIO-1 (Ferio) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No books are buildings. Some things made of paper are books. From this, it is concluded that some buildings are made of paper."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: buildings\n- M: books\n- P: things made of paper\n- Premise 1 Form: No M are S (E-type)\n- Premise 2 Form: Some P are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is predicate in major premise and subject in minor premise).\nStep 2: Distributed Middle Rule: M is distributed in Premise 1 (E-type) → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type) → Pass.\nStep 4: Negative Premises Rule: Premise 1 is negative, but conclusion is affirmative, violating the rule that a negative premise requires a negative conclusion → Fail.\n</think>\n\nValidity Conclusion: Invalid: Violates the negative premises rule as there is a negative premise with an affirmative conclusion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a fish is not a mammal. There are no dogs that are fish. Consequently, every dog is a mammal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: dogs\n- M: fish\n- P: mammal\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"fish\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"dogs\") is distributed in Conclusion and Premise 2, P (\"mammal\") is undistributed → Pass.\nStep 4: Negative Premises Rule: Two negative premises (both E-type) → Fail.\n</think>\n\nValidity Conclusion: Invalid: Two negative premises violate syllogistic rules."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a flower is made of metal. Every single rose is a flower. At least one rose is made of metal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: roses\n- M: flowers\n- P: made of metal\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"flowers\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in Conclusion (I-type), so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises and conclusion is affirmative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AII-1 (Barbari) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No pet is a canine. It is known that a portion of dogs are pets. Therefore, some dogs do not belong to the group of canines."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: dogs\n- M: pets\n- P: canines\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"pets\") is distributed in Premise 1 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"canines\") is distributed in Conclusion (O-type predicate) and also distributed in Premise 1 (E-type predicate) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and conclusion negative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EIO-1 (Ferio) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Any golden retriever is a mammal. It is the case that some golden retrievers are dogs. This means that a few dogs are mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: dogs\n- M: golden retrievers\n- P: mammals\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both premises).\nStep 2: Distributed Middle Rule: M (\"golden retrievers\") is distributed in Premise 1 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type), so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises and conclusion is affirmative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AII-3 (Datisi) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single planet is a thing made of cheese. The Earth is a planet. A certain part of Earth is made of cheese."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: Earth\n- M: planets\n- P: things made of cheese\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"planets\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (\"Some S are P\"), so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AAI-1 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are some rocks that are guitars. Every single guitar is a musical instrument. It follows that some musical instruments are rocks."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: musical instruments\n- M: guitars\n- P: rocks\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"guitars\") is distributed in Premise 2 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: No term is distributed in conclusion (I-type), so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises, and conclusion is affirmative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form IAI-4 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anyone who is a rose is red. Some flowers are not red. From this, all flowers are roses."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: flowers\n- M: red\n- P: roses\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some S are not M (O-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"red\") is distributed in Premise 2 (O-type predicate) → Pass.\nStep 3: Illicit Process Rule: S (\"flowers\") is distributed in Conclusion (A-type subject) but undistributed in Premise 2 (O-type subject) → Fail (Illicit Minor).\nStep 4: Negative Premises Rule: Conclusion is affirmative (A-type) but Premise 2 is negative (O-type) → Fail.\n</think>\n\nValidity Conclusion: Invalid: Violates syllogistic rules due to illicit minor process and having an affirmative conclusion with a negative premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "A few shoes are fruits. Every single fruit grows on a plant. It can be deduced that some things that grow on plants are shoes."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: things that grow on plants\n- M: fruits\n- P: shoes\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1, Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"fruits\") is distributed in Premise 2 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: No term is distributed in Conclusion (I-type), so no violation → Pass.\nStep 4: Negative Premises Rule: No negative premises and Conclusion is affirmative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form IAI-4 (Dimaris) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There is no overlap between even numbers and words. All words are numbers that can be divided by two. Therefore, some numbers divisible by two are not even."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: numbers divisible by two\n- M: words\n- P: even\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"words\") is distributed in Premise 1 (E-type) and Premise 2 (A-type) → Pass.\nStep 3: Illicit Process Rule: P (\"even\") is distributed in Conclusion (O-type predicate) and also distributed in Premise 1 (E-type) → No Illicit Major; S is undistributed in Conclusion, so no Illicit Minor → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and conclusion negative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EAO-4 (Fesapo) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything and everything that is a satellite is a moon. There are satellites that are planets. It must follow that all planets are moons."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: planets\n- M: satellites\n- P: moons\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both premises).\nStep 2: Distributed Middle Rule: M (\"satellites\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"planets\") is distributed in Conclusion but not in any premise → Fail.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit process of the minor term 'planets' which is distributed in the conclusion but not in the premises."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a vegetable is a plant. There is a subset of plants that are fruits. A number of vegetables are not fruits."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: vegetables\n- M: plants\n- P: fruits\n- Premise 1 Form: All S are M (A-type)\n- Premise 2 Form: Some M are P (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1, Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"plants\") is undistributed in Premise 1 (predicate of A-type) and undistributed in Premise 2 (subject of I-type) → Fail.\nStep 3: Illicit Process Rule: P (\"fruits\") is distributed in Conclusion (O-type predicate) but undistributed in Premise 2 (predicate of I-type) → Fail.\nStep 4: Negative Premises Rule: Conclusion is negative but both premises are affirmative → Fail.\n</think>\n\nValidity Conclusion: Invalid: Middle term not distributed in any premise, violating the Distributed Middle Rule."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No vegetable is a type of meat. It is true that every single meat is a food. This proves that some vegetables are food."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: vegetables\n- M: meat\n- P: food\n- Premise 1 Form: No S is M (E-type)\n- Premise 2 Form: All M are P (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 2, Predicate in Premise 1).\nStep 2: Distributed Middle Rule: M (\"meat\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type), so no illicit process → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) requires a negative conclusion, but the conclusion is affirmative → Fail.\n</think>\n\nValidity Conclusion: Invalid: A valid syllogism with one negative premise must have a negative conclusion, but this conclusion is affirmative."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single lion is a building. There is no lion which is a skyscraper. Therefore, there are no skyscrapers that are buildings."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: skyscrapers\n- M: lions\n- P: buildings\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No M are S (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both Premise 1 and Premise 2).\nStep 2: Distributed Middle Rule: M (\"lions\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"buildings\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major process as the major term P is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single dog is an animal. Everything that is an animal is a mammal. It must therefore be true that every mammal is an animal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: mammals\n- M: dogs\n- P: animal\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All P are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure cannot be standardly assigned because the middle term \"dogs\" is not present in Premise 2, so the syllogism is malformed.\nStep 2: Distributed Middle Rule: M is distributed in Premise 1 (A-type subject), but since M is absent from Premise 2, the rule is not fully satisfied.\nStep 3: Illicit Process Rule: S (\"mammals\") is distributed in the conclusion (A-type subject) but not distributed in any premise (undistributed as predicate in Premise 2), resulting in illicit minor process.\nStep 4: Negative Premises Rule: No negative premises, so pass.\n</think>\n\nValidity Conclusion: Invalid: The minor term \"mammals\" is illicitly distributed in the conclusion without being distributed in the premises."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no creatures with feathers which are also insects. Every single creature identified as a bird is a creature with feathers. None of the creatures that are birds are also insects."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: birds\n- M: creatures with feathers\n- P: insects\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"creatures with feathers\") is distributed in Premise 1 (E-type subject) → Pass.\nStep 3: Illicit Process Rule: S (\"birds\") is distributed in Conclusion (E-type subject) and Premise 2 (A-type subject); P (\"insects\") is distributed in Conclusion (E-type predicate) and Premise 1 (E-type predicate) → Pass.\nStep 4: Negative Premises Rule: Conclusion negative (E-type) and exactly one premise negative (Premise 1) → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EAE-1 (Celarent) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no tables that are living things. It is not true that any plant is a table. It is the case that some plants are tables."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: plants\n- M: living things\n- P: tables\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: Some S are not P (O-type)\n- Conclusion Form: Some S are P (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure cannot be identified because the middle term 'living things' is not present in Premise 2, violating the basic structure of a syllogism.\nStep 2: Distributed Middle Rule: M is distributed in Premise 1 (E-type distributes both terms), but since M is absent in Premise 2, the rule is not fully applicable.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type has both terms undistributed), so no violation here.\nStep 4: Negative Premises Rule: Both premises are negative (E-type and O-type), which invalidates the syllogism; additionally, the conclusion is affirmative, but with two negative premises, it should be negative.\n</think>\n\nValidity Conclusion: Invalid: It violates the negative premises rule, as two negative premises cannot support any conclusion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There is not a single sound that is a phenomenon that travels in waves. All of the things that are musical notes are sounds. Consequently, some musical notes are not phenomena that travel in waves."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: musical notes\n- M: sounds\n- P: phenomena that travel in waves\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"sounds\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: P (\"phenomena that travel in waves\") is distributed in Conclusion and Premise 1, S is undistributed → Pass.\nStep 4: Negative Premises Rule: One negative premise and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EAO-1 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Everything that is a living organism is a thing that consumes energy. Any and all plants are things that consume energy. This means that all plants are living organisms."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: plants\n- M: things that consume energy\n- P: living organisms\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"things that consume energy\") is undistributed in both Premise 1 and Premise 2 (since in A-type propositions, predicates are undistributed) → Fail.\nStep 3: Illicit Process Rule: S (\"plants\") is distributed in Conclusion and Premise 2, P (\"living organisms\") is undistributed in Conclusion, so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Violates the Distributed Middle Rule as the middle term M is not distributed in either premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every vehicle that is a car is also a vehicle. A portion of the items that are automobiles are also vehicles. It follows that some automobiles are not cars."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: automobiles\n- M: vehicles\n- P: cars\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"vehicles\") is undistributed in both premises → Fail.\nStep 3: Illicit Process Rule: P (\"cars\") is distributed in Conclusion and Premise 1 → Pass.\nStep 4: Negative Premises Rule: Conclusion negative but no negative premises → Fail.\n</think>\n\nValidity Conclusion: Invalid: Violates Distributed Middle Rule and Negative Premises Rule."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Any creature that is an animal is a bird. There is not a single bird that is a reptile. This logically means that no reptile is an animal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: reptiles\n- M: birds\n- P: animals\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No M are S (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1, Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"birds\") is distributed in Premise 2 → Pass.\nStep 3: Illicit Process Rule: S (\"reptiles\") is distributed in Premise 2, P (\"animals\") is distributed in Premise 1, and both are distributed in the conclusion → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AEE-4 (Camenes) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are some robots that are teenagers. Every teenager is a human. It follows from this that every single human is a robot."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: humans\n- M: teenagers\n- P: robots\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is predicate in major premise and subject in minor premise).\nStep 2: Distributed Middle Rule: M is distributed in Premise 2 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: S is distributed in conclusion but undistributed in Premise 2 (predicate of A-type) → Fail, illicit minor.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit minor process; the term S (humans) is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "A creature that is a reptile is never a mammal. There are no snakes that are reptiles. It is necessarily the case that a snake is never a mammal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: snakes\n- M: reptiles\n- P: mammals\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"reptiles\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: S and P are distributed in Conclusion and in premises → Pass.\nStep 4: Negative Premises Rule: Two negative premises (E-type) → Fail.\n</think>\n\nValidity Conclusion: Invalid: Two negative premises violate syllogistic rules, making the argument unsound."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a vehicle is also a machine. There is a subset of machines that are cars. Therefore, some cars are not vehicles."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: cars\n- M: machines\n- P: vehicles\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"machines\") is undistributed in both premises (A-type predicate undistributed, I-type subject undistributed) → Fail.\nStep 3: Illicit Process Rule: P (\"vehicles\") is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (A-type subject) → Pass.\nStep 4: Negative Premises Rule: Conclusion is negative (O-type), but both premises are affirmative → Fail.\n</think>\n\nValidity Conclusion: Invalid: Violates syllogistic rules, including distributed middle rule (M not distributed) and negative premises rule (no negative premise for a negative conclusion)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single liquid is a fluid. It is impossible for any water to be a fluid. It can be concluded that no water is a liquid."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: water\n- M: fluid\n- P: liquid\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"fluid\") is distributed in Premise 2 (E-type) → Pass.\nStep 3: Illicit Process Rule: S (\"water\") is distributed in Conclusion and Premise 2; P (\"liquid\") is distributed in Conclusion and Premise 1 → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AEE-2 (Camestres) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Not a single land-dwelling amphibian is able to survive in saltwater. Every salamander is, without exception, a land-dwelling amphibian. This implies that no salamander is able to live in saltwater."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: salamanders\n- M: land-dwelling amphibians\n- P: able to survive in saltwater\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"land-dwelling amphibians\") is distributed in Premise 1 (E-type subject) → Pass.\nStep 3: Illicit Process Rule: S (\"salamanders\") is distributed in Conclusion and Premise 2 (A-type subject); P (\"able to survive in saltwater\") is distributed in Conclusion and Premise 1 (E-type predicate) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EAE-1 (Celarent) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Nothing that is a liquid is H2O. All water is H2O. It can be deduced that some water is not liquid."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: water\n- M: H2O\n- P: liquid\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"H2O\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: P (\"liquid\") is distributed in Conclusion (O-type predicate) and in Premise 1 → Pass. S (\"water\") is undistributed in Conclusion → Pass.\nStep 4: Negative Premises Rule: Conclusion negative, one premise negative (Premise 1) → Pass.\n</think>\n\nValidity Conclusion: Valid: No violations of distributed middle, illicit process, or negative premises rules."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single thing which is a fish is a creature. It is also the case that every single cat is a creature. From this, it follows that all cats are fish."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: cats\n- M: creatures\n- P: fish\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"creatures\") is undistributed in both premises → Fail.\nStep 3: Illicit Process Rule: S (\"cats\") is distributed in Conclusion and Premise 2; P (\"fish\") is undistributed in Conclusion → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Violates the Distributed Middle Rule as the middle term \"creatures\" is not distributed in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There's no small rodent that is a bear. Every single squirrel is a small rodent. Consequently, no squirrel is a bear."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: squirrel\n- M: small rodent\n- P: bear\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"small rodent\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"squirrel\") is distributed in Conclusion and Premise 2; P (\"bear\") is distributed in Conclusion and Premise 1 → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EAE-1 (Celarent) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There exist vegetables that grow. Every single vegetable is a plant. It follows that not a single plant is a vegetable."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: plants\n- M: things that grow\n- P: vegetables\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: All P are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure cannot be determined because the middle term M is not present in both premises.\nStep 2: Distributed Middle Rule: M is not distributed in any premise (undistributed in Premise 1, absent in Premise 2) → Fail.\nStep 3: Illicit Process Rule: S is distributed in the conclusion but undistributed in Premise 2 (as predicate of A-type) → Illicit minor → Fail.\nStep 4: Negative Premises Rule: Conclusion is negative, but both premises are affirmative → Fail.\n</think>\n\nValidity Conclusion: Invalid: Violates syllogistic rules including undistributed middle and illicit process."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no fish which are mammals. No cats are considered fish. Some felines are not mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: felines (equated to cats from premise 2)\n- M: fish\n- P: mammals\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: No S are M (E-type)\n- Conclusion Form: Some S are not P (O-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"fish\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"mammals\") is distributed in Conclusion (O-type predicate) and also distributed in Premise 1 → Pass.\nStep 4: Negative Premises Rule: Two negative premises (both E-type) → Fail, making the syllogism invalid.\n</think>\n\nValidity Conclusion: Invalid: Has two negative premises, which violates the negative premises rule."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Everything that is a salamander is a planet. A few salamanders are amphibians. It must follow that a certain number of amphibians are planets."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: amphibians\n- M: salamanders\n- P: planets\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both premises).\nStep 2: Distributed Middle Rule: M (\"salamanders\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type), so no violation → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AII-3 (Datisi) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Not a single person who is a parent is a human. Among the group of people who are parents, some are mothers. From this, we can logically conclude that there are some mothers who are not humans."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: mothers\n- M: parents\n- P: humans\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both Premise 1 and Premise 2).\nStep 2: Distributed Middle Rule: M (\"parents\") is distributed in Premise 1 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"humans\") is distributed in Conclusion (O-type) and in Premise 1 (E-type) → Pass; S (\"mothers\") is undistributed in both Conclusion and Premise 2 (I-type) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and conclusion negative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EIO-3 (Ferison) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single car has wheels. Every single bicycle has wheels. It follows that all bicycles are cars."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: bicycles\n- M: things with wheels\n- P: cars\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"things with wheels\") is undistributed in both premises (predicate of A-type propositions) → Fail.\nStep 3: Illicit Process Rule: S (\"bicycles\") is distributed in Conclusion and Premise 2, so no Illicit Minor; P (\"cars\") is undistributed in Conclusion, so no Illicit Major → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Violates the Distributed Middle Rule as M is not distributed in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Gold is always classified as a metal. Nothing that is a plastic is a metal. Therefore, no plastic is gold."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: plastic\n- M: metal\n- P: gold\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No S is M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"metal\") is distributed in Premise 2 (E-type predicate) → Pass.\nStep 3: Illicit Process Rule: S (\"plastic\") is distributed in Conclusion and in Premise 2; P (\"gold\") is distributed in Conclusion and in Premise 1 → Pass.\nStep 4: Negative Premises Rule: One premise (Premise 2) is negative, Conclusion is negative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AEE-2 (Camestres) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Any object that is a body of water is a gas. Nothing that is an ocean is a gas. There exists at least one body of water which is not an ocean."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: body of water\n- M: gas\n- P: ocean\n- Premise 1 Form: All S are M (A-type)\n- Premise 2 Form: No P are M (E-type)\n- Conclusion Form: Some S are not P (O-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"gas\") is distributed in Premise 2 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"ocean\") is distributed in the conclusion (O-type) and in Premise 2 (E-type), so no illicit major; S (\"body of water\") is undistributed in the conclusion, so no illicit minor → Pass.\nStep 4: Negative Premises Rule: One premise is negative (Premise 2) and the conclusion is negative, consistent; not two negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: All syllogistic rules—distributed middle, no illicit process, and proper negative premise handling—are satisfied."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anyone who is a president is a citizen. Every single person who is a senator is a citizen. This leads to the conclusion that there are some senators who are not citizens."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: senators\n- M: presidents\n- P: citizens\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All S are P (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure cannot be assigned because the middle term M (\"presidents\") is not present in Premise 2, violating the requirement for a categorical syllogism that M must appear in both premises.\nStep 2: Distributed Middle Rule: M is distributed in Premise 1, but since M is absent in Premise 2, the rule is not fully applicable; however, for the premise where it appears, it is distributed.\nStep 3: Illicit Process Rule: P (\"citizens\") is distributed in the conclusion (O-type) but undistributed in both premises (A-type predicates), resulting in Illicit Major → Fail.\nStep 4: Negative Premises Rule: Both premises are affirmative, but the conclusion is negative, violating the rule that a negative conclusion requires one negative premise → Fail.\n</think>\n\nValidity Conclusion: Invalid: Violates syllogistic rules due to illicit process and negative premises, and the middle term is not in both premises, making it ill-formed."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Some trains are not celestial bodies. It is the case that every single train is a planet. Consequently, some planets cannot be considered celestial bodies."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: planets\n- M: trains\n- P: celestial bodies\n- Premise 1 Form: Some M are not P (O-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both premises).\nStep 2: Distributed Middle Rule: M (\"trains\") is distributed in Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"celestial bodies\") is distributed in Conclusion and in Premise 1 → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and conclusion negative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form OAO-3 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No star is a meteor. Meteors are, without exception, planets. A number of planets are stars."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: planets\n- M: meteors\n- P: stars\n- Premise 1 Form: No P is M (E-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"meteors\") is distributed in Premise 1 (E-type) and Premise 2 (A-type) → Pass.\nStep 3: Illicit Process Rule: No term is distributed in Conclusion (I-type), so no violation → Pass.\nStep 4: Negative Premises Rule: Premise 1 is negative, Premise 2 is affirmative, so one negative premise requires a negative conclusion, but the conclusion is affirmative → Fail.\n</think>\n\nValidity Conclusion: Invalid: With one negative premise, the conclusion must be negative, but it is affirmative, violating the Negative Premises Rule."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Any person who is an author is a creative. There are no tables that are authors. Consequently, no table is a creative."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: tables\n- M: authors\n- P: creatives\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S is M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"authors\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"creatives\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major process as the major term P is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every piece of furniture that is a chair is made of liquid. Any object that is a bench is a chair. Consequently, all benches are pieces of furniture that are made of liquid."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: benches\n- M: chairs\n- P: made of liquid\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All S are M (A-type)\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"chairs\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"benches\") is distributed in Conclusion and Premise 2, P (\"made of liquid\") is undistributed in Conclusion → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AAA-1 (Barbara) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Not one cat is a pet. Everything that is a cat is a mammal. It follows that all pets are mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: pets\n- M: cats\n- P: mammals\n- Premise 1 Form: No M is S (E-type)\n- Premise 2 Form: All M are P (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both premises).\nStep 2: Distributed Middle Rule: M (\"cats\") is distributed in both Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: S (\"pets\") is distributed in Conclusion but also distributed in Premise 1; P (\"mammals\") is undistributed in both Conclusion and Premise 2 → Pass.\nStep 4: Negative Premises Rule: Premise 1 is negative, Premise 2 is affirmative, but Conclusion is affirmative → Fail (negative premise requires negative conclusion).\n</think>\n\nValidity Conclusion: Invalid: It violates the syllogistic rule that a negative premise requires a negative conclusion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Everything that is a vehicle is something that can fly. Any and all birds are things that can fly. This implies that all birds are vehicles."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: birds\n- M: things that can fly\n- P: vehicles\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"things that can fly\") is undistributed in both premises (predicate of A-type propositions) → Fail.\nStep 3: Illicit Process Rule: S (\"birds\") is distributed in Conclusion and Premise 2 → Pass for minor term; P (\"vehicles\") is undistributed in Conclusion → Pass for major term.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Violates the Distributed Middle Rule as the middle term is not distributed in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Spiders cannot be arachnids. It is a fact that all tarantulas are spiders. It must be concluded that some tarantulas are not arachnids."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: tarantulas\n- M: spiders\n- P: arachnids\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"spiders\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: P (\"arachnids\") is distributed in Conclusion (O-type predicate) and in Premise 1 → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: No violations of distributed middle, illicit process, or negative premises rules."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are some vehicles that are machines. Every single car is a vehicle. It is therefore the case that every car is a machine."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: cars\n- M: vehicles\n- P: machines\n- Premise 1 Form: Some M are P (I-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"vehicles\") is undistributed in Premise 1 (I-type) and undistributed in Premise 2 (A-type predicate) → Fail.\nStep 3: Illicit Process Rule: S (\"cars\") is distributed in Conclusion and distributed in Premise 2 → Pass. P (\"machines\") is undistributed in Conclusion → No issue.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Violates the distributed middle rule as the middle term is not distributed in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Everything that is a spoon is a piece of cutlery. No giraffes can be considered pieces of cutlery. It can be said that some giraffes are not spoons."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: giraffes\n- M: pieces of cutlery\n- P: spoons\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M is distributed in Premise 2 (E-type predicate) → Pass.\nStep 3: Illicit Process Rule: P is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (A-type subject) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AEO-2 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single bird is a mammal. It is the case that no lion is a bird. It is the case that no lion is a mammal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: lion\n- M: bird\n- P: mammal\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S is M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"bird\") is distributed in Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"mammal\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major violation as P is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Any beverage that is chilled is cold. Some soft drinks are beverages that are chilled. It follows that some soft drinks are cold."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: soft drinks\n- M: beverages that are chilled\n- P: cold\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"beverages that are chilled\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the Conclusion (I-type), so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AII-1 (Darii) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There exist some felines that are also pets. There are pets which are mammals. The result of this is that some mammals are not felines."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: mammals\n- M: pets\n- P: felines\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"pets\") is undistributed in both premises (I-type propositions distribute no terms) → Fail.\nStep 3: Illicit Process Rule: P (\"felines\") is distributed in Conclusion (O-type predicate) but undistributed in Premise 1 (I-type subject) → Illicit Major → Fail.\nStep 4: Negative Premises Rule: Conclusion is negative (O-type), but both premises are affirmative (I-type) → Fail.\n</think>\n\nValidity Conclusion: Invalid: Middle term 'pets' is not distributed in any premise, and the conclusion is negative with no negative premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is true that all novels are books. There are some posters that are not books. Therefore, it is the case that some posters are not novels."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: posters\n- M: books\n- P: novels\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some S are not M (O-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"books\") is distributed in Premise 2 (O-type predicate) → Pass.\nStep 3: Illicit Process Rule: P (\"novels\") is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (A-type subject) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: No syllogistic rule violations in the AOO-2 form."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There is no machine that is a chair. A few chairs happen to be things that are made of wood. Therefore, some things made of wood are not machines."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: things made of wood\n- M: chairs\n- P: machines\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1, Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"chairs\") is distributed in Premise 1 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"machines\") is distributed in Conclusion (O-type predicate) and in Premise 1 → Pass; S (\"things made of wood\") is undistributed in Conclusion, so no Illicit Minor → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EIO-4 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single chef is a culinary expert. No pilots are included in the category of culinary experts. A certain number of pilots are not chefs."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: pilots\n- M: culinary experts\n- P: chefs\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No S are M (E-type)\n- Conclusion Form: Some S are not P (O-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"culinary experts\") is distributed in Premise 2 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"chefs\") is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (A-type subject) → Pass; S is undistributed in Conclusion and distributed in Premise 2, so no illicit process → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and conclusion negative → Pass.\n</think>\n\nValidity Conclusion: Valid: No syllogistic rule violations in Figure 2 with A-type and E-type premises leading to O-type conclusion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is true that all newspapers are animals. There are some magazines that are not animals. Therefore, it is the case that some magazines are not newspapers."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: magazines\n- M: animals\n- P: newspapers\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some S are not M (O-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both Premise 1 and Premise 2).\nStep 2: Distributed Middle Rule: M (\"animals\") is distributed in Premise 2 (O-type predicate) → Pass.\nStep 3: Illicit Process Rule: P (\"newspapers\") is distributed in Conclusion (O-type predicate) and in Premise 1 (A-type subject) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AOO-2 (Baroko) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is the case that there are no fish that are also mammals. Anything that is a whale is not a fish. It follows that some whales are mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: whales\n- M: fish\n- P: mammals\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"fish\") is distributed in both Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type) → Pass.\nStep 4: Negative Premises Rule: Two negative premises (both E-type) → Fail, making the syllogism invalid.\n</think>\n\nValidity Conclusion: Invalid: Two negative premises violate the syllogistic rule that disallows two negative premises."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no humans that are animals. Every single doctor is not a human. Therefore, we can deduce that no doctors are animals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: doctors\n- M: humans\n- P: animals\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M is distributed in both Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: S and P are distributed in Conclusion and in premises → Pass.\nStep 4: Negative Premises Rule: Two negative premises (both E-type) → Fail.\n</think>\n\nValidity Conclusion: Invalid: Two negative premises violate the syllogistic rule that at least one premise must be affirmative."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single liquid is wet. It is known that no sand is a liquid. Consequently, there are no things made of sand which are wet."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: sand\n- M: liquid\n- P: wet\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S is M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"liquid\") is distributed in Premise 1 (A-type subject) and in Premise 2 (E-type predicate) → Pass.\nStep 3: Illicit Process Rule: P (\"wet\") is distributed in Conclusion (E-type predicate) but not distributed in Premise 1 (A-type predicate) → Fail.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major process (the major term P is distributed in the conclusion but not in any premise)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a car is a vehicle. Every single sedan is a vehicle. This means that all sedans are cars."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: sedans\n- M: vehicles\n- P: cars\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"vehicles\") is undistributed in both premises → Fail.\nStep 3: Illicit Process Rule: S (\"sedans\") is distributed in Conclusion and Premise 2, so no Illicit Minor; P (\"cars\") is undistributed in Conclusion, so no Illicit Major → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Violates the Distributed Middle Rule (middle term \"vehicles\" is not distributed in any premise)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single fruit is a thing that grows on trees. All apples are things that grow on trees. At least one apple is a fruit."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: apples\n- M: things that grow on trees\n- P: fruit\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"things that grow on trees\") is undistributed in both premises → Fail.\nStep 3: Illicit Process Rule: No term is distributed in conclusion (I-type), so no violation → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: The middle term is not distributed in either premise, violating the Distributed Middle Rule."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single creature that is an animal with fins is a fish. It is also the case that some whales are fish. This leads to the conclusion that some whales are animals with fins."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: whales\n- M: fish\n- P: animals with fins\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"fish\") is undistributed in Premise 1 (A-type predicate) and undistributed in Premise 2 (I-type predicate) → Fail.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type), so no violation → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Middle term \"fish\" is not distributed in either premise, violating the distributed middle rule."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a feline is a mammal. There are no cats that are felines. Thus, there are no cats that are mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: cats\n- M: felines\n- P: mammals\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"felines\") is distributed in Premise 1 (A-type subject) and Premise 2 (E-type predicate) → Pass.\nStep 3: Illicit Process Rule: P (\"mammals\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 (A-type predicate) → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major process violates syllogistic rules."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no fish that are mammals. No cats are considered fish. Some felines are not mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: felines\n- M: fish\n- P: mammals\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M is distributed in both Premise 1 and Premise 2 → Pass.\nStep 3: Illicit Process Rule: P is distributed in Conclusion (O-type predicate) and distributed in Premise 1 → No Illicit Major; S is undistributed in Conclusion → Pass.\nStep 4: Negative Premises Rule: Two negative premises (both E-type) → Fail; Conclusion negative requires one negative premise, but has two → Invalid.\n</think>\n\nValidity Conclusion: Invalid: Violates the negative premises rule as two negative premises cannot yield a valid conclusion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are some voters who are citizens. Not a single foreigner is a citizen. Therefore, no foreigner is a voter."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: foreigner\n- M: citizen\n- P: voter\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"citizen\") is distributed in Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"voter\") is distributed in Conclusion (E-type predicate) but undistributed in Premise 1 → Fail (Illicit Major).\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit major term - P is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a person is made of wood. Without exception, all children are people. Therefore, there are no children who are not made of wood."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: children\n- M: persons\n- P: made of wood\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"persons\") is distributed in Premise 1 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: S (\"children\") is distributed in Conclusion (A-type subject) and distributed in Premise 2 (A-type subject); P (\"made of wood\") is undistributed in Conclusion (A-type predicate) and undistributed in Premise 1 (A-type predicate) → Pass.\nStep 4: Negative Premises Rule: No negative premises (both A-type affirmative) and Conclusion is affirmative (equivalent to A-type) → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AAA-1 (Barbara) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Anything that is a unit of time is a liquid. No weeks can be called liquids. A portion of weeks are not units of time."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: weeks\n- M: liquids\n- P: units of time\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is predicate in both premises).\nStep 2: Distributed Middle Rule: M is distributed in Premise 2 (E-type distributes predicate) → Pass.\nStep 3: Illicit Process Rule: P is distributed in Conclusion (O-type distributes predicate) and distributed in Premise 1 (A-type distributes subject) → Pass.\nStep 4: Negative Premises Rule: One premise negative (Premise 2) and conclusion negative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AEO-2 with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Everything that is a dog is an animal. Everything that is a cat is an animal. All felines are canines."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: felines\n- M: animals\n- P: canines\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"animals\") is undistributed in both premises → Fail.\nStep 3: Illicit Process Rule: S is distributed in conclusion and Premise 2, P is undistributed in conclusion → Pass.\nStep 4: Negative Premises Rule: No negative premises or conclusion → Pass.\n</think>\n\nValidity Conclusion: Invalid: Violates the Distributed Middle Rule as the middle term \"animals\" is not distributed in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Hats and jackets do not overlap. A portion of jackets are pieces of clothing. Some pieces of clothing are not hats."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: pieces of clothing\n- M: jackets\n- P: hats\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"jackets\") is distributed in Premise 1 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"hats\") is distributed in Conclusion (O-type predicate) and in Premise 1 (E-type subject), so no Illicit Major → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EIO-4 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every animal is a mammal. There are some reptiles that are animals. It can be concluded that all reptiles are mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: reptiles\n- M: animals\n- P: mammals\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"animals\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"reptiles\") is distributed in Conclusion (A-type subject) but undistributed in Premise 2 (I-type subject) → Fail (Illicit Minor).\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Invalid: Illicit minor process – S is distributed in the conclusion but not in any premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is the case that no ghost is immortal. There is not a single human that is a ghost. It follows that no human is immortal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: human\n- M: ghost\n- P: immortal\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"ghost\") is distributed in both premises → Pass.\nStep 3: Illicit Process Rule: S (\"human\") and P (\"immortal\") are distributed in Conclusion and in premises → Pass.\nStep 4: Negative Premises Rule: Two negative premises (E-type) → Fail.\n</think>\n\nValidity Conclusion: Invalid: The syllogism violates the rule that two negative premises cannot yield a valid conclusion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every person who is a professional cook is a person who can cook. A portion of professional cooks are chefs. Thus, it is the case that some chefs are people who can cook."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: chefs\n- M: professional cooks\n- P: people who can cook\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some M are S (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3 (M is Subject in both Premise 1 and Premise 2).\nStep 2: Distributed Middle Rule: M (\"professional cooks\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the Conclusion (I-type), so no Illicit Process → Pass.\nStep 4: Negative Premises Rule: No negative premises → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AII-3 (Disamis) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is true that no bird is an insect. Every single insect is a mammal. This proves that all mammals are birds."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: mammals\n- M: insects\n- P: birds\n- Premise 1 Form: No P are M (E-type)\n- Premise 2 Form: All M are S (A-type)\n- Conclusion Form: All S are P (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1, Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"insects\") is distributed in Premise 1 (E-type predicate) and Premise 2 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: S (\"mammals\") is distributed in Conclusion (A-type subject) but not distributed in Premise 2 (A-type predicate) → Fail (Illicit Minor).\nStep 4: Negative Premises Rule: Conclusion is affirmative (A-type) but Premise 1 is negative (E-type) → Fail (Affirmative conclusion requires no negative premises).\n</think>\n\nValidity Conclusion: Invalid: Violates syllogistic rules due to illicit minor process and affirmative conclusion derived from a negative premise."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are some creatures that are mythical that are centaurs. Every single one of the centaurs is a domesticated animal. Consequently, it is the case that some domesticated animals are mythical creatures."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: domesticated animals\n- M: centaurs\n- P: mythical creatures\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is predicate in Premise 1 and subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"centaurs\") is distributed in Premise 2 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the conclusion (I-type), so no violation → Pass.\nStep 4: Negative Premises Rule: No negative premises, and conclusion is affirmative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form IAI-4 (Dimaris) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every single car is a type of vehicle with an engine. There exist some bicycles that do not have an engine. It is the case that some bicycles are not cars."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: bicycles\n- M: vehicles with an engine\n- P: cars\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: Some S are not M (O-type)\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both Premise 1 and Premise 2).\nStep 2: Distributed Middle Rule: M (\"vehicles with an engine\") is distributed in Premise 2 (O-type predicate) → Pass.\nStep 3: Illicit Process Rule: P (\"cars\") is distributed in Conclusion (O-type predicate) and also distributed in Premise 1 (A-type subject) → No illicit process → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and conclusion negative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form AOO-2 with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are no rocks that can be classified as plants. Some granite is included in the category of rocks. Consequently, it follows that some granite is not plants."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: granite\n- M: rocks\n- P: plants\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"rocks\") is distributed in Premise 1 (E-type subject) → Pass.\nStep 3: Illicit Process Rule: P (\"plants\") is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (E-type predicate) → Pass; S (\"granite\") is undistributed in Conclusion and premises → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EIO-1 (Ferio) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "The set of refrigerators and the set of pieces of furniture have nothing in common. All items that are sofas are pieces of furniture. Refrigerators are not sofas."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: refrigerators\n- M: pieces of furniture\n- P: sofas\n- Premise 1 Form: No S is M (E-type)\n- Premise 2 Form: All P are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 2 (M is Predicate in both premises).\nStep 2: Distributed Middle Rule: M (\"pieces of furniture\") is distributed in Premise 1 → Pass.\nStep 3: Illicit Process Rule: S (\"refrigerators\") and P (\"sofas\") are distributed in Conclusion and in their respective premises → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form EAE-2 (Cesare) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "There are some planets that are dogs. All things that are dogs are beings. Hence, it can be concluded that some beings are planets."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: beings\n- M: dogs\n- P: planets\n- Premise 1 Form: Some P are M (I-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1 and Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"dogs\") is distributed in Premise 2 (A-type subject) → Pass.\nStep 3: Illicit Process Rule: No term is distributed in the Conclusion (I-type), so no illicit process → Pass.\nStep 4: Negative Premises Rule: No negative premises and conclusion is affirmative → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the form IAI-4 (Dimaris) with no syllogistic rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Every bird is a fish. There are no fish which are sparrows. This necessarily suggests that some sparrows are not birds."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: sparrows\n- M: fish\n- P: birds\n- Premise 1 Form: All P are M (A-type)\n- Premise 2 Form: No M are S (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is Predicate in Premise 1, Subject in Premise 2).\nStep 2: Distributed Middle Rule: M (\"fish\") is distributed in Premise 2 → Pass.\nStep 3: Illicit Process Rule: P (\"birds\") is distributed in Conclusion (O-type predicate) and in Premise 1 (A-type subject) → Pass.\nStep 4: Negative Premises Rule: One negative premise (Premise 2) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: Follows the mood AEO-4 with no rule violations in the given steps."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "It is not true that any ocean is a continent. Every single thing that is an ocean named Pacific is an ocean. This means some oceans named Pacific are not continents."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: oceans named Pacific\n- M: oceans\n- P: continents\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: M (\"oceans\") is distributed in Premise 1 (E-type) → Pass.\nStep 3: Illicit Process Rule: P (\"continents\") is distributed in Conclusion (O-type predicate) and distributed in Premise 1 (E-type predicate) → Pass; S is undistributed in Conclusion, so no violation.\nStep 4: Negative Premises Rule: One negative premise (Premise 1) and negative conclusion → Pass.\n</think>\n\nValidity Conclusion: Valid: No violations of the distributed middle, illicit process, or negative premises rules."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Some Jins are Huts. All Jins are Mops. Therefore, some Mops are Huts."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: Mops\n- M: Jins\n- P: Huts\n- Premise 1 Form: Some M are P (I-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 2 as the subject of an A-type proposition).\nStep 3: Illicit Process Rule: Pass (Conclusion is I-type with no distributed terms, so no illicit process occurs).\nStep 4: Negative Premises Rule: Pass (Both premises are affirmative, and the conclusion is affirmative).\n\nConflict Analysis:\n- Fact Check: No (The terms Jins, Huts, and Mops are arbitrary with no real-world referents, so the conclusion cannot be evaluated for factual truth based on common knowledge.)\n- Logic-Fact Conflict: No (Without a factual basis, there is no conflict between logical validity and real-world truth.)\n</think>\n\nValidity Conclusion: Valid: IAI-3 is a standard valid syllogism form with no rule violations in both modern and classical frameworks."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No Wibs are Nods. No Nods are Pams. Therefore, no Wibs are Pams."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: Wibs\n- M: Nods\n- P: Pams\n- Premise 1 Form: No S are M (E-type)\n- Premise 2 Form: No M are P (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 4 (M is predicate in first premise and subject in second premise).\nStep 2: Distributed Middle Rule: Pass (M is distributed in both premises as predicate of E and subject of E).\nStep 3: Illicit Process Rule: Pass (S and P are distributed in the conclusion and are distributed in their respective premises).\nStep 4: Negative Premises Rule: Fail (Both premises are negative, which violates syllogistic rules).\n\nConflict Analysis:\n- Fact Check: No (The terms \"Wibs,\" \"Nods,\" and \"Pams\" are nonsense words with no real-world referents, so common knowledge cannot verify the truth of the conclusion).\n- Logic-Fact Conflict: No (Since no fact check is possible, there is no conflict between logical validity and factual truth).\n</think>\n\nValidity Conclusion: Invalid: Two negative premises cannot yield a valid conclusion in any standard syllogistic framework."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All Fazzes are Lips. All Fazzes are Nops. Therefore, all Nops are Lips."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: Nops\n- M: Fazzes\n- P: Lips\n- Premise 1 Form: A-type (All M are P)\n- Premise 2 Form: A-type (All M are S)\n\nStep-by-Step Derivation:\nStep 1: Figure 3.\nStep 2: Distributed Middle Rule: Pass.\nStep 3: Illicit Process Rule: Fail.\nStep 4: Negative Premises Rule: Pass.\n\nConflict Analysis:\n- Fact Check: No. The terms \"Fazzes\", \"Lips\", and \"Nops\" are not real-world entities, so there is no common knowledge to verify the truth of \"all Nops are Lips\".\n- Logic-Fact Conflict: No. Since fact check is not possible, there is no conflict between logical validity and factual truth.\n</think>\n\nValidity Conclusion: Invalid: Illicit minor process – the minor term \"Nops\" is distributed in the conclusion but not in the premises."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All lemons are sour. All lemons are yellow. Therefore, all yellow things are sour."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: yellow things\n- M: lemons\n- P: sour\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All M are S (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 3.\nStep 2: Distributed Middle Rule: Pass.\nStep 3: Illicit Process Rule: Fail.\nStep 4: Negative Premises Rule: Pass.\n\nConflict Analysis:\n- Fact Check: Yes (the conclusion is false; not all yellow things, such as bananas, are sour).\n- Logic-Fact Conflict: No (the argument is invalid, so no conflict arises between validity and truth).\n</think>\n\nValidity Conclusion: Invalid: Illicit minor term (S is distributed in the conclusion but not in the premises)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All fish are swimmers. No humans are fish. Therefore, no humans are swimmers."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: humans\n- M: fish\n- P: swimmers\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is subject in Premise 1, predicate in Premise 2).\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1 as subject of A and in Premise 2 as predicate of E).\nStep 3: Illicit Process Rule: Fail (P is distributed in the E conclusion but not distributed in Premise 1 as predicate of A).\nStep 4: Negative Premises Rule: Pass (Conclusion is negative with exactly one negative premise).\n\nConflict Analysis:\n- Fact Check: Yes (Humans can swim, so conclusion \"no humans are swimmers\" is factually false).\n- Logic-Fact Conflict: No (The syllogism is invalid, so true premises do not guarantee a true conclusion).\n</think>\n\nValidity Conclusion: Invalid: Illicit major (P is distributed in conclusion but not in major premise)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All cobras are reptiles. All cobras are snakes. Therefore, all snakes are reptiles."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\n**Symbolic Conversion:**\n- S: snakes\n- M: cobras\n- P: reptiles\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: All M are S (A-type)\n\n**Step-by-Step Derivation:**\nStep 1: Figure 3 (M is subject in both premises).\nStep 2: Distributed Middle Rule: Pass (M is distributed in both premises as subject of universal affirmatives).\nStep 3: Illicit Process Rule: Fail (S is distributed in the conclusion \"All S are P\" but undistributed as predicate in Premise 2 \"All M are S\").\nStep 4: Negative Premises Rule: Pass (both premises are affirmative).\n\n**Conflict Analysis:**\n- Fact Check: Yes (all snakes are reptiles, which is a biological fact).\n- Logic-Fact Conflict: No (the conclusion is true independently, but the syllogism is logically invalid).\n\n**\n</think>\n\nValidity Conclusion: ** Invalid: Illicit minor; S is distributed in the conclusion but not in the premises, violating standard syllogistic rules in all frameworks.\n\n**"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All aquatic animals are swimmers. Some mammals are aquatic animals. Therefore, some mammals are swimmers."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: mammals\n- M: aquatic animals\n- P: swimmers\n- Premise 1 Form: A-type\n- Premise 2 Form: I-type\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass.\nStep 3: Illicit Process Rule: Pass.\nStep 4: Negative Premises Rule: Pass.\n\nConflict Analysis:\n- Fact Check: Yes (The conclusion \"some mammals are swimmers\" is factually true, as there are aquatic mammals like dolphins and whales.)\n- Logic-Fact Conflict: No (The syllogism is logically valid and the premises are true, leading to a true conclusion with no conflict.)\n</think>\n\nValidity Conclusion: Valid: AII-1 (Darii) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All fish are singers. All singers are made of cheese. Therefore, all fish are made of cheese."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: fish\n- M: singers\n- P: made of cheese\n- Premise 1 Form: All S are M (A-type)\n- Premise 2 Form: All M are P (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 2 as subject of A-type).\nStep 3: Illicit Process Rule: Pass (S is distributed in Premise 1 and conclusion, P is undistributed throughout).\nStep 4: Negative Premises Rule: Pass (Both premises are affirmative).\n\nConflict Analysis:\n- Fact Check: Yes (Conclusion is factually false; fish are not made of cheese).\n- Logic-Fact Conflict: Yes (Logic is valid but conclusion is false due to false premises).\n</think>\n\nValidity Conclusion: Valid: Follows AAA-1 (Barbara) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All integers are real numbers. All even numbers are integers. Therefore, some even numbers are not real numbers."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: even numbers\n- M: integers\n- P: real numbers\n- Premise 1 Form: A-type (All M are P)\n- Premise 2 Form: A-type (All S are M)\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1).\nStep 3: Illicit Process Rule: Fail (P is distributed in the O-type conclusion but not distributed in the premises).\nStep 4: Negative Premises Rule: Pass (no negative premises).\n\nConflict Analysis:\n- Fact Check: Yes (all even numbers are integers and all integers are real numbers, making the conclusion \"some even numbers are not real numbers\" false in reality).\n- Logic-Fact Conflict: No (the syllogism is invalid, so there is no conflict between valid logic and a false conclusion).\n</think>\n\nValidity Conclusion: Invalid due to illicit process of the major term P."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No reptiles exist. All lizards are reptiles. Therefore, no lizards exist."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: lizards\n- M: reptiles\n- P: things that exist\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: All S are M (A-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1 as an E-type proposition).\nStep 3: Illicit Process Rule: Pass (S is distributed in Premise 2 as an A-type subject, and P is distributed in Premise 1 as an E-type predicate, matching their distribution in the E-type conclusion).\nStep 4: Negative Premises Rule: Pass (only one negative premise, and the conclusion is negative, adhering to syllogistic rules).\n\nConflict Analysis:\n- Fact Check: Yes, because lizards are known to exist in reality, making the conclusion false.\n- Logic-Fact Conflict: Yes, the syllogism is logically valid, but the conclusion is false due to the false premise \"No reptiles exist.\"\n</think>\n\nValidity Conclusion: Valid: Follows EAE-1 (Camestres) with no rule violations in both Modern Boolean and Classical Aristotelian frameworks."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All gold is metal. No silver is gold. Therefore, no silver is metal."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\n**Symbolic Conversion:**\n- S: silver\n- M: gold\n- P: metal\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S are M (E-type)\n\n**Step-by-Step Derivation:**\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass.\nStep 3: Illicit Process Rule: Fail.\nStep 4: Negative Premises Rule: Pass.\n\n**Conflict Analysis:**\n- Fact Check: Yes (silver is a known metal, making the conclusion factually false).\n- Logic-Fact Conflict: No (the syllogism is invalid, so true premises can lead to a false conclusion without contradiction).\n\n**\n</think>\n\nValidity Conclusion: ** Invalid: Illicit process of the major term P, which is distributed in the conclusion but not in the premises.\n\n**"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "Some mammals are swimmers. Some swimmers are humans. Therefore, some humans are mammals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\n**Symbolic Conversion:**\n- S: humans\n- M: swimmers\n- P: mammals\n- Premise 1 Form: I-type (Some P are M)\n- Premise 2 Form: I-type (Some M are S)\n\n**Step-by-Step Derivation:**\nStep 1: Figure 4 (M is predicate in major premise and subject in minor premise).\nStep 2: Distributed Middle Rule: Fail (M is not distributed in either premise; I-type propositions distribute no terms).\nStep 3: Illicit Process Rule: Pass (No term is distributed in the I-type conclusion, so no illicit distribution).\nStep 4: Negative Premises Rule: Pass (Both premises are affirmative I-type).\n\n**Conflict Analysis:**\n- Fact Check: Yes (Humans are mammals, making the conclusion factually true).\n- Logic-Fact Conflict: No (The argument is logically invalid, but the conclusion is true independently; no conflict).\n\n**\n</think>\n\nValidity Conclusion: ** Invalid due to undistributed middle term in Figure 4, violating a fundamental syllogistic rule in all standard frameworks.\n\n**"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All computers are vegetables. Some frogs are computers. Therefore, some frogs are vegetables."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: frogs\n- M: computers\n- P: vegetables\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is Subject in Premise 1, Predicate in Premise 2).\nStep 2: Distributed Middle Rule: Pass (M \"computers\" is distributed in Premise 1).\nStep 3: Illicit Process Rule: Pass (No term is distributed in the I-type conclusion).\nStep 4: Negative Premises Rule: Pass (Both premises are affirmative).\n\nConflict Analysis:\n- Fact Check: Yes (Frogs are not vegetables, so conclusion is factually false).\n- Logic-Fact Conflict: Yes (Valid logic but false conclusion due to false premises).\n</think>\n\nValidity Conclusion: Valid: Follows AII-1 (Darii) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All apples are fruit. No oranges are apples. Therefore, no oranges are fruit."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: oranges\n- M: apples\n- P: fruit\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: No S are M (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1 as subject of A and in Premise 2 as predicate of E).\nStep 3: Illicit Process Rule: Fail (P is distributed in the conclusion but undistributed in Premise 1).\nStep 4: Negative Premises Rule: Pass (only one negative premise).\n\nConflict Analysis:\n- Fact Check: Yes (oranges are a type of fruit, so the conclusion is factually false).\n- Logic-Fact Conflict: No (invalid logic and false conclusion, no conflict).\n</think>\n\nValidity Conclusion: Invalid: Illicit process of the major term P (distributed in conclusion but not in premise)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All robots have souls. No things with souls are machines. Therefore, no robots are machines."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: robots\n- M: soul-bearers (things with souls)\n- P: machines\n- Premise 1 Form: All S are M (A-type)\n- Premise 2 Form: No M are P (E-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is subject in major premise, predicate in minor premise).\nStep 2: Distributed Middle Rule: Pass (M is distributed as subject in Premise 2, E-type).\nStep 3: Illicit Process Rule: Pass (S is distributed in Premise 1, A-type; P is distributed in Premise 2, E-type; both are distributed in the conclusion).\nStep 4: Negative Premises Rule: Pass (Only one negative premise, Premise 2, and conclusion is negative).\n\nConflict Analysis:\n- Fact Check: Yes (Conclusion \"no robots are machines\" is factually false because robots are universally recognized as machines).\n- Logic-Fact Conflict: Yes (The syllogism is logically valid, but the conclusion is false due to the false premise \"All robots have souls\").\n</think>\n\nValidity Conclusion: Valid: EAE-1 (Celarent) with no rule violations in standard syllogistic frameworks."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No mammals are insects. Some flying creatures are mammals. Therefore, some flying creatures are not insects."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: flying creatures\n- M: mammals\n- P: insects\n- Premise 1 Form: No M are P (E-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is subject in Premise 1, predicate in Premise 2).\nStep 2: Distributed Middle Rule: Pass (M \"mammals\" is distributed in Premise 1).\nStep 3: Illicit Process Rule: Pass (P \"insects\" is distributed in the conclusion and in Premise 1).\nStep 4: Negative Premises Rule: Pass (One negative premise yields a negative conclusion).\n\nConflict Analysis:\n- Fact Check: Yes (The conclusion is factually true; e.g., bats are flying mammals and not insects).\n- Logic-Fact Conflict: No (Valid logic and true conclusion align).\n</think>\n\nValidity Conclusion: Valid: EIO-1 is a standard valid form in both classical and modern frameworks."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No mammals are animals. All dogs are mammals. Therefore, no dogs are animals."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: dogs\n- M: mammals\n- P: animals\n- Premise 1 Form: E-type\n- Premise 2 Form: A-type\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1 \"No M are P\").\nStep 3: Illicit Process Rule: Pass (S and P are distributed in premises: S in Premise 2, P in Premise 1).\nStep 4: Negative Premises Rule: Pass (Only Premise 1 is negative).\n\nConflict Analysis:\n- Fact Check: Yes (Conclusion is false because dogs are mammals and mammals are animals, so dogs are animals).\n- Logic-Fact Conflict: Yes (Syllogism is logically valid but conclusion is false due to false Premise 1).\n</think>\n\nValidity Conclusion: Valid: EAE-1 (Celarent) with no rule violations in any standard framework."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All logic students are intelligent. Some people are logic students. Therefore, all people are intelligent."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: people\n- M: logic students\n- P: intelligent\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1 as the subject of an A-proposition).\nStep 3: Illicit Process Rule: Fail (S is distributed in the conclusion as the subject of an A-proposition but not distributed in Premise 2, an I-proposition).\nStep 4: Negative Premises Rule: Pass (Both premises are affirmative).\n\nConflict Analysis:\n- Fact Check: Yes (The conclusion \"All people are intelligent\" is factually false by common knowledge).\n- Logic-Fact Conflict: No (The syllogism is logically invalid, and the conclusion is false, so no conflict).\n</think>\n\nValidity Conclusion: Invalid: Illicit process; S is distributed in the conclusion but not in the premises."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "All physicists are scientists. Some teachers are physicists. Therefore, some teachers are scientists."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: teachers\n- M: physicists\n- P: scientists\n- Premise 1 Form: All M are P (A-type)\n- Premise 2 Form: Some S are M (I-type)\n\nStep-by-Step Derivation:\nStep 1: Figure 1 (M is subject in Premise 1, predicate in Premise 2).\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1 as subject of a universal affirmative).\nStep 3: Illicit Process Rule: Pass (No term is distributed in the particular affirmative conclusion).\nStep 4: Negative Premises Rule: Pass (Both premises are affirmative).\n\nConflict Analysis:\n- Fact Check: Yes (It is true that some teachers are scientists, as many teachers, such as physics professors, are also scientists.)\n- Logic-Fact Conflict: No (The argument is logically valid and the premises are true, so the conclusion is necessarily true.)\n</think>\n\nValidity Conclusion: Valid: AII-1 (Darii) with no rule violations."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a strict logician. Analyze the syllogism using classical rules. Do not consider real-world facts."
+      },
+      {
+        "from": "human",
+        "value": "No Glims are Pux. Some Horks are Glims. Therefore, some Horks are not Pux."
+      },
+      {
+        "from": "gpt",
+        "value": "<think>\nSymbolic Conversion:\n- S: Horks\n- M: Glims\n- P: Pux\n- Premise 1 Form: E-type\n- Premise 2 Form: I-type\n\nStep-by-Step Derivation:\nStep 1: Figure 1.\nStep 2: Distributed Middle Rule: Pass (M is distributed in Premise 1 as subject of E-type).\nStep 3: Illicit Process Rule: Pass (P is distributed in conclusion and in Premise 1 as predicate of E-type).\nStep 4: Negative Premises Rule: Pass (Only Premise 1 is negative).\n\nConflict Analysis:\n- Fact Check: No, because the terms \"Horks,\" \"Glims,\" and \"Pux\" are fictional, and there is no common knowledge to assess the truth of the conclusion in the real world.\n- Logic-Fact Conflict: No, as no factual error is identified due to the absence of real-world referents.\n</think>\n\nValidity Conclusion: Valid: EIO-1 (Ferio) is a standard valid syllogistic form with no rule violations."
+      }
+    ]
+  }
+]
