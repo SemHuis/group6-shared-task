@@ -1,8 +1,8 @@
 # Sylloscope: DeepSeek-Enhanced Distillation for Logical Reasoning
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache-2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Official implementation of our SemEval-2026 Task 11 system: *Sylloscope - Decoupling Logic from Belief via DeepSeek-Enhanced Distillation in Qwen Models*.
+Implementation of our SemEval-2026 Task 11 system: *Sylloscope - Decoupling Logic from Belief via DeepSeek-Enhanced Distillation in Qwen Models*.
 
 ---
 
@@ -12,7 +12,7 @@ This project implements a neuro-symbolic teacher-student framework for syllogist
 
 **Team**: Zhanyu Chen, María Teresa Muñoz Martín, Sem Huisman, Jingjing Lan  
 **Institution**: University of Groningen, Netherlands  
-**Task**: [SemEval-2026 Task 11](https://semeval.github.io/SemEval2026/tasks) - Disentangling Content and Formal Reasoning in LLMs  
+**Task**: [SemEval-2026 Task 11](https://sites.google.com/view/semeval-2026-task-11) - Disentangling Content and Formal Reasoning in LLMs  
 
 **Repository**: https://github.com/SemHuis/group6-shared-task (branch: `deepseek-distillation`)
 
@@ -20,7 +20,10 @@ This project implements a neuro-symbolic teacher-student framework for syllogist
 
 ## 📊 Results
 
-Results will be updated after training completes.
+| Model | Experiment | TCE | Accuracy | Score |
+|------------|------|--------|---------|-------------|
+| Qwen-3 14B | Dataset 2 | 3.19 | 96.86 | 39.81 |
+
 
 *See [Paper](paper.pdf) for the full experimental details and findings.*
 
@@ -228,10 +231,10 @@ This project is licensed under the Apache-2.0 License - see [LICENSE](LICENSE) f
 
 ## 🔗 Related Links
 
-- **Task homepage**: https://semeval.github.io/SemEval2026/tasks
 - **LLaMA-Factory**: https://github.com/hiyouga/LLaMA-Factory
 - **DeepSeek**: https://github.com/deepseek-ai/DeepSeek
 - **Qwen**: https://github.com/QwenLM
+- **Task homepage**: https://sites.google.com/view/semeval-2026-task-11
 
 ---
 
@@ -251,4 +254,4 @@ The scripts automatically activate `envs/llama_factory_v1/bin/activate`. If you 
 
 ---
 
-**Last updated**: 2026-03-11
+**Last updated**: 2026-04-26
